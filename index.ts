@@ -39,7 +39,7 @@ async function fetchAllPages() {
   let page = 1;
   const assets: KenneyAssetPreview[] = [];
   while (true) {
-    const fetchedAssets = await fetchAssets(page).catch(() => []);
+    const fetchedAssets = await fetchAssets(page);
     if (fetchedAssets.length === 0) break;
     assets.push(...fetchedAssets);
     console.log(`Found ${assets.length} assets on page ${page}`);
@@ -146,11 +146,7 @@ type KenneyAsset = Awaited<ReturnType<typeof fetchAssetPage>>;
 const allAssets: KenneyAsset[] = [];
 
 for (const preview of previews) {
-  const asset = await fetchAssetPage(preview.url).catch(() => null);
-  if (!asset) {
-    console.error(`Failed to parse ${preview.title} asset`);
-    continue;
-  }
+  const asset = await fetchAssetPage(preview.url);
   console.log(`Parsed full ${asset.title} asset`);
   writeFileSync(`data/full/${asset.slug}.json`, JSON.stringify(asset));
   allAssets.push(asset);
