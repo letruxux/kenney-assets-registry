@@ -123,6 +123,8 @@ async function fetchAssetPage(url: string) {
 
   updates.sort((a, b) => (a.date?.getTime() ?? 0) - (b.date?.getTime() ?? 0));
 
+  const downloadUrl = $("a#donate-text").attr("href");
+
   const createdAt = updates[0]?.date ?? null;
   const updatedAt = updates[updates.length - 1]?.date ?? null;
   const version = updates[updates.length - 1]?.name ?? null;
@@ -132,7 +134,16 @@ async function fetchAssetPage(url: string) {
     version,
   };
 
-  return { title, meta, updates, _extracted, _raw_meta: rawMeta, slug, images };
+  return {
+    title,
+    meta,
+    updates,
+    _extracted,
+    _raw_meta: rawMeta,
+    slug,
+    images,
+    download_url: downloadUrl,
+  };
 }
 
 type KenneyAssetPreview = Awaited<ReturnType<typeof fetchAssets>>[number];
@@ -140,15 +151,16 @@ type KenneyAsset = Awaited<ReturnType<typeof fetchAssetPage>>;
 
 async function main() {
   const previews = await fetchAllPages().then((data) => {
-    writeFileSync("assets-previews.json", JSON.stringify(data));
+    writeFileSync("data/assets-previews.json", JSON.stringify(data));
     return data;
   });
 
   const allAssets: KenneyAsset[] = [];
 
-  for (const preview of previews) {
+  for (const preview of previews.slice(0, 1)) {
     const asset = await fetchAssetPage(preview.url);
-    writeFileSync(`data/full/${asset.slug}.json`, JSON.stringify(asset));
+    const targetPath = `data/full/${asset.slug}.json`;
+    writeFileSync(targetPath, JSON.stringify(asset));
     allAssets.push(asset);
   }
 
