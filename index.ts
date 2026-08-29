@@ -121,7 +121,7 @@ async function fetchAssetPage(url: string) {
 
   const slug = new URL(url).pathname.split("/").pop();
 
-  updates.sort((a, b) => (b.date?.getTime() ?? 0) - (a.date?.getTime() ?? 0));
+  updates.sort((a, b) => (a.date?.getTime() ?? 0) - (b.date?.getTime() ?? 0));
 
   const createdAt = updates[0]?.date ?? null;
   const updatedAt = updates[updates.length - 1]?.date ?? null;
@@ -135,21 +135,29 @@ async function fetchAssetPage(url: string) {
   return { title, meta, updates, _extracted, _raw_meta: rawMeta, slug, images };
 }
 
-const previews = await fetchAllPages().then((data) => {
-  writeFileSync("assets-previews.json", JSON.stringify(data));
-  return data;
-});
-
 type KenneyAssetPreview = Awaited<ReturnType<typeof fetchAssets>>[number];
 type KenneyAsset = Awaited<ReturnType<typeof fetchAssetPage>>;
 
-const allAssets: KenneyAsset[] = [];
+async function main() {
+  const previews = await fetchAllPages().then((data) => {
+    writeFileSync("assets-previews.json", JSON.stringify(data));
+    return data;
+  });
 
-for (const preview of previews) {
-  const asset = await fetchAssetPage(preview.url);
-  console.log(`Parsed full ${asset.title} asset`);
-  writeFileSync(`data/full/${asset.slug}.json`, JSON.stringify(asset));
-  allAssets.push(asset);
+  const allAssets: KenneyAsset[] = [];
+
+  for (const preview of previews.slice(0, 1)) {
+    const asset = await fetchAssetPage(preview.url);
+    writeFileSync(`data/full/${asset.slug}.json`, JSON.stringify(asset));
+    allAssets.push(asset);
+  }
+
+  allAssets.sort(
+    (a, b) =>
+      (b._extracted.updatedAt?.getTime() ?? 0) - (a._extracted.updatedAt?.getTime() ?? 0),
+  );
+
+  writeFileSync("data/all.json", JSON.stringify(allAssets));
 }
 
-writeFileSync("data/all.json", JSON.stringify(allAssets));
+main();
