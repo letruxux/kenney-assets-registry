@@ -146,7 +146,7 @@ async function main() {
 
   const allAssets: KenneyAsset[] = [];
 
-  for (const preview of previews.slice(0, 1)) {
+  for (const preview of previews) {
     const asset = await fetchAssetPage(preview.url);
     writeFileSync(`data/full/${asset.slug}.json`, JSON.stringify(asset));
     allAssets.push(asset);
