@@ -1,4 +1,4 @@
 # kenney.nl assets registry
 
 ## todo
-add download url
+make indented and minified versions
