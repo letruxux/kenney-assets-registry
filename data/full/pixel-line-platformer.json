@@ -1,1 +1,40 @@
-{"title":"Pixel Line Platformer","meta":{"Tags":["platformer","godot","pixel"],"Category":"2D","Series":"","Tile size":"16 × 16","Files":60,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-08-15T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-08-15T00:00:00.000Z","updatedAt":"2021-08-15T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:godot\" class=\"tag\">godot</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"60×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pixel-line-platformer","images":["https://kenney.nl/media/pages/assets/pixel-line-platformer/5a6088c664-1677495833/preview.png","https://kenney.nl/media/pages/assets/pixel-line-platformer/5fd5972410-1677495836/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pixel-line-platformer/160da639da-1677495839/kenney_pixel-line-platformer.zip"}
+{
+  "title": "Pixel Line Platformer",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "godot",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Tile size": "16 × 16",
+    "Files": 60,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-08-15T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-08-15T00:00:00.000Z",
+    "updatedAt": "2021-08-15T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:godot\" class=\"tag\">godot</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "60×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pixel-line-platformer",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pixel-line-platformer/5a6088c664-1677495833/preview.png",
+    "https://kenney.nl/media/pages/assets/pixel-line-platformer/5fd5972410-1677495836/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pixel-line-platformer/160da639da-1677495839/kenney_pixel-line-platformer.zip"
+}

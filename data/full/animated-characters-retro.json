@@ -1,1 +1,38 @@
-{"title":"Animated Characters Retro","meta":{"Tags":["character","zombie","survivor","survival"],"Category":"3D","Series":"Animated Characters","Files":8,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2022","date":"2022-09-12T00:00:00.000Z"}],"_extracted":{"createdAt":"2022-09-12T00:00:00.000Z","updatedAt":"2022-09-12T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:zombie\" class=\"tag\">zombie</a><a href=\"https://kenney.nl/assets/tag:survivor\" class=\"tag\">survivor</a><a href=\"https://kenney.nl/assets/tag:survival\" class=\"tag\">survival</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Animated Characters\">Animated Characters</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"8×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"animated-characters-retro","images":["https://kenney.nl/media/pages/assets/animated-characters-retro/a25bc0a3d2-1670690130/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/animated-characters-retro/93305a3c49-1774772819/kenney_animated-characters-retro.zip"}
+{
+  "title": "Animated Characters Retro",
+  "meta": {
+    "Tags": [
+      "character",
+      "zombie",
+      "survivor",
+      "survival"
+    ],
+    "Category": "3D",
+    "Series": "Animated Characters",
+    "Files": 8,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-09-12T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-09-12T00:00:00.000Z",
+    "updatedAt": "2022-09-12T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:zombie\" class=\"tag\">zombie</a><a href=\"https://kenney.nl/assets/tag:survivor\" class=\"tag\">survivor</a><a href=\"https://kenney.nl/assets/tag:survival\" class=\"tag\">survival</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Animated Characters\">Animated Characters</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "8×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "animated-characters-retro",
+  "images": [
+    "https://kenney.nl/media/pages/assets/animated-characters-retro/a25bc0a3d2-1670690130/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/animated-characters-retro/93305a3c49-1774772819/kenney_animated-characters-retro.zip"
+}

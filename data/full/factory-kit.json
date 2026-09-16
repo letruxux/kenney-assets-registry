@@ -1,1 +1,66 @@
-{"title":"Factory Kit","meta":{"Tags":["conveyor","belt","industrial","warehouse","factory"],"Category":"3D","Series":"","Features":["🎨Variation(s)","🎞️Animation"],"Files":140,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2023","date":"2023-02-14T00:00:00.000Z"},{"name":"2.0","description":"Color map, color variations","date":"2023-10-31T00:00:00.000Z"},{"name":"2.1","description":"Minor smoothing fixes","date":"2024-01-07T00:00:00.000Z"},{"name":"2.2","description":"More details, new models","date":"2026-04-16T00:00:00.000Z"},{"name":"3.0","description":"Completely remade","date":"2026-05-01T00:00:00.000Z"}],"_extracted":{"createdAt":"2023-02-14T00:00:00.000Z","updatedAt":"2026-05-01T00:00:00.000Z","version":"3.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:belt\" class=\"tag\">belt</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"140×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"factory-kit","images":["https://kenney.nl/media/pages/assets/factory-kit/f882243835-1777639585/preview.png","https://kenney.nl/media/pages/assets/factory-kit/7e1e831724-1777639590/sample.png","https://kenney.nl/media/pages/assets/factory-kit/9b9bac66e5-1777639596/preview-variation-a.png"],"download_url":"https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip"}
+{
+  "title": "Factory Kit",
+  "meta": {
+    "Tags": [
+      "conveyor",
+      "belt",
+      "industrial",
+      "warehouse",
+      "factory"
+    ],
+    "Category": "3D",
+    "Series": "",
+    "Features": [
+      "🎨Variation(s)",
+      "🎞️Animation"
+    ],
+    "Files": 140,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2023",
+      "date": "2023-02-14T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Color map, color variations",
+      "date": "2023-10-31T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Minor smoothing fixes",
+      "date": "2024-01-07T00:00:00.000Z"
+    },
+    {
+      "name": "2.2",
+      "description": "More details, new models",
+      "date": "2026-04-16T00:00:00.000Z"
+    },
+    {
+      "name": "3.0",
+      "description": "Completely remade",
+      "date": "2026-05-01T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2023-02-14T00:00:00.000Z",
+    "updatedAt": "2026-05-01T00:00:00.000Z",
+    "version": "3.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:belt\" class=\"tag\">belt</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "140×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "factory-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/factory-kit/f882243835-1777639585/preview.png",
+    "https://kenney.nl/media/pages/assets/factory-kit/7e1e831724-1777639590/sample.png",
+    "https://kenney.nl/media/pages/assets/factory-kit/9b9bac66e5-1777639596/preview-variation-a.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip"
+}

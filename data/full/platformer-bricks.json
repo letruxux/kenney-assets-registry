@@ -1,1 +1,38 @@
-{"title":"Platformer Bricks","meta":{"Tags":["platformer","brick","landscape"],"Category":"2D","Series":"","Files":150,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2013","date":"2013-12-01T00:00:00.000Z"}],"_extracted":{"createdAt":"2013-12-01T00:00:00.000Z","updatedAt":"2013-12-01T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:brick\" class=\"tag\">brick</a><a href=\"https://kenney.nl/assets/tag:landscape\" class=\"tag\">landscape</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"150×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"platformer-bricks","images":["https://kenney.nl/media/pages/assets/platformer-bricks/1df05b30c6-1677668011/preview.png","https://kenney.nl/media/pages/assets/platformer-bricks/32780c823f-1677668014/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/platformer-bricks/b119bbd7a7-1677668020/kenney_platformer-bricks.zip"}
+{
+  "title": "Platformer Bricks",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "brick",
+      "landscape"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 150,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2013",
+      "date": "2013-12-01T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2013-12-01T00:00:00.000Z",
+    "updatedAt": "2013-12-01T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:brick\" class=\"tag\">brick</a><a href=\"https://kenney.nl/assets/tag:landscape\" class=\"tag\">landscape</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "150×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "platformer-bricks",
+  "images": [
+    "https://kenney.nl/media/pages/assets/platformer-bricks/1df05b30c6-1677668011/preview.png",
+    "https://kenney.nl/media/pages/assets/platformer-bricks/32780c823f-1677668014/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/platformer-bricks/b119bbd7a7-1677668020/kenney_platformer-bricks.zip"
+}

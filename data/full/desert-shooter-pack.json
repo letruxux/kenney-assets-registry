@@ -1,1 +1,42 @@
-{"title":"Desert Shooter Pack","meta":{"Tags":["shooter","roguelike","pixel","ui"],"Category":"2D","Series":"","Tile size":"16 × 16","Files":500,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2025","date":"2025-09-25T00:00:00.000Z"}],"_extracted":{"createdAt":"2025-09-25T00:00:00.000Z","updatedAt":"2025-09-25T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:shooter\" class=\"tag\">shooter</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:ui\" class=\"tag\">ui</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"500×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"desert-shooter-pack","images":["https://kenney.nl/media/pages/assets/desert-shooter-pack/6f8fe895c0-1758814235/preview.png","https://kenney.nl/media/pages/assets/desert-shooter-pack/a6ead20778-1758814237/sample-a.png","https://kenney.nl/media/pages/assets/desert-shooter-pack/a04d6849e9-1758814240/sample-b.png"],"download_url":"https://kenney.nl/media/pages/assets/desert-shooter-pack/ca69c66653-1758814247/kenney_desert-shooter-pack_1.0.zip"}
+{
+  "title": "Desert Shooter Pack",
+  "meta": {
+    "Tags": [
+      "shooter",
+      "roguelike",
+      "pixel",
+      "ui"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Tile size": "16 × 16",
+    "Files": 500,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2025",
+      "date": "2025-09-25T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2025-09-25T00:00:00.000Z",
+    "updatedAt": "2025-09-25T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:shooter\" class=\"tag\">shooter</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:ui\" class=\"tag\">ui</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "500×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "desert-shooter-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/desert-shooter-pack/6f8fe895c0-1758814235/preview.png",
+    "https://kenney.nl/media/pages/assets/desert-shooter-pack/a6ead20778-1758814237/sample-a.png",
+    "https://kenney.nl/media/pages/assets/desert-shooter-pack/a04d6849e9-1758814240/sample-b.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/desert-shooter-pack/ca69c66653-1758814247/kenney_desert-shooter-pack_1.0.zip"
+}

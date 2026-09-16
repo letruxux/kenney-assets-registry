@@ -1,1 +1,37 @@
-{"title":"Isometric Miniature Farm","meta":{"Tags":["farm","isometric"],"Category":"2D","Series":"Isometric Miniature","Files":60,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2019","date":"2019-02-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2019-02-22T00:00:00.000Z","updatedAt":"2019-02-22T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:farm\" class=\"tag\">farm</a><a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"60×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"isometric-miniature-farm","images":["https://kenney.nl/media/pages/assets/isometric-miniature-farm/b7e7fe43e6-1670690278/preview.png","https://kenney.nl/media/pages/assets/isometric-miniature-farm/a627feea96-1670690281/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/isometric-miniature-farm/abd0274182-1670690319/kenney_isometric-miniature-farm.zip"}
+{
+  "title": "Isometric Miniature Farm",
+  "meta": {
+    "Tags": [
+      "farm",
+      "isometric"
+    ],
+    "Category": "2D",
+    "Series": "Isometric Miniature",
+    "Files": 60,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2019",
+      "date": "2019-02-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2019-02-22T00:00:00.000Z",
+    "updatedAt": "2019-02-22T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:farm\" class=\"tag\">farm</a><a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "60×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "isometric-miniature-farm",
+  "images": [
+    "https://kenney.nl/media/pages/assets/isometric-miniature-farm/b7e7fe43e6-1670690278/preview.png",
+    "https://kenney.nl/media/pages/assets/isometric-miniature-farm/a627feea96-1670690281/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-farm/abd0274182-1670690319/kenney_isometric-miniature-farm.zip"
+}

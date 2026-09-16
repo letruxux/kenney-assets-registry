@@ -1,1 +1,47 @@
-{"title":"New Platformer Pack","meta":{"Tags":["platformer","tile","character","oopi"],"Category":"2D","Series":"","Files":440,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2025","date":"2025-05-06T00:00:00.000Z"},{"name":"1.1","description":"Fixed hair and spritesheets","date":"2025-12-03T00:00:00.000Z"}],"_extracted":{"createdAt":"2025-05-06T00:00:00.000Z","updatedAt":"2025-12-03T00:00:00.000Z","version":"1.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"440×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"new-platformer-pack","images":["https://kenney.nl/media/pages/assets/new-platformer-pack/22ae1c8d57-1746559478/preview-tiles.png","https://kenney.nl/media/pages/assets/new-platformer-pack/c800fc722c-1764756711/preview-characters.png","https://kenney.nl/media/pages/assets/new-platformer-pack/e659f3b5ea-1746559478/preview-backgrounds.png","https://kenney.nl/media/pages/assets/new-platformer-pack/85e6d78737-1746559490/sample-a.png","https://kenney.nl/media/pages/assets/new-platformer-pack/3547f2c9bb-1746559490/sample-b.png"],"download_url":"https://kenney.nl/media/pages/assets/new-platformer-pack/1896103897-1764756702/kenney_new-platformer-pack-1.1.zip"}
+{
+  "title": "New Platformer Pack",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "tile",
+      "character",
+      "oopi"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 440,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2025",
+      "date": "2025-05-06T00:00:00.000Z"
+    },
+    {
+      "name": "1.1",
+      "description": "Fixed hair and spritesheets",
+      "date": "2025-12-03T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2025-05-06T00:00:00.000Z",
+    "updatedAt": "2025-12-03T00:00:00.000Z",
+    "version": "1.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "440×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "new-platformer-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/new-platformer-pack/22ae1c8d57-1746559478/preview-tiles.png",
+    "https://kenney.nl/media/pages/assets/new-platformer-pack/c800fc722c-1764756711/preview-characters.png",
+    "https://kenney.nl/media/pages/assets/new-platformer-pack/e659f3b5ea-1746559478/preview-backgrounds.png",
+    "https://kenney.nl/media/pages/assets/new-platformer-pack/85e6d78737-1746559490/sample-a.png",
+    "https://kenney.nl/media/pages/assets/new-platformer-pack/3547f2c9bb-1746559490/sample-b.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/new-platformer-pack/1896103897-1764756702/kenney_new-platformer-pack-1.1.zip"
+}

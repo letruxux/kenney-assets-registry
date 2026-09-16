@@ -1,1 +1,43 @@
-{"title":"Board Game Icons","meta":{"Tags":["board","icon","card","interface"],"Category":"2D","Series":"Board Games","Files":250,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2022","date":"2022-01-10T00:00:00.000Z"},{"name":"1.1","description":"Small fixes","date":"2024-07-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2022-01-10T00:00:00.000Z","updatedAt":"2024-07-22T00:00:00.000Z","version":"1.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:board\" class=\"tag\">board</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"tag\">icon</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"tag\">card</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"250×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"board-game-icons","images":["https://kenney.nl/media/pages/assets/board-game-icons/d5c5bd2f28-1674933139/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/board-game-icons/19cae04050-1721645690/kenney_board-game-icons.zip"}
+{
+  "title": "Board Game Icons",
+  "meta": {
+    "Tags": [
+      "board",
+      "icon",
+      "card",
+      "interface"
+    ],
+    "Category": "2D",
+    "Series": "Board Games",
+    "Files": 250,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-01-10T00:00:00.000Z"
+    },
+    {
+      "name": "1.1",
+      "description": "Small fixes",
+      "date": "2024-07-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-01-10T00:00:00.000Z",
+    "updatedAt": "2024-07-22T00:00:00.000Z",
+    "version": "1.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:board\" class=\"tag\">board</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"tag\">icon</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"tag\">card</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "250×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "board-game-icons",
+  "images": [
+    "https://kenney.nl/media/pages/assets/board-game-icons/d5c5bd2f28-1674933139/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/board-game-icons/19cae04050-1721645690/kenney_board-game-icons.zip"
+}

@@ -1,1 +1,39 @@
-{"title":"Roguelike Indoors","meta":{"Tags":["rpg","building","roguelike","pixel"],"Category":"2D","Series":"","Files":480,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2015","date":"2015-06-04T00:00:00.000Z"}],"_extracted":{"createdAt":"2015-06-04T00:00:00.000Z","updatedAt":"2015-06-04T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"480×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"roguelike-indoors","images":["https://kenney.nl/media/pages/assets/roguelike-indoors/4f2d43f4e1-1702169574/preview.png","https://kenney.nl/media/pages/assets/roguelike-indoors/3c041db86f-1677694884/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/roguelike-indoors/4d5b520b03-1702169567/kenney_roguelike-indoors.zip"}
+{
+  "title": "Roguelike Indoors",
+  "meta": {
+    "Tags": [
+      "rpg",
+      "building",
+      "roguelike",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 480,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2015",
+      "date": "2015-06-04T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2015-06-04T00:00:00.000Z",
+    "updatedAt": "2015-06-04T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "480×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "roguelike-indoors",
+  "images": [
+    "https://kenney.nl/media/pages/assets/roguelike-indoors/4f2d43f4e1-1702169574/preview.png",
+    "https://kenney.nl/media/pages/assets/roguelike-indoors/3c041db86f-1677694884/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/roguelike-indoors/4d5b520b03-1702169567/kenney_roguelike-indoors.zip"
+}

@@ -1,1 +1,39 @@
-{"title":"Space Shooter Remastered","meta":{"Tags":["vehicle","space","weapon","laser"],"Category":"2D","Series":"","Files":295,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2014","date":"2014-01-29T00:00:00.000Z"}],"_extracted":{"createdAt":"2014-01-29T00:00:00.000Z","updatedAt":"2014-01-29T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"tag\">weapon</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"tag\">laser</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"295×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"space-shooter-remastered","images":["https://kenney.nl/media/pages/assets/space-shooter-remastered/41561bfade-1677669432/preview.png","https://kenney.nl/media/pages/assets/space-shooter-remastered/3a292e0d18-1677669436/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/space-shooter-remastered/2cbf3c45c8-1774771931/kenney_space-shooter-remastered.zip"}
+{
+  "title": "Space Shooter Remastered",
+  "meta": {
+    "Tags": [
+      "vehicle",
+      "space",
+      "weapon",
+      "laser"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 295,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2014",
+      "date": "2014-01-29T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2014-01-29T00:00:00.000Z",
+    "updatedAt": "2014-01-29T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"tag\">weapon</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"tag\">laser</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "295×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "space-shooter-remastered",
+  "images": [
+    "https://kenney.nl/media/pages/assets/space-shooter-remastered/41561bfade-1677669432/preview.png",
+    "https://kenney.nl/media/pages/assets/space-shooter-remastered/3a292e0d18-1677669436/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/space-shooter-remastered/2cbf3c45c8-1774771931/kenney_space-shooter-remastered.zip"
+}

@@ -1,1 +1,41 @@
-{"title":"Monochrome Pirates","meta":{"Tags":["pirate","pixel","monochrome"],"Category":"2D","Series":"Monochrome","Tile size":"16 × 16","Files":130,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2023","date":"2023-11-29T00:00:00.000Z"}],"_extracted":{"createdAt":"2023-11-29T00:00:00.000Z","updatedAt":"2023-11-29T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:monochrome\" class=\"tag\">monochrome</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Monochrome\">Monochrome</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"130×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"monochrome-pirates","images":["https://kenney.nl/media/pages/assets/monochrome-pirates/00fdf33e09-1701252750/preview.png","https://kenney.nl/media/pages/assets/monochrome-pirates/3565208dc7-1701252754/sample-a.png","https://kenney.nl/media/pages/assets/monochrome-pirates/5d98937b81-1701252757/sample-b.png"],"download_url":"https://kenney.nl/media/pages/assets/monochrome-pirates/1b6c3591dd-1701252760/kenney_monochrome-pirates.zip"}
+{
+  "title": "Monochrome Pirates",
+  "meta": {
+    "Tags": [
+      "pirate",
+      "pixel",
+      "monochrome"
+    ],
+    "Category": "2D",
+    "Series": "Monochrome",
+    "Tile size": "16 × 16",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2023",
+      "date": "2023-11-29T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2023-11-29T00:00:00.000Z",
+    "updatedAt": "2023-11-29T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:monochrome\" class=\"tag\">monochrome</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Monochrome\">Monochrome</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "monochrome-pirates",
+  "images": [
+    "https://kenney.nl/media/pages/assets/monochrome-pirates/00fdf33e09-1701252750/preview.png",
+    "https://kenney.nl/media/pages/assets/monochrome-pirates/3565208dc7-1701252754/sample-a.png",
+    "https://kenney.nl/media/pages/assets/monochrome-pirates/5d98937b81-1701252757/sample-b.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/monochrome-pirates/1b6c3591dd-1701252760/kenney_monochrome-pirates.zip"
+}

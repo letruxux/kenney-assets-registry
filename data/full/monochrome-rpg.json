@@ -1,1 +1,41 @@
-{"title":"Monochrome RPG","meta":{"Tags":["rpg","roguelike","monochrome","pixel"],"Category":"2D","Series":"Monochrome","Tile size":"16 × 16","Files":130,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-11-01T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-11-01T00:00:00.000Z","updatedAt":"2021-11-01T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:monochrome\" class=\"tag\">monochrome</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Monochrome\">Monochrome</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"130×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"monochrome-rpg","images":["https://kenney.nl/media/pages/assets/monochrome-rpg/08b893d09f-1674742614/preview.png","https://kenney.nl/media/pages/assets/monochrome-rpg/eec112fdaa-1674742616/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/monochrome-rpg/03f49efc13-1674742619/kenney_monochrome-rpg.zip"}
+{
+  "title": "Monochrome RPG",
+  "meta": {
+    "Tags": [
+      "rpg",
+      "roguelike",
+      "monochrome",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "Monochrome",
+    "Tile size": "16 × 16",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-11-01T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-11-01T00:00:00.000Z",
+    "updatedAt": "2021-11-01T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:monochrome\" class=\"tag\">monochrome</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Monochrome\">Monochrome</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "monochrome-rpg",
+  "images": [
+    "https://kenney.nl/media/pages/assets/monochrome-rpg/08b893d09f-1674742614/preview.png",
+    "https://kenney.nl/media/pages/assets/monochrome-rpg/eec112fdaa-1674742616/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/monochrome-rpg/03f49efc13-1674742619/kenney_monochrome-rpg.zip"
+}

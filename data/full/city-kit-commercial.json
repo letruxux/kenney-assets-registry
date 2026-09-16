@@ -1,1 +1,54 @@
-{"title":"City Kit (Commercial)","meta":{"Tags":["city","skyscraper","building"],"Category":"3D","Series":"City","Features":["🎨Variation(s)"],"Files":50,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-10-13T00:00:00.000Z"},{"name":"2.0","description":"Completely remade","date":"2025-05-17T00:00:00.000Z"},{"name":"2.1","description":"Fixed problem skyscraper E","date":"2025-07-21T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-10-13T00:00:00.000Z","updatedAt":"2025-07-21T00:00:00.000Z","version":"2.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:skyscraper\" class=\"tag\">skyscraper</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"50×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"city-kit-commercial","images":["https://kenney.nl/media/pages/assets/city-kit-commercial/f9afc81822-1747481468/preview.png","https://kenney.nl/media/pages/assets/city-kit-commercial/ca60ea54ef-1747481474/sample.png","https://kenney.nl/media/pages/assets/city-kit-commercial/7f226bb5d5-1747481478/preview-variation-a.png","https://kenney.nl/media/pages/assets/city-kit-commercial/c5150de138-1747481480/preview-variation-b.png"],"download_url":"https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/kenney_city-kit-commercial_2.1.zip"}
+{
+  "title": "City Kit (Commercial)",
+  "meta": {
+    "Tags": [
+      "city",
+      "skyscraper",
+      "building"
+    ],
+    "Category": "3D",
+    "Series": "City",
+    "Features": [
+      "🎨Variation(s)"
+    ],
+    "Files": 50,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-10-13T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Completely remade",
+      "date": "2025-05-17T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Fixed problem skyscraper E",
+      "date": "2025-07-21T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-10-13T00:00:00.000Z",
+    "updatedAt": "2025-07-21T00:00:00.000Z",
+    "version": "2.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:skyscraper\" class=\"tag\">skyscraper</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "50×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "city-kit-commercial",
+  "images": [
+    "https://kenney.nl/media/pages/assets/city-kit-commercial/f9afc81822-1747481468/preview.png",
+    "https://kenney.nl/media/pages/assets/city-kit-commercial/ca60ea54ef-1747481474/sample.png",
+    "https://kenney.nl/media/pages/assets/city-kit-commercial/7f226bb5d5-1747481478/preview-variation-a.png",
+    "https://kenney.nl/media/pages/assets/city-kit-commercial/c5150de138-1747481480/preview-variation-b.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/kenney_city-kit-commercial_2.1.zip"
+}

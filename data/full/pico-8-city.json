@@ -1,1 +1,41 @@
-{"title":"Pico-8 City","meta":{"Tags":["city","town","vehicles","pixel"],"Category":"2D","Series":"Pico-8","Tile size":"8 × 8","Files":360,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2023","date":"2023-09-01T00:00:00.000Z"}],"_extracted":{"createdAt":"2023-09-01T00:00:00.000Z","updatedAt":"2023-09-01T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a><a href=\"https://kenney.nl/assets/tag:vehicles\" class=\"tag\">vehicles</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pico-8\">Pico-8</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:8\">8 × 8</a>","Files":"360×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pico-8-city","images":["https://kenney.nl/media/pages/assets/pico-8-city/d88b10ab14-1693576584/preview.png","https://kenney.nl/media/pages/assets/pico-8-city/5b5e43e086-1693576588/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pico-8-city/e625ac8b8f-1693576593/kenney_pico-8-city.zip"}
+{
+  "title": "Pico-8 City",
+  "meta": {
+    "Tags": [
+      "city",
+      "town",
+      "vehicles",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "Pico-8",
+    "Tile size": "8 × 8",
+    "Files": 360,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2023",
+      "date": "2023-09-01T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2023-09-01T00:00:00.000Z",
+    "updatedAt": "2023-09-01T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a><a href=\"https://kenney.nl/assets/tag:vehicles\" class=\"tag\">vehicles</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pico-8\">Pico-8</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:8\">8 × 8</a>",
+    "Files": "360×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pico-8-city",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pico-8-city/d88b10ab14-1693576584/preview.png",
+    "https://kenney.nl/media/pages/assets/pico-8-city/5b5e43e086-1693576588/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pico-8-city/e625ac8b8f-1693576593/kenney_pico-8-city.zip"
+}

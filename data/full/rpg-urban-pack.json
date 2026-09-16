@@ -1,1 +1,42 @@
-{"title":"RPG Urban Pack","meta":{"Tags":["rpg","city","urban","character","pixel"],"Category":"2D","Series":"","Tile size":"16 × 16","Files":480,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2019","date":"2019-01-05T00:00:00.000Z"}],"_extracted":{"createdAt":"2019-01-05T00:00:00.000Z","updatedAt":"2019-01-05T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:urban\" class=\"tag\">urban</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"480×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"rpg-urban-pack","images":["https://kenney.nl/media/pages/assets/rpg-urban-pack/2a8a959de1-1677578569/preview.png","https://kenney.nl/media/pages/assets/rpg-urban-pack/ddc38bb8e5-1677578571/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/rpg-urban-pack/0a097d1dc7-1677578575/kenney_rpg-urban-pack.zip"}
+{
+  "title": "RPG Urban Pack",
+  "meta": {
+    "Tags": [
+      "rpg",
+      "city",
+      "urban",
+      "character",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Tile size": "16 × 16",
+    "Files": 480,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2019",
+      "date": "2019-01-05T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2019-01-05T00:00:00.000Z",
+    "updatedAt": "2019-01-05T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:urban\" class=\"tag\">urban</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "480×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "rpg-urban-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/rpg-urban-pack/2a8a959de1-1677578569/preview.png",
+    "https://kenney.nl/media/pages/assets/rpg-urban-pack/ddc38bb8e5-1677578571/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/rpg-urban-pack/0a097d1dc7-1677578575/kenney_rpg-urban-pack.zip"
+}

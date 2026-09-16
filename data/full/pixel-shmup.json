@@ -1,1 +1,41 @@
-{"title":"Pixel Shmup","meta":{"Tags":["pixel","shmup","top-down","plane"],"Category":"2D","Series":"","Tile size":"16 × 16","Files":128,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-11-01T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-11-01T00:00:00.000Z","updatedAt":"2021-11-01T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:shmup\" class=\"tag\">shmup</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:plane\" class=\"tag\">plane</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"128×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pixel-shmup","images":["https://kenney.nl/media/pages/assets/pixel-shmup/9d1158f9f9-1677495741/preview.png","https://kenney.nl/media/pages/assets/pixel-shmup/43204e8358-1677495743/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pixel-shmup/640246b9cc-1677495782/kenney_pixel-shmup.zip"}
+{
+  "title": "Pixel Shmup",
+  "meta": {
+    "Tags": [
+      "pixel",
+      "shmup",
+      "top-down",
+      "plane"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Tile size": "16 × 16",
+    "Files": 128,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-11-01T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-11-01T00:00:00.000Z",
+    "updatedAt": "2021-11-01T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:shmup\" class=\"tag\">shmup</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:plane\" class=\"tag\">plane</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "128×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pixel-shmup",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pixel-shmup/9d1158f9f9-1677495741/preview.png",
+    "https://kenney.nl/media/pages/assets/pixel-shmup/43204e8358-1677495743/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pixel-shmup/640246b9cc-1677495782/kenney_pixel-shmup.zip"
+}

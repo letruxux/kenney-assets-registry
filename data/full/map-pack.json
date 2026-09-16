@@ -1,1 +1,40 @@
-{"title":"Map Pack","meta":{"Tags":["tile","map","world","overworld","oopi"],"Category":"2D","Series":"","Files":180,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2016","date":"2016-06-15T00:00:00.000Z"}],"_extracted":{"createdAt":"2016-06-15T00:00:00.000Z","updatedAt":"2016-06-15T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:world\" class=\"tag\">world</a><a href=\"https://kenney.nl/assets/tag:overworld\" class=\"tag\">overworld</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"180×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"map-pack","images":["https://kenney.nl/media/pages/assets/map-pack/97dbb19006-1677662157/preview.png","https://kenney.nl/media/pages/assets/map-pack/675a439a24-1677662159/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/map-pack/86e20aaba9-1677662163/kenney_map-pack.zip"}
+{
+  "title": "Map Pack",
+  "meta": {
+    "Tags": [
+      "tile",
+      "map",
+      "world",
+      "overworld",
+      "oopi"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 180,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2016",
+      "date": "2016-06-15T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2016-06-15T00:00:00.000Z",
+    "updatedAt": "2016-06-15T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:world\" class=\"tag\">world</a><a href=\"https://kenney.nl/assets/tag:overworld\" class=\"tag\">overworld</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "180×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "map-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/map-pack/97dbb19006-1677662157/preview.png",
+    "https://kenney.nl/media/pages/assets/map-pack/675a439a24-1677662159/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/map-pack/86e20aaba9-1677662163/kenney_map-pack.zip"
+}

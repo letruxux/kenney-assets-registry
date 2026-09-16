@@ -1,1 +1,37 @@
-{"title":"Kenney Fonts","meta":{"Tags":["font","letter","pixel"],"Category":"2D","Series":"","Files":11,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2014","date":"2014-05-20T00:00:00.000Z"}],"_extracted":{"createdAt":"2014-05-20T00:00:00.000Z","updatedAt":"2014-05-20T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:font\" class=\"tag\">font</a><a href=\"https://kenney.nl/assets/tag:letter\" class=\"tag\">letter</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"11×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"kenney-fonts","images":["https://kenney.nl/media/pages/assets/kenney-fonts/703183582c-1677661704/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/kenney-fonts/8d5435c213-1677661710/kenney_kenney-fonts.zip"}
+{
+  "title": "Kenney Fonts",
+  "meta": {
+    "Tags": [
+      "font",
+      "letter",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 11,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2014",
+      "date": "2014-05-20T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2014-05-20T00:00:00.000Z",
+    "updatedAt": "2014-05-20T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:font\" class=\"tag\">font</a><a href=\"https://kenney.nl/assets/tag:letter\" class=\"tag\">letter</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "11×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "kenney-fonts",
+  "images": [
+    "https://kenney.nl/media/pages/assets/kenney-fonts/703183582c-1677661704/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/kenney-fonts/8d5435c213-1677661710/kenney_kenney-fonts.zip"
+}

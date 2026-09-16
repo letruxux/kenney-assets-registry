@@ -1,1 +1,40 @@
-{"title":"Racing Pack","meta":{"Tags":["tile","top-down","vehicle","car","racing"],"Category":"2D","Series":"","Files":420,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2015","date":"2015-07-08T00:00:00.000Z"}],"_extracted":{"createdAt":"2015-07-08T00:00:00.000Z","updatedAt":"2015-07-08T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:car\" class=\"tag\">car</a><a href=\"https://kenney.nl/assets/tag:racing\" class=\"tag\">racing</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"420×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"racing-pack","images":["https://kenney.nl/media/pages/assets/racing-pack/6a496d39f9-1677662437/preview.png","https://kenney.nl/media/pages/assets/racing-pack/a747dc19d4-1677662439/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/racing-pack/c4cd68480a-1677662443/kenney_racing-pack.zip"}
+{
+  "title": "Racing Pack",
+  "meta": {
+    "Tags": [
+      "tile",
+      "top-down",
+      "vehicle",
+      "car",
+      "racing"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 420,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2015",
+      "date": "2015-07-08T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2015-07-08T00:00:00.000Z",
+    "updatedAt": "2015-07-08T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:car\" class=\"tag\">car</a><a href=\"https://kenney.nl/assets/tag:racing\" class=\"tag\">racing</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "420×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "racing-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/racing-pack/6a496d39f9-1677662437/preview.png",
+    "https://kenney.nl/media/pages/assets/racing-pack/a747dc19d4-1677662439/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/racing-pack/c4cd68480a-1677662443/kenney_racing-pack.zip"
+}

@@ -1,1 +1,38 @@
-{"title":"Platformer Art Buildings","meta":{"Tags":["platformer","tile","building"],"Category":"2D","Series":"Platformer Pack","Files":100,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2013","date":"2013-12-07T00:00:00.000Z"}],"_extracted":{"createdAt":"2013-12-07T00:00:00.000Z","updatedAt":"2013-12-07T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Platformer Pack\">Platformer Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"100×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"platformer-art-buildings","images":["https://kenney.nl/media/pages/assets/platformer-art-buildings/023244d22c-1677696281/preview.png","https://kenney.nl/media/pages/assets/platformer-art-buildings/16c5e863a1-1677696283/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/platformer-art-buildings/6aec290935-1677696287/kenney_platformer-art-buildings.zip"}
+{
+  "title": "Platformer Art Buildings",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "tile",
+      "building"
+    ],
+    "Category": "2D",
+    "Series": "Platformer Pack",
+    "Files": 100,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2013",
+      "date": "2013-12-07T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2013-12-07T00:00:00.000Z",
+    "updatedAt": "2013-12-07T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Platformer Pack\">Platformer Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "100×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "platformer-art-buildings",
+  "images": [
+    "https://kenney.nl/media/pages/assets/platformer-art-buildings/023244d22c-1677696281/preview.png",
+    "https://kenney.nl/media/pages/assets/platformer-art-buildings/16c5e863a1-1677696283/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/platformer-art-buildings/6aec290935-1677696287/kenney_platformer-art-buildings.zip"
+}

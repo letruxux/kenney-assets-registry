@@ -1,1 +1,37 @@
-{"title":"Jumper Pack","meta":{"Tags":["platformer","character"],"Category":"2D","Series":"","Files":110,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2015","date":"2015-08-03T00:00:00.000Z"}],"_extracted":{"createdAt":"2015-08-03T00:00:00.000Z","updatedAt":"2015-08-03T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"110×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"jumper-pack","images":["https://kenney.nl/media/pages/assets/jumper-pack/c467f064d7-1677666689/preview.png","https://kenney.nl/media/pages/assets/jumper-pack/fafcb50fc8-1677666692/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/jumper-pack/4654b2d2e5-1677666699/kenney_jumper-pack.zip"}
+{
+  "title": "Jumper Pack",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "character"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 110,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2015",
+      "date": "2015-08-03T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2015-08-03T00:00:00.000Z",
+    "updatedAt": "2015-08-03T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "110×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "jumper-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/jumper-pack/c467f064d7-1677666689/preview.png",
+    "https://kenney.nl/media/pages/assets/jumper-pack/fafcb50fc8-1677666692/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/jumper-pack/4654b2d2e5-1677666699/kenney_jumper-pack.zip"
+}

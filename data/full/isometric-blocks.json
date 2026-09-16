@@ -1,1 +1,37 @@
-{"title":"Isometric Blocks","meta":{"Tags":["isometric","block"],"Category":"2D","Series":"","Files":130,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2016","date":"2016-02-17T00:00:00.000Z"}],"_extracted":{"createdAt":"2016-02-17T00:00:00.000Z","updatedAt":"2016-02-17T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:block\" class=\"tag\">block</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"130×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"isometric-blocks","images":["https://kenney.nl/media/pages/assets/isometric-blocks/05fd84d861-1677662253/preview.png","https://kenney.nl/media/pages/assets/isometric-blocks/80ab4e78eb-1677662255/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/isometric-blocks/86a0152f5b-1677662261/kenney_isometric-blocks.zip"}
+{
+  "title": "Isometric Blocks",
+  "meta": {
+    "Tags": [
+      "isometric",
+      "block"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2016",
+      "date": "2016-02-17T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2016-02-17T00:00:00.000Z",
+    "updatedAt": "2016-02-17T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:block\" class=\"tag\">block</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "isometric-blocks",
+  "images": [
+    "https://kenney.nl/media/pages/assets/isometric-blocks/05fd84d861-1677662253/preview.png",
+    "https://kenney.nl/media/pages/assets/isometric-blocks/80ab4e78eb-1677662255/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/isometric-blocks/86a0152f5b-1677662261/kenney_isometric-blocks.zip"
+}

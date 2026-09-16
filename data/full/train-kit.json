@@ -1,1 +1,48 @@
-{"title":"Train Kit","meta":{"Tags":["train","tram","trolley","track","railroad","rail"],"Category":"3D","Series":"Transport","Files":100,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2024","date":"2024-07-31T00:00:00.000Z"},{"name":"1.1","description":"Added tracks","date":"2024-09-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2024-07-31T00:00:00.000Z","updatedAt":"2024-09-22T00:00:00.000Z","version":"1.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:train\" class=\"tag\">train</a><a href=\"https://kenney.nl/assets/tag:tram\" class=\"tag\">tram</a><a href=\"https://kenney.nl/assets/tag:trolley\" class=\"tag\">trolley</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a><a href=\"https://kenney.nl/assets/tag:railroad\" class=\"tag\">railroad</a><a href=\"https://kenney.nl/assets/tag:rail\" class=\"tag\">rail</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"100×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"train-kit","images":["https://kenney.nl/media/pages/assets/train-kit/625675b011-1722429699/preview.png","https://kenney.nl/media/pages/assets/train-kit/d5dfe6e230-1727040968/preview-railroad-damaged.png","https://kenney.nl/media/pages/assets/train-kit/d4aa6098b1-1727040968/preview-railroad-rail.png","https://kenney.nl/media/pages/assets/train-kit/ba4c8dde7e-1727040968/preview-railroad.png"],"download_url":"https://kenney.nl/media/pages/assets/train-kit/cf8521d625-1727040883/kenney_train-kit.zip"}
+{
+  "title": "Train Kit",
+  "meta": {
+    "Tags": [
+      "train",
+      "tram",
+      "trolley",
+      "track",
+      "railroad",
+      "rail"
+    ],
+    "Category": "3D",
+    "Series": "Transport",
+    "Files": 100,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2024",
+      "date": "2024-07-31T00:00:00.000Z"
+    },
+    {
+      "name": "1.1",
+      "description": "Added tracks",
+      "date": "2024-09-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2024-07-31T00:00:00.000Z",
+    "updatedAt": "2024-09-22T00:00:00.000Z",
+    "version": "1.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:train\" class=\"tag\">train</a><a href=\"https://kenney.nl/assets/tag:tram\" class=\"tag\">tram</a><a href=\"https://kenney.nl/assets/tag:trolley\" class=\"tag\">trolley</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a><a href=\"https://kenney.nl/assets/tag:railroad\" class=\"tag\">railroad</a><a href=\"https://kenney.nl/assets/tag:rail\" class=\"tag\">rail</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "100×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "train-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/train-kit/625675b011-1722429699/preview.png",
+    "https://kenney.nl/media/pages/assets/train-kit/d5dfe6e230-1727040968/preview-railroad-damaged.png",
+    "https://kenney.nl/media/pages/assets/train-kit/d4aa6098b1-1727040968/preview-railroad-rail.png",
+    "https://kenney.nl/media/pages/assets/train-kit/ba4c8dde7e-1727040968/preview-railroad.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/train-kit/cf8521d625-1727040883/kenney_train-kit.zip"
+}

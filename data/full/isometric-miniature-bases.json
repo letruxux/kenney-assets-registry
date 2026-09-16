@@ -1,1 +1,38 @@
-{"title":"Isometric Miniature Bases","meta":{"Tags":["isometric","base","tabletop"],"Category":"2D","Series":"Isometric Miniature","Files":40,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2023","date":"2023-06-15T00:00:00.000Z"}],"_extracted":{"createdAt":"2023-06-15T00:00:00.000Z","updatedAt":"2023-06-15T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:base\" class=\"tag\">base</a><a href=\"https://kenney.nl/assets/tag:tabletop\" class=\"tag\">tabletop</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"40×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"isometric-miniature-bases","images":["https://kenney.nl/media/pages/assets/isometric-miniature-bases/4792621cf8-1686811736/preview.png","https://kenney.nl/media/pages/assets/isometric-miniature-bases/cd332573b2-1686811808/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/isometric-miniature-bases/eb165ab941-1686811744/kenney_isometric-miniature-bases.zip"}
+{
+  "title": "Isometric Miniature Bases",
+  "meta": {
+    "Tags": [
+      "isometric",
+      "base",
+      "tabletop"
+    ],
+    "Category": "2D",
+    "Series": "Isometric Miniature",
+    "Files": 40,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2023",
+      "date": "2023-06-15T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2023-06-15T00:00:00.000Z",
+    "updatedAt": "2023-06-15T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:base\" class=\"tag\">base</a><a href=\"https://kenney.nl/assets/tag:tabletop\" class=\"tag\">tabletop</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "40×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "isometric-miniature-bases",
+  "images": [
+    "https://kenney.nl/media/pages/assets/isometric-miniature-bases/4792621cf8-1686811736/preview.png",
+    "https://kenney.nl/media/pages/assets/isometric-miniature-bases/cd332573b2-1686811808/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-bases/eb165ab941-1686811744/kenney_isometric-miniature-bases.zip"
+}

@@ -1,1 +1,48 @@
-{"title":"Watercraft Kit","meta":{"Tags":["boat","ship","watercraft","vehicle"],"Category":"3D","Series":"Transport","Files":45,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2016","date":"2016-06-07T00:00:00.000Z"},{"name":"2.0","description":"Completely remade","date":"2024-04-17T00:00:00.000Z"},{"name":"2.1","description":"Separated sails and flags","date":"2024-04-19T00:00:00.000Z"}],"_extracted":{"createdAt":"2016-06-07T00:00:00.000Z","updatedAt":"2024-04-19T00:00:00.000Z","version":"2.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:watercraft\" class=\"tag\">watercraft</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"45×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"watercraft-kit","images":["https://kenney.nl/media/pages/assets/watercraft-kit/0a7953e9b7-1713354133/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/watercraft-kit/a335cfed49-1713519620/kenney_watercraft-pack.zip"}
+{
+  "title": "Watercraft Kit",
+  "meta": {
+    "Tags": [
+      "boat",
+      "ship",
+      "watercraft",
+      "vehicle"
+    ],
+    "Category": "3D",
+    "Series": "Transport",
+    "Files": 45,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2016",
+      "date": "2016-06-07T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Completely remade",
+      "date": "2024-04-17T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Separated sails and flags",
+      "date": "2024-04-19T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2016-06-07T00:00:00.000Z",
+    "updatedAt": "2024-04-19T00:00:00.000Z",
+    "version": "2.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:watercraft\" class=\"tag\">watercraft</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "45×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "watercraft-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/watercraft-kit/0a7953e9b7-1713354133/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/watercraft-kit/a335cfed49-1713519620/kenney_watercraft-pack.zip"
+}

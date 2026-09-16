@@ -1,1 +1,55 @@
-{"title":"Minigolf Kit","meta":{"Tags":["golf","course","level"],"Category":"3D","Series":"","Features":["🎨Variation(s)"],"Files":125,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2022","date":"2022-12-04T00:00:00.000Z"},{"name":"3.0","description":"Color map, color variations","date":"2023-10-28T00:00:00.000Z"},{"name":"3.1","description":"Additional models","date":"2025-03-05T00:00:00.000Z"}],"_extracted":{"createdAt":"2022-12-04T00:00:00.000Z","updatedAt":"2025-03-05T00:00:00.000Z","version":"3.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:golf\" class=\"tag\">golf</a><a href=\"https://kenney.nl/assets/tag:course\" class=\"tag\">course</a><a href=\"https://kenney.nl/assets/tag:level\" class=\"tag\">level</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"125×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"minigolf-kit","images":["https://kenney.nl/media/pages/assets/minigolf-kit/9a6e436dbb-1741163831/preview.png","https://kenney.nl/media/pages/assets/minigolf-kit/a3692bcf7b-1741163840/sample.png","https://kenney.nl/media/pages/assets/minigolf-kit/2ca211eaad-1741163847/preview-variation-a.png","https://kenney.nl/media/pages/assets/minigolf-kit/977a67d9d3-1741163853/preview-variation-b.png","https://kenney.nl/media/pages/assets/minigolf-kit/1bd080142d-1741163867/preview-spline-concave.png"],"download_url":"https://kenney.nl/media/pages/assets/minigolf-kit/3ae60d8b01-1741163874/kenney_minigolf-kit.zip"}
+{
+  "title": "Minigolf Kit",
+  "meta": {
+    "Tags": [
+      "golf",
+      "course",
+      "level"
+    ],
+    "Category": "3D",
+    "Series": "",
+    "Features": [
+      "🎨Variation(s)"
+    ],
+    "Files": 125,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-12-04T00:00:00.000Z"
+    },
+    {
+      "name": "3.0",
+      "description": "Color map, color variations",
+      "date": "2023-10-28T00:00:00.000Z"
+    },
+    {
+      "name": "3.1",
+      "description": "Additional models",
+      "date": "2025-03-05T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-12-04T00:00:00.000Z",
+    "updatedAt": "2025-03-05T00:00:00.000Z",
+    "version": "3.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:golf\" class=\"tag\">golf</a><a href=\"https://kenney.nl/assets/tag:course\" class=\"tag\">course</a><a href=\"https://kenney.nl/assets/tag:level\" class=\"tag\">level</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "125×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "minigolf-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/minigolf-kit/9a6e436dbb-1741163831/preview.png",
+    "https://kenney.nl/media/pages/assets/minigolf-kit/a3692bcf7b-1741163840/sample.png",
+    "https://kenney.nl/media/pages/assets/minigolf-kit/2ca211eaad-1741163847/preview-variation-a.png",
+    "https://kenney.nl/media/pages/assets/minigolf-kit/977a67d9d3-1741163853/preview-variation-b.png",
+    "https://kenney.nl/media/pages/assets/minigolf-kit/1bd080142d-1741163867/preview-spline-concave.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/minigolf-kit/3ae60d8b01-1741163874/kenney_minigolf-kit.zip"
+}

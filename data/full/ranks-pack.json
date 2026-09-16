@@ -1,1 +1,37 @@
-{"title":"Ranks Pack","meta":{"Tags":["rank","medal","interface"],"Category":"2D","Series":"","Files":70,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2018","date":"2018-05-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2018-05-22T00:00:00.000Z","updatedAt":"2018-05-22T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:rank\" class=\"tag\">rank</a><a href=\"https://kenney.nl/assets/tag:medal\" class=\"tag\">medal</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"70×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"ranks-pack","images":["https://kenney.nl/media/pages/assets/ranks-pack/5602e87973-1677578848/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/ranks-pack/6f46ba5840-1677578852/kenney_ranks-pack.zip"}
+{
+  "title": "Ranks Pack",
+  "meta": {
+    "Tags": [
+      "rank",
+      "medal",
+      "interface"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 70,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2018",
+      "date": "2018-05-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2018-05-22T00:00:00.000Z",
+    "updatedAt": "2018-05-22T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rank\" class=\"tag\">rank</a><a href=\"https://kenney.nl/assets/tag:medal\" class=\"tag\">medal</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "70×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "ranks-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/ranks-pack/5602e87973-1677578848/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/ranks-pack/6f46ba5840-1677578852/kenney_ranks-pack.zip"
+}

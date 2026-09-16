@@ -1,1 +1,40 @@
-{"title":"UI Pack - Pixel Adventure","meta":{"Tags":["button","panel","slider","interface","pixel"],"Category":"2D","Series":"UI Pack","Files":500,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2024","date":"2024-09-04T00:00:00.000Z"}],"_extracted":{"createdAt":"2024-09-04T00:00:00.000Z","updatedAt":"2024-09-04T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:UI Pack\">UI Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"500×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"ui-pack-pixel-adventure","images":["https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/c3620d8fd7-1725434335/preview.png","https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/405ba5278a-1729196257/kenney_ui-pack-pixel-adventure.zip"}
+{
+  "title": "UI Pack - Pixel Adventure",
+  "meta": {
+    "Tags": [
+      "button",
+      "panel",
+      "slider",
+      "interface",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "UI Pack",
+    "Files": 500,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2024",
+      "date": "2024-09-04T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2024-09-04T00:00:00.000Z",
+    "updatedAt": "2024-09-04T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:UI Pack\">UI Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "500×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "ui-pack-pixel-adventure",
+  "images": [
+    "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/c3620d8fd7-1725434335/preview.png",
+    "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/405ba5278a-1729196257/kenney_ui-pack-pixel-adventure.zip"
+}

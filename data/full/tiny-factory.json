@@ -1,1 +1,42 @@
-{"title":"Tiny Factory","meta":{"Tags":["map","pixel","factory","conveyor","warehouse"],"Category":"2D","Series":"Tiny","Tile size":"16 × 16","Files":130,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2026","date":"2026-09-08T00:00:00.000Z"}],"_extracted":{"createdAt":"2026-09-08T00:00:00.000Z","updatedAt":"2026-09-08T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a><a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Tiny\">Tiny</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>","Files":"130×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"tiny-factory","images":["https://kenney.nl/media/pages/assets/tiny-factory/94fa257075-1788860851/preview.png","https://kenney.nl/media/pages/assets/tiny-factory/367deb9f42-1788860854/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/tiny-factory/1652277319-1788860879/kenney_tiny-factory.zip"}
+{
+  "title": "Tiny Factory",
+  "meta": {
+    "Tags": [
+      "map",
+      "pixel",
+      "factory",
+      "conveyor",
+      "warehouse"
+    ],
+    "Category": "2D",
+    "Series": "Tiny",
+    "Tile size": "16 × 16",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2026",
+      "date": "2026-09-08T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2026-09-08T00:00:00.000Z",
+    "updatedAt": "2026-09-08T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a><a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Tiny\">Tiny</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "tiny-factory",
+  "images": [
+    "https://kenney.nl/media/pages/assets/tiny-factory/94fa257075-1788860851/preview.png",
+    "https://kenney.nl/media/pages/assets/tiny-factory/367deb9f42-1788860854/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/tiny-factory/1652277319-1788860879/kenney_tiny-factory.zip"
+}

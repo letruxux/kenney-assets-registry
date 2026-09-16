@@ -1,1 +1,39 @@
-{"title":"Pixel Platformer Blocks","meta":{"Tags":["blocks","pixel"],"Category":"2D","Series":"Pixel Platformer","Tile size":"18 × 18","Files":80,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-11-28T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-11-28T00:00:00.000Z","updatedAt":"2021-11-28T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:blocks\" class=\"tag\">blocks</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:18\">18 × 18</a>","Files":"80×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pixel-platformer-blocks","images":["https://kenney.nl/media/pages/assets/pixel-platformer-blocks/8e13a55b92-1668793620/preview.png","https://kenney.nl/media/pages/assets/pixel-platformer-blocks/dabcca7d17-1668793623/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pixel-platformer-blocks/27d740b8b2-1668793626/kenney_pixel-platformer-blocks.zip"}
+{
+  "title": "Pixel Platformer Blocks",
+  "meta": {
+    "Tags": [
+      "blocks",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "Pixel Platformer",
+    "Tile size": "18 × 18",
+    "Files": 80,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-11-28T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-11-28T00:00:00.000Z",
+    "updatedAt": "2021-11-28T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:blocks\" class=\"tag\">blocks</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:18\">18 × 18</a>",
+    "Files": "80×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pixel-platformer-blocks",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/8e13a55b92-1668793620/preview.png",
+    "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/dabcca7d17-1668793623/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/27d740b8b2-1668793626/kenney_pixel-platformer-blocks.zip"
+}

@@ -1,1 +1,37 @@
-{"title":"Isometric Miniature Prototype","meta":{"Tags":["isometric","prototype"],"Category":"2D","Series":"Isometric Miniature","Files":60,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2019","date":"2019-02-15T00:00:00.000Z"}],"_extracted":{"createdAt":"2019-02-15T00:00:00.000Z","updatedAt":"2019-02-15T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:prototype\" class=\"tag\">prototype</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"60×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"isometric-miniature-prototype","images":["https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8614213a64-1674932120/preview.png","https://kenney.nl/media/pages/assets/isometric-miniature-prototype/a3dd150426-1674932123/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8c46fe34a0-1674932174/kenney_isometric-miniature-prototype.zip"}
+{
+  "title": "Isometric Miniature Prototype",
+  "meta": {
+    "Tags": [
+      "isometric",
+      "prototype"
+    ],
+    "Category": "2D",
+    "Series": "Isometric Miniature",
+    "Files": 60,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2019",
+      "date": "2019-02-15T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2019-02-15T00:00:00.000Z",
+    "updatedAt": "2019-02-15T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:prototype\" class=\"tag\">prototype</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Isometric Miniature\">Isometric Miniature</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "60×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "isometric-miniature-prototype",
+  "images": [
+    "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8614213a64-1674932120/preview.png",
+    "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/a3dd150426-1674932123/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8c46fe34a0-1674932174/kenney_isometric-miniature-prototype.zip"
+}

@@ -1,1 +1,46 @@
-{"title":"Coaster Kit","meta":{"Tags":["rollercoaster","coaster","theme park","attraction","ride","track"],"Category":"3D","Series":"","Files":180,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2024","date":"2024-11-13T00:00:00.000Z"}],"_extracted":{"createdAt":"2024-11-13T00:00:00.000Z","updatedAt":"2024-11-13T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:rollercoaster\" class=\"tag\">rollercoaster</a><a href=\"https://kenney.nl/assets/tag:coaster\" class=\"tag\">coaster</a><a href=\"https://kenney.nl/assets/tag:theme park\" class=\"tag\">theme park</a><a href=\"https://kenney.nl/assets/tag:attraction\" class=\"tag\">attraction</a><a href=\"https://kenney.nl/assets/tag:ride\" class=\"tag\">ride</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"180×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"coaster-kit","images":["https://kenney.nl/media/pages/assets/coaster-kit/d7d410aef4-1731487879/preview.png","https://kenney.nl/media/pages/assets/coaster-kit/9b3b95c4c9-1731487885/preview-coaster-monorail.png","https://kenney.nl/media/pages/assets/coaster-kit/bf5ffbcae8-1731487885/preview-coaster-steel.png","https://kenney.nl/media/pages/assets/coaster-kit/627f5a0c3a-1731487885/preview-coaster-wood.png","https://kenney.nl/media/pages/assets/coaster-kit/783b11d4f6-1731487885/preview-coaster-mouse.png","https://kenney.nl/media/pages/assets/coaster-kit/e69b8ff909-1731487885/preview-coaster-hanging.png","https://kenney.nl/media/pages/assets/coaster-kit/65060e4cc4-1731487885/preview-coaster-flume.png"],"download_url":"https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip"}
+{
+  "title": "Coaster Kit",
+  "meta": {
+    "Tags": [
+      "rollercoaster",
+      "coaster",
+      "theme park",
+      "attraction",
+      "ride",
+      "track"
+    ],
+    "Category": "3D",
+    "Series": "",
+    "Files": 180,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2024",
+      "date": "2024-11-13T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2024-11-13T00:00:00.000Z",
+    "updatedAt": "2024-11-13T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rollercoaster\" class=\"tag\">rollercoaster</a><a href=\"https://kenney.nl/assets/tag:coaster\" class=\"tag\">coaster</a><a href=\"https://kenney.nl/assets/tag:theme park\" class=\"tag\">theme park</a><a href=\"https://kenney.nl/assets/tag:attraction\" class=\"tag\">attraction</a><a href=\"https://kenney.nl/assets/tag:ride\" class=\"tag\">ride</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "180×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "coaster-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/coaster-kit/d7d410aef4-1731487879/preview.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/9b3b95c4c9-1731487885/preview-coaster-monorail.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/bf5ffbcae8-1731487885/preview-coaster-steel.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/627f5a0c3a-1731487885/preview-coaster-wood.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/783b11d4f6-1731487885/preview-coaster-mouse.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/e69b8ff909-1731487885/preview-coaster-hanging.png",
+    "https://kenney.nl/media/pages/assets/coaster-kit/65060e4cc4-1731487885/preview-coaster-flume.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip"
+}

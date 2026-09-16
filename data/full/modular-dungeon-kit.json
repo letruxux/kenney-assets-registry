@@ -1,1 +1,55 @@
-{"title":"Modular Dungeon Kit","meta":{"Tags":["dungeon","modular","tiles"],"Category":"3D","Series":"Modular","Features":["🎞️Animation","🎨Variation(s)"],"Files":40,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2025","date":"2025-08-19T00:00:00.000Z"},{"name":"2.0","description":"Improvements, colors & higher walls","date":"2026-02-09T00:00:00.000Z"},{"name":"2.1","description":"Ground texture, tweaked colors, additional detail","date":"2026-02-24T00:00:00.000Z"}],"_extracted":{"createdAt":"2025-08-19T00:00:00.000Z","updatedAt":"2026-02-24T00:00:00.000Z","version":"2.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:dungeon\" class=\"tag\">dungeon</a><a href=\"https://kenney.nl/assets/tag:modular\" class=\"tag\">modular</a><a href=\"https://kenney.nl/assets/tag:tiles\" class=\"tag\">tiles</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Modular\">Modular</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"40×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"modular-dungeon-kit","images":["https://kenney.nl/media/pages/assets/modular-dungeon-kit/0360646c6c-1771926042/preview.png","https://kenney.nl/media/pages/assets/modular-dungeon-kit/fe4b7d1cba-1771926047/sample.png","https://kenney.nl/media/pages/assets/modular-dungeon-kit/203379525b-1771926053/preview-variation-b.png","https://kenney.nl/media/pages/assets/modular-dungeon-kit/154fbf758f-1771926058/preview-variation-a.png"],"download_url":"https://kenney.nl/media/pages/assets/modular-dungeon-kit/7bed87605b-1771926065/kenney_modular-dungeon-kit_1.0.zip"}
+{
+  "title": "Modular Dungeon Kit",
+  "meta": {
+    "Tags": [
+      "dungeon",
+      "modular",
+      "tiles"
+    ],
+    "Category": "3D",
+    "Series": "Modular",
+    "Features": [
+      "🎞️Animation",
+      "🎨Variation(s)"
+    ],
+    "Files": 40,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2025",
+      "date": "2025-08-19T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Improvements, colors & higher walls",
+      "date": "2026-02-09T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Ground texture, tweaked colors, additional detail",
+      "date": "2026-02-24T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2025-08-19T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": "2.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:dungeon\" class=\"tag\">dungeon</a><a href=\"https://kenney.nl/assets/tag:modular\" class=\"tag\">modular</a><a href=\"https://kenney.nl/assets/tag:tiles\" class=\"tag\">tiles</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Modular\">Modular</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "40×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "modular-dungeon-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/modular-dungeon-kit/0360646c6c-1771926042/preview.png",
+    "https://kenney.nl/media/pages/assets/modular-dungeon-kit/fe4b7d1cba-1771926047/sample.png",
+    "https://kenney.nl/media/pages/assets/modular-dungeon-kit/203379525b-1771926053/preview-variation-b.png",
+    "https://kenney.nl/media/pages/assets/modular-dungeon-kit/154fbf758f-1771926058/preview-variation-a.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/modular-dungeon-kit/7bed87605b-1771926065/kenney_modular-dungeon-kit_1.0.zip"
+}

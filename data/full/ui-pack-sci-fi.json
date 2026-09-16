@@ -1,1 +1,46 @@
-{"title":"UI Pack - Sci-Fi","meta":{"Tags":["button","panel","slider","space","sci-fi","interface"],"Category":"2D","Series":"UI Pack","Files":130,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2014","date":"2014-06-13T00:00:00.000Z"},{"name":"2.0","description":"Completely remade","date":"2024-08-20T00:00:00.000Z"}],"_extracted":{"createdAt":"2014-06-13T00:00:00.000Z","updatedAt":"2024-08-20T00:00:00.000Z","version":"2.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:UI Pack\">UI Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"130×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"ui-pack-sci-fi","images":["https://kenney.nl/media/pages/assets/ui-pack-sci-fi/7b0f896462-1724181098/preview.png","https://kenney.nl/media/pages/assets/ui-pack-sci-fi/00227142e5-1724181103/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/ui-pack-sci-fi/b67c2acd31-1724181109/kenney_ui-pack-space-expansion.zip"}
+{
+  "title": "UI Pack - Sci-Fi",
+  "meta": {
+    "Tags": [
+      "button",
+      "panel",
+      "slider",
+      "space",
+      "sci-fi",
+      "interface"
+    ],
+    "Category": "2D",
+    "Series": "UI Pack",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2014",
+      "date": "2014-06-13T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Completely remade",
+      "date": "2024-08-20T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2014-06-13T00:00:00.000Z",
+    "updatedAt": "2024-08-20T00:00:00.000Z",
+    "version": "2.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:UI Pack\">UI Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "ui-pack-sci-fi",
+  "images": [
+    "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/7b0f896462-1724181098/preview.png",
+    "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/00227142e5-1724181103/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/b67c2acd31-1724181109/kenney_ui-pack-space-expansion.zip"
+}

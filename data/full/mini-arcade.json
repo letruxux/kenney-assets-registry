@@ -1,1 +1,56 @@
-{"title":"Mini Arcade","meta":{"Tags":["arcade","game","machine","play"],"Category":"3D","Series":"Mini","Features":["🎞️Animation","🎨Variation(s)"],"Files":20,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2024","date":"2024-07-03T00:00:00.000Z"},{"name":"1.1","description":"Small changes","date":"2024-07-05T00:00:00.000Z"},{"name":"1.2","description":"Small fixes","date":"2024-07-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2024-07-03T00:00:00.000Z","updatedAt":"2024-07-22T00:00:00.000Z","version":"1.2"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:arcade\" class=\"tag\">arcade</a><a href=\"https://kenney.nl/assets/tag:game\" class=\"tag\">game</a><a href=\"https://kenney.nl/assets/tag:machine\" class=\"tag\">machine</a><a href=\"https://kenney.nl/assets/tag:play\" class=\"tag\">play</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"20×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"mini-arcade","images":["https://kenney.nl/media/pages/assets/mini-arcade/a433ca6382-1720210162/preview.png","https://kenney.nl/media/pages/assets/mini-arcade/a766ceba5b-1720210169/sample.png","https://kenney.nl/media/pages/assets/mini-arcade/b5023b9a8a-1720210178/preview-variation-a.png","https://kenney.nl/media/pages/assets/mini-arcade/553eedf874-1720210178/preview-variation-b.png"],"download_url":"https://kenney.nl/media/pages/assets/mini-arcade/ece1e8f320-1721638600/kenney_mini-arcade.zip"}
+{
+  "title": "Mini Arcade",
+  "meta": {
+    "Tags": [
+      "arcade",
+      "game",
+      "machine",
+      "play"
+    ],
+    "Category": "3D",
+    "Series": "Mini",
+    "Features": [
+      "🎞️Animation",
+      "🎨Variation(s)"
+    ],
+    "Files": 20,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2024",
+      "date": "2024-07-03T00:00:00.000Z"
+    },
+    {
+      "name": "1.1",
+      "description": "Small changes",
+      "date": "2024-07-05T00:00:00.000Z"
+    },
+    {
+      "name": "1.2",
+      "description": "Small fixes",
+      "date": "2024-07-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2024-07-03T00:00:00.000Z",
+    "updatedAt": "2024-07-22T00:00:00.000Z",
+    "version": "1.2"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:arcade\" class=\"tag\">arcade</a><a href=\"https://kenney.nl/assets/tag:game\" class=\"tag\">game</a><a href=\"https://kenney.nl/assets/tag:machine\" class=\"tag\">machine</a><a href=\"https://kenney.nl/assets/tag:play\" class=\"tag\">play</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "20×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "mini-arcade",
+  "images": [
+    "https://kenney.nl/media/pages/assets/mini-arcade/a433ca6382-1720210162/preview.png",
+    "https://kenney.nl/media/pages/assets/mini-arcade/a766ceba5b-1720210169/sample.png",
+    "https://kenney.nl/media/pages/assets/mini-arcade/b5023b9a8a-1720210178/preview-variation-a.png",
+    "https://kenney.nl/media/pages/assets/mini-arcade/553eedf874-1720210178/preview-variation-b.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/mini-arcade/ece1e8f320-1721638600/kenney_mini-arcade.zip"
+}

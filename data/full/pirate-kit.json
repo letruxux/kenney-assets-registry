@@ -1,1 +1,55 @@
-{"title":"Pirate Kit","meta":{"Tags":["pirate","boat","ship","island","tropical","character"],"Category":"3D","Series":"","Features":["🎞️Animation"],"Files":70,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2018","date":"2018-09-20T00:00:00.000Z"},{"name":"2.0","description":"Completely remade","date":"2024-12-25T00:00:00.000Z"},{"name":"2.1","description":"Added fortress walls","date":"2026-02-17T00:00:00.000Z"}],"_extracted":{"createdAt":"2018-09-20T00:00:00.000Z","updatedAt":"2026-02-17T00:00:00.000Z","version":"2.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:island\" class=\"tag\">island</a><a href=\"https://kenney.nl/assets/tag:tropical\" class=\"tag\">tropical</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"70×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pirate-kit","images":["https://kenney.nl/media/pages/assets/pirate-kit/ae3180d290-1771333077/preview.png","https://kenney.nl/media/pages/assets/pirate-kit/32cfbe372c-1771333087/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pirate-kit/e6d4bb1525-1771333093/kenney_pirate-kit.zip"}
+{
+  "title": "Pirate Kit",
+  "meta": {
+    "Tags": [
+      "pirate",
+      "boat",
+      "ship",
+      "island",
+      "tropical",
+      "character"
+    ],
+    "Category": "3D",
+    "Series": "",
+    "Features": [
+      "🎞️Animation"
+    ],
+    "Files": 70,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2018",
+      "date": "2018-09-20T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Completely remade",
+      "date": "2024-12-25T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Added fortress walls",
+      "date": "2026-02-17T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2018-09-20T00:00:00.000Z",
+    "updatedAt": "2026-02-17T00:00:00.000Z",
+    "version": "2.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:island\" class=\"tag\">island</a><a href=\"https://kenney.nl/assets/tag:tropical\" class=\"tag\">tropical</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "70×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pirate-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pirate-kit/ae3180d290-1771333077/preview.png",
+    "https://kenney.nl/media/pages/assets/pirate-kit/32cfbe372c-1771333087/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pirate-kit/e6d4bb1525-1771333093/kenney_pirate-kit.zip"
+}

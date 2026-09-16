@@ -1,1 +1,53 @@
-{"title":"City Kit (Roads)","meta":{"Tags":["road","city","town"],"Category":"3D","Series":"City","Features":["🎨Variation(s)"],"Files":90,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2021","date":"2021-10-15T00:00:00.000Z"},{"name":"2.0","description":"Optimization, fixes and expansion","date":"2025-03-13T00:00:00.000Z"},{"name":"2.1","description":"Road signs and traffic lights","date":"2026-08-18T00:00:00.000Z"}],"_extracted":{"createdAt":"2021-10-15T00:00:00.000Z","updatedAt":"2026-08-18T00:00:00.000Z","version":"2.1"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"90×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"city-kit-roads","images":["https://kenney.nl/media/pages/assets/city-kit-roads/8570bf4a2f-1787042771/preview.png","https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png","https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"],"download_url":"https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip"}
+{
+  "title": "City Kit (Roads)",
+  "meta": {
+    "Tags": [
+      "road",
+      "city",
+      "town"
+    ],
+    "Category": "3D",
+    "Series": "City",
+    "Features": [
+      "🎨Variation(s)"
+    ],
+    "Files": 90,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2021",
+      "date": "2021-10-15T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Optimization, fixes and expansion",
+      "date": "2025-03-13T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Road signs and traffic lights",
+      "date": "2026-08-18T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2021-10-15T00:00:00.000Z",
+    "updatedAt": "2026-08-18T00:00:00.000Z",
+    "version": "2.1"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "90×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "city-kit-roads",
+  "images": [
+    "https://kenney.nl/media/pages/assets/city-kit-roads/8570bf4a2f-1787042771/preview.png",
+    "https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png",
+    "https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip"
+}

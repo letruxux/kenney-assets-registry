@@ -1,1 +1,43 @@
-{"title":"Pixel Platformer Industrial Expansion","meta":{"Tags":["platformer","industrial","metal","construction","factory","pixel"],"Category":"2D","Series":"Pixel Platformer","Tile size":"18 × 18","Files":110,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2022","date":"2022-11-05T00:00:00.000Z"}],"_extracted":{"createdAt":"2022-11-05T00:00:00.000Z","updatedAt":"2022-11-05T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:metal\" class=\"tag\">metal</a><a href=\"https://kenney.nl/assets/tag:construction\" class=\"tag\">construction</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Tile size":"<a href=\"https://kenney.nl/assets/size:18\">18 × 18</a>","Files":"110×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pixel-platformer-industrial-expansion","images":["https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/02feb64053-1668793434/preview.png","https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f2ac43e198-1668793437/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f95a0189cd-1668793443/kenney_pixel-platformer-industrial-expansion.zip"}
+{
+  "title": "Pixel Platformer Industrial Expansion",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "industrial",
+      "metal",
+      "construction",
+      "factory",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "Pixel Platformer",
+    "Tile size": "18 × 18",
+    "Files": 110,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-11-05T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-11-05T00:00:00.000Z",
+    "updatedAt": "2022-11-05T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:metal\" class=\"tag\">metal</a><a href=\"https://kenney.nl/assets/tag:construction\" class=\"tag\">construction</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:18\">18 × 18</a>",
+    "Files": "110×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pixel-platformer-industrial-expansion",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/02feb64053-1668793434/preview.png",
+    "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f2ac43e198-1668793437/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f95a0189cd-1668793443/kenney_pixel-platformer-industrial-expansion.zip"
+}

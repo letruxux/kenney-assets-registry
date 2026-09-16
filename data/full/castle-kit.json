@@ -1,1 +1,46 @@
-{"title":"Castle Kit","meta":{"Tags":["castle","medieval"],"Category":"3D","Series":"","Features":["🎨Variation(s)"],"Files":75,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2017","date":"2017-08-01T00:00:00.000Z"},{"name":"2.0","description":"Complete remake","date":"2024-03-27T00:00:00.000Z"}],"_extracted":{"createdAt":"2017-08-01T00:00:00.000Z","updatedAt":"2024-03-27T00:00:00.000Z","version":"2.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:castle\" class=\"tag\">castle</a><a href=\"https://kenney.nl/assets/tag:medieval\" class=\"tag\">medieval</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Features":"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t","Files":"75×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"castle-kit","images":["https://kenney.nl/media/pages/assets/castle-kit/72159b3269-1711543640/preview.png","https://kenney.nl/media/pages/assets/castle-kit/b047abca12-1711543631/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip"}
+{
+  "title": "Castle Kit",
+  "meta": {
+    "Tags": [
+      "castle",
+      "medieval"
+    ],
+    "Category": "3D",
+    "Series": "",
+    "Features": [
+      "🎨Variation(s)"
+    ],
+    "Files": 75,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2017",
+      "date": "2017-08-01T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Complete remake",
+      "date": "2024-03-27T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2017-08-01T00:00:00.000Z",
+    "updatedAt": "2024-03-27T00:00:00.000Z",
+    "version": "2.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:castle\" class=\"tag\">castle</a><a href=\"https://kenney.nl/assets/tag:medieval\" class=\"tag\">medieval</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "75×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "castle-kit",
+  "images": [
+    "https://kenney.nl/media/pages/assets/castle-kit/72159b3269-1711543640/preview.png",
+    "https://kenney.nl/media/pages/assets/castle-kit/b047abca12-1711543631/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip"
+}

@@ -1,1 +1,38 @@
-{"title":"Pixel Platformer Food Expansion","meta":{"Tags":["platformer","food","pixel"],"Category":"2D","Series":"Pixel Platformer","Files":110,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2023","date":"2023-10-06T00:00:00.000Z"}],"_extracted":{"createdAt":"2023-10-06T00:00:00.000Z","updatedAt":"2023-10-06T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:food\" class=\"tag\">food</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"110×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"pixel-platformer-food-expansion","images":["https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/21a31569fc-1696596501/preview.png","https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/5180b9af94-1696596505/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/76330de2bf-1696596511/kenney_pixel-platformer-food-expansion.zip"}
+{
+  "title": "Pixel Platformer Food Expansion",
+  "meta": {
+    "Tags": [
+      "platformer",
+      "food",
+      "pixel"
+    ],
+    "Category": "2D",
+    "Series": "Pixel Platformer",
+    "Files": 110,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2023",
+      "date": "2023-10-06T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2023-10-06T00:00:00.000Z",
+    "updatedAt": "2023-10-06T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:food\" class=\"tag\">food</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "110×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "pixel-platformer-food-expansion",
+  "images": [
+    "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/21a31569fc-1696596501/preview.png",
+    "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/5180b9af94-1696596505/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/76330de2bf-1696596511/kenney_pixel-platformer-food-expansion.zip"
+}

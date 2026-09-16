@@ -1,1 +1,37 @@
-{"title":"Monster Builder Pack","meta":{"Tags":["monster","creature"],"Category":"2D","Series":"","Files":170,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2022","date":"2022-01-19T00:00:00.000Z"}],"_extracted":{"createdAt":"2022-01-19T00:00:00.000Z","updatedAt":"2022-01-19T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:monster\" class=\"tag\">monster</a><a href=\"https://kenney.nl/assets/tag:creature\" class=\"tag\">creature</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"170×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"monster-builder-pack","images":["https://kenney.nl/media/pages/assets/monster-builder-pack/e57e392947-1677495432/preview.png","https://kenney.nl/media/pages/assets/monster-builder-pack/82ac296d53-1677495442/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/monster-builder-pack/663e4ef6de-1677495438/kenney_monster-builder-pack.zip"}
+{
+  "title": "Monster Builder Pack",
+  "meta": {
+    "Tags": [
+      "monster",
+      "creature"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 170,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-01-19T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-01-19T00:00:00.000Z",
+    "updatedAt": "2022-01-19T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:monster\" class=\"tag\">monster</a><a href=\"https://kenney.nl/assets/tag:creature\" class=\"tag\">creature</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "170×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "monster-builder-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/monster-builder-pack/e57e392947-1677495432/preview.png",
+    "https://kenney.nl/media/pages/assets/monster-builder-pack/82ac296d53-1677495442/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/monster-builder-pack/663e4ef6de-1677495438/kenney_monster-builder-pack.zip"
+}

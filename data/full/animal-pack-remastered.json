@@ -1,1 +1,36 @@
-{"title":"Animal Pack Remastered","meta":{"Tags":["animal","pet"],"Category":"2D","Series":"","Files":240,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2018","date":"2018-02-02T00:00:00.000Z"}],"_extracted":{"createdAt":"2018-02-02T00:00:00.000Z","updatedAt":"2018-02-02T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:animal\" class=\"tag\">animal</a><a href=\"https://kenney.nl/assets/tag:pet\" class=\"tag\">pet</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"240×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"animal-pack-remastered","images":["https://kenney.nl/media/pages/assets/animal-pack-remastered/e08024dab7-1677666930/preview.png"],"download_url":"https://kenney.nl/media/pages/assets/animal-pack-remastered/54a307a369-1774771709/kenney_animal-pack-remastered.zip"}
+{
+  "title": "Animal Pack Remastered",
+  "meta": {
+    "Tags": [
+      "animal",
+      "pet"
+    ],
+    "Category": "2D",
+    "Series": "",
+    "Files": 240,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2018",
+      "date": "2018-02-02T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2018-02-02T00:00:00.000Z",
+    "updatedAt": "2018-02-02T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:animal\" class=\"tag\">animal</a><a href=\"https://kenney.nl/assets/tag:pet\" class=\"tag\">pet</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "240×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "animal-pack-remastered",
+  "images": [
+    "https://kenney.nl/media/pages/assets/animal-pack-remastered/e08024dab7-1677666930/preview.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/animal-pack-remastered/54a307a369-1774771709/kenney_animal-pack-remastered.zip"
+}

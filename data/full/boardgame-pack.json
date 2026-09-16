@@ -1,1 +1,38 @@
-{"title":"Board Game Pack","meta":{"Tags":["boardgame","dice","cards"],"Category":"2D","Series":"Board Games","Files":490,"License":"Creative Commons CC0"},"updates":[{"name":"1.0","description":"Released in 2014","date":"2014-05-22T00:00:00.000Z"}],"_extracted":{"createdAt":"2014-05-22T00:00:00.000Z","updatedAt":"2014-05-22T00:00:00.000Z","version":"1.0"},"_raw_meta":{"Tags":"<a href=\"https://kenney.nl/assets/tag:boardgame\" class=\"tag\">boardgame</a><a href=\"https://kenney.nl/assets/tag:dice\" class=\"tag\">dice</a><a href=\"https://kenney.nl/assets/tag:cards\" class=\"tag\">cards</a>","Category":"\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t","Files":"490×","License":"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"},"slug":"boardgame-pack","images":["https://kenney.nl/media/pages/assets/boardgame-pack/5a0e6a9a5d-1677667634/preview.png","https://kenney.nl/media/pages/assets/boardgame-pack/993d44b363-1677667639/sample.png"],"download_url":"https://kenney.nl/media/pages/assets/boardgame-pack/a1656828d2-1677667644/kenney_boardgame-pack.zip"}
+{
+  "title": "Board Game Pack",
+  "meta": {
+    "Tags": [
+      "boardgame",
+      "dice",
+      "cards"
+    ],
+    "Category": "2D",
+    "Series": "Board Games",
+    "Files": 490,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2014",
+      "date": "2014-05-22T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2014-05-22T00:00:00.000Z",
+    "updatedAt": "2014-05-22T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:boardgame\" class=\"tag\">boardgame</a><a href=\"https://kenney.nl/assets/tag:dice\" class=\"tag\">dice</a><a href=\"https://kenney.nl/assets/tag:cards\" class=\"tag\">cards</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "490×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "boardgame-pack",
+  "images": [
+    "https://kenney.nl/media/pages/assets/boardgame-pack/5a0e6a9a5d-1677667634/preview.png",
+    "https://kenney.nl/media/pages/assets/boardgame-pack/993d44b363-1677667639/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/boardgame-pack/a1656828d2-1677667644/kenney_boardgame-pack.zip"
+}
