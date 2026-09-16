@@ -151,7 +151,7 @@ type KenneyAsset = Awaited<ReturnType<typeof fetchAssetPage>>;
 
 async function main() {
   const previews = await fetchAllPages().then((data) => {
-    writeFileSync("data/assets-previews.json", JSON.stringify(data));
+    writeFileSync("data/assets-previews.json", JSON.stringify(data, null, 2));
     return data;
   });
 
@@ -160,7 +160,7 @@ async function main() {
   for (const preview of previews) {
     const asset = await fetchAssetPage(preview.url);
     const targetPath = `data/full/${asset.slug}.json`;
-    writeFileSync(targetPath, JSON.stringify(asset));
+    writeFileSync(targetPath, JSON.stringify(asset, null, 2));
     allAssets.push(asset);
   }
 
@@ -169,7 +169,7 @@ async function main() {
       (b._extracted.updatedAt?.getTime() ?? 0) - (a._extracted.updatedAt?.getTime() ?? 0),
   );
 
-  writeFileSync("data/all.json", JSON.stringify(allAssets));
+  writeFileSync("data/all.json", JSON.stringify(allAssets, null, 2));
 }
 
 main();
