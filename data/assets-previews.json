@@ -1322,10 +1322,18 @@
   {
     "cover": "https://kenney.nl/media/pages/assets/skyboxes/d32d55b81b-1784123468/sample-day-400x.png",
     "title": "Skyboxes",
-    "series": null,
+    "series": "Skyboxes",
     "category": "Textures",
     "url": "https://kenney.nl/assets/skyboxes",
     "slug": "skyboxes"
+  },
+  {
+    "cover": "https://kenney.nl/media/pages/assets/skyboxes-space/ca125d51be-1790850365/sample-galaxy-400x.png",
+    "title": "Skyboxes Space",
+    "series": "Skyboxes",
+    "category": "Textures",
+    "url": "https://kenney.nl/assets/skyboxes-space",
+    "slug": "skyboxes-space"
   },
   {
     "cover": "https://kenney.nl/media/pages/assets/smoke-particles/1b6cb144a9-1677695166/sample-400x.png",
@@ -1432,12 +1440,12 @@
     "slug": "tiny-dungeon"
   },
   {
-    "cover": "https://kenney.nl/media/pages/assets/tiny-factory/367deb9f42-1788860854/sample-400x.png",
-    "title": "Tiny Factory",
+    "cover": "https://kenney.nl/media/pages/assets/tiny-farm/6a39809886-1782913585/sample-400x.png",
+    "title": "Tiny Farm",
     "series": "Tiny",
     "category": "2D",
-    "url": "https://kenney.nl/assets/tiny-factory",
-    "slug": "tiny-factory"
+    "url": "https://kenney.nl/assets/tiny-farm",
+    "slug": "tiny-farm"
   },
   {
     "cover": "https://kenney.nl/media/pages/assets/tiny-ski/05dca5ebc4-1680201502/sample-400x.png",
@@ -1552,12 +1560,12 @@
     "slug": "ui-pack-adventure"
   },
   {
-    "cover": "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample-400x.png",
-    "title": "UI Pack - Pixel Adventure",
-    "series": "UI Pack",
+    "cover": "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/3cbd16d800-1677661820/sample-400x.png",
+    "title": "UI Pack (RPG Expansion)",
+    "series": null,
     "category": "2D",
-    "url": "https://kenney.nl/assets/ui-pack-pixel-adventure",
-    "slug": "ui-pack-pixel-adventure"
+    "url": "https://kenney.nl/assets/ui-pack-rpg-expansion",
+    "slug": "ui-pack-rpg-expansion"
   },
   {
     "cover": "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/00227142e5-1724181103/sample-400x.png",

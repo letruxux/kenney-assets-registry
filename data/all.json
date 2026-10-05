@@ -1,45 +1,43 @@
 [
   {
-    "title": "Tiny Factory",
+    "title": "Skyboxes Space",
     "meta": {
       "Tags": [
-        "map",
-        "pixel",
-        "factory",
-        "conveyor",
-        "warehouse"
+        "skybox",
+        "space",
+        "galaxy",
+        "nebula"
       ],
-      "Category": "2D",
-      "Series": "Tiny",
-      "Tile size": "16 × 16",
-      "Files": 130,
+      "Category": "Textures",
+      "Series": "Skyboxes",
+      "Files": 5,
       "License": "Creative Commons CC0"
     },
     "updates": [
       {
         "name": "1.0",
         "description": "Released in 2026",
-        "date": "2026-09-08T00:00:00.000Z"
+        "date": "2026-10-01T00:00:00.000Z"
       }
     ],
     "_extracted": {
-      "createdAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
       "version": "1.0"
     },
     "_raw_meta": {
-      "Tags": "<a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a><a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Tiny\">Tiny</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-      "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
-      "Files": "130×",
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:skybox\" class=\"tag\">skybox</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:galaxy\" class=\"tag\">galaxy</a><a href=\"https://kenney.nl/assets/tag:nebula\" class=\"tag\">nebula</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Skyboxes\">Skyboxes</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Files": "5×",
       "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
     },
-    "slug": "tiny-factory",
+    "slug": "skyboxes-space",
     "images": [
-      "https://kenney.nl/media/pages/assets/tiny-factory/94fa257075-1788860851/preview.png",
-      "https://kenney.nl/media/pages/assets/tiny-factory/367deb9f42-1788860854/sample.png"
+      "https://kenney.nl/media/pages/assets/skyboxes-space/261708e311-1790850361/preview.png",
+      "https://kenney.nl/media/pages/assets/skyboxes-space/ca125d51be-1790850365/sample-galaxy.png",
+      "https://kenney.nl/media/pages/assets/skyboxes-space/97c90002c2-1790850368/sample-band.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-factory/1652277319-1788860879/kenney_tiny-factory.zip"
+    "download_url": "https://kenney.nl/media/pages/assets/skyboxes-space/b3d0ebe0d4-1790850383/kenney_skyboxes-space.zip"
   },
   {
     "title": "City Kit (Industrial)",
@@ -380,7 +378,7 @@
         "stars"
       ],
       "Category": "Textures",
-      "Series": "",
+      "Series": "Skyboxes",
       "Files": 5,
       "License": "Creative Commons CC0"
     },
@@ -398,7 +396,7 @@
     },
     "_raw_meta": {
       "Tags": "<a href=\"https://kenney.nl/assets/tag:skybox\" class=\"tag\">skybox</a><a href=\"https://kenney.nl/assets/tag:sky\" class=\"tag\">sky</a><a href=\"https://kenney.nl/assets/tag:clouds\" class=\"tag\">clouds</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:stars\" class=\"tag\">stars</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Skyboxes\">Skyboxes</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
       "Files": "5×",
       "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
     },
@@ -600,6 +598,48 @@
       "https://kenney.nl/media/pages/assets/modular-cave-kit/41651200da-1783667093/preview-variation-b.png"
     ],
     "download_url": "https://kenney.nl/media/pages/assets/modular-cave-kit/37ec3cb12d-1783667097/kenney_modular-cave-kit_1.0.zip"
+  },
+  {
+    "title": "Tiny Farm",
+    "meta": {
+      "Tags": [
+        "farm",
+        "rpg",
+        "roguelike",
+        "map",
+        "pixel"
+      ],
+      "Category": "2D",
+      "Series": "Tiny",
+      "Tile size": "16 × 16",
+      "Files": 130,
+      "License": "Creative Commons CC0"
+    },
+    "updates": [
+      {
+        "name": "1.0",
+        "description": "Released in 2026",
+        "date": "2026-07-01T00:00:00.000Z"
+      }
+    ],
+    "_extracted": {
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
+      "version": "1.0"
+    },
+    "_raw_meta": {
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:farm\" class=\"tag\">farm</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:roguelike\" class=\"tag\">roguelike</a><a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Tiny\">Tiny</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+      "Files": "130×",
+      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+    },
+    "slug": "tiny-farm",
+    "images": [
+      "https://kenney.nl/media/pages/assets/tiny-farm/16901f996e-1782913581/preview.png",
+      "https://kenney.nl/media/pages/assets/tiny-farm/6a39809886-1782913585/sample.png"
+    ],
+    "download_url": "https://kenney.nl/media/pages/assets/tiny-farm/dfded1ae3e-1782913588/kenney_tiny-farm.zip"
   },
   {
     "title": "Flag Pack",
@@ -2106,46 +2146,6 @@
       "https://kenney.nl/media/pages/assets/tower-defense-kit/d3a7df9486-1726042092/preview-variation-a.png"
     ],
     "download_url": "https://kenney.nl/media/pages/assets/tower-defense-kit/a402493eaa-1726471567/kenney_tower-defense-kit.zip"
-  },
-  {
-    "title": "UI Pack - Pixel Adventure",
-    "meta": {
-      "Tags": [
-        "button",
-        "panel",
-        "slider",
-        "interface",
-        "pixel"
-      ],
-      "Category": "2D",
-      "Series": "UI Pack",
-      "Files": 500,
-      "License": "Creative Commons CC0"
-    },
-    "updates": [
-      {
-        "name": "1.0",
-        "description": "Released in 2024",
-        "date": "2024-09-04T00:00:00.000Z"
-      }
-    ],
-    "_extracted": {
-      "createdAt": "2024-09-04T00:00:00.000Z",
-      "updatedAt": "2024-09-04T00:00:00.000Z",
-      "version": "1.0"
-    },
-    "_raw_meta": {
-      "Tags": "<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:UI Pack\">UI Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-      "Files": "500×",
-      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
-    },
-    "slug": "ui-pack-pixel-adventure",
-    "images": [
-      "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/c3620d8fd7-1725434335/preview.png",
-      "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample.png"
-    ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/405ba5278a-1729196257/kenney_ui-pack-pixel-adventure.zip"
   },
   {
     "title": "Prototype Kit",
@@ -7583,6 +7583,46 @@
       "https://kenney.nl/media/pages/assets/rpg-base/1147889926-1677669628/sample.png"
     ],
     "download_url": "https://kenney.nl/media/pages/assets/rpg-base/316dd80b01-1677669634/kenney_rpg-base.zip"
+  },
+  {
+    "title": "UI Pack (RPG Expansion)",
+    "meta": {
+      "Tags": [
+        "button",
+        "panel",
+        "slider",
+        "rpg",
+        "interface"
+      ],
+      "Category": "2D",
+      "Series": "",
+      "Files": 85,
+      "License": "Creative Commons CC0"
+    },
+    "updates": [
+      {
+        "name": "1.0",
+        "description": "Released in 2014",
+        "date": "2014-04-20T00:00:00.000Z"
+      }
+    ],
+    "_extracted": {
+      "createdAt": "2014-04-20T00:00:00.000Z",
+      "updatedAt": "2014-04-20T00:00:00.000Z",
+      "version": "1.0"
+    },
+    "_raw_meta": {
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:slider\" class=\"tag\">slider</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Files": "85×",
+      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+    },
+    "slug": "ui-pack-rpg-expansion",
+    "images": [
+      "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/eaf7fbd2f7-1677661818/preview.png",
+      "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/3cbd16d800-1677661820/sample.png"
+    ],
+    "download_url": "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/7ec4a46657-1677661824/kenney_ui-pack-rpg-expansion.zip"
   },
   {
     "title": "Platformer Art Extended Tileset",
