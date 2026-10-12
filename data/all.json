@@ -1,5 +1,116 @@
 [
   {
+    "title": "Mini Skate",
+    "meta": {
+      "Tags": [
+        "skateboard",
+        "park"
+      ],
+      "Category": "3D",
+      "Series": "Mini",
+      "Features": [
+        "🎞️Animation",
+        "🎨Variation(s)"
+      ],
+      "Files": 40,
+      "License": "Creative Commons CC0"
+    },
+    "updates": [
+      {
+        "name": "1.0",
+        "description": "Released in 2023",
+        "date": "2023-08-27T00:00:00.000Z"
+      },
+      {
+        "name": "1.2",
+        "description": "Character rig(s)",
+        "date": "2024-02-29T00:00:00.000Z"
+      },
+      {
+        "name": "2.0",
+        "description": "Remade, new content added",
+        "date": "2026-10-12T00:00:00.000Z"
+      }
+    ],
+    "_extracted": {
+      "createdAt": "2023-08-27T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z",
+      "version": "2.0"
+    },
+    "_raw_meta": {
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:skateboard\" class=\"tag\">skateboard</a><a href=\"https://kenney.nl/assets/tag:park\" class=\"tag\">park</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "Files": "40×",
+      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+    },
+    "slug": "mini-skate",
+    "images": [
+      "https://kenney.nl/media/pages/assets/mini-skate/80442328b5-1791798655/preview.png",
+      "https://kenney.nl/media/pages/assets/mini-skate/f6068b9ce8-1791798662/sample.png",
+      "https://kenney.nl/media/pages/assets/mini-skate/140c7fe4f8-1791798701/preview-variation-a.png"
+    ],
+    "download_url": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1791798670/kenney_mini-skate.zip"
+  },
+  {
+    "title": "City Kit (Roads)",
+    "meta": {
+      "Tags": [
+        "road",
+        "city",
+        "town"
+      ],
+      "Category": "3D",
+      "Series": "City",
+      "Features": [
+        "🎨Variation(s)"
+      ],
+      "Files": 90,
+      "License": "Creative Commons CC0"
+    },
+    "updates": [
+      {
+        "name": "1.0",
+        "description": "Released in 2021",
+        "date": "2021-10-15T00:00:00.000Z"
+      },
+      {
+        "name": "2.0",
+        "description": "Optimization, fixes and expansion",
+        "date": "2025-03-13T00:00:00.000Z"
+      },
+      {
+        "name": "2.1",
+        "description": "Road signs and traffic lights",
+        "date": "2026-08-18T00:00:00.000Z"
+      },
+      {
+        "name": "2.2",
+        "description": "Fixed small normals issue (dumpster)",
+        "date": "2026-10-10T00:00:00.000Z"
+      }
+    ],
+    "_extracted": {
+      "createdAt": "2021-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z",
+      "version": "2.2"
+    },
+    "_raw_meta": {
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "Files": "90×",
+      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+    },
+    "slug": "city-kit-roads",
+    "images": [
+      "https://kenney.nl/media/pages/assets/city-kit-roads/8570bf4a2f-1787042771/preview.png",
+      "https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png",
+      "https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"
+    ],
+    "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1791628607/kenney_city-kit-roads.zip"
+  },
+  {
     "title": "Skyboxes Space",
     "meta": {
       "Tags": [
@@ -127,59 +238,6 @@
       "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/d99897f3c7-1787574403/sample.png"
     ],
     "download_url": "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/e28d7ba15c-1787574405/kenney_scribble-platformer-expansion_1.0.zip"
-  },
-  {
-    "title": "City Kit (Roads)",
-    "meta": {
-      "Tags": [
-        "road",
-        "city",
-        "town"
-      ],
-      "Category": "3D",
-      "Series": "City",
-      "Features": [
-        "🎨Variation(s)"
-      ],
-      "Files": 90,
-      "License": "Creative Commons CC0"
-    },
-    "updates": [
-      {
-        "name": "1.0",
-        "description": "Released in 2021",
-        "date": "2021-10-15T00:00:00.000Z"
-      },
-      {
-        "name": "2.0",
-        "description": "Optimization, fixes and expansion",
-        "date": "2025-03-13T00:00:00.000Z"
-      },
-      {
-        "name": "2.1",
-        "description": "Road signs and traffic lights",
-        "date": "2026-08-18T00:00:00.000Z"
-      }
-    ],
-    "_extracted": {
-      "createdAt": "2021-10-15T00:00:00.000Z",
-      "updatedAt": "2026-08-18T00:00:00.000Z",
-      "version": "2.1"
-    },
-    "_raw_meta": {
-      "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "Files": "90×",
-      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
-    },
-    "slug": "city-kit-roads",
-    "images": [
-      "https://kenney.nl/media/pages/assets/city-kit-roads/8570bf4a2f-1787042771/preview.png",
-      "https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png",
-      "https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"
-    ],
-    "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip"
   },
   {
     "title": "Pattern Pack Extra",
@@ -3198,53 +3256,6 @@
       "https://kenney.nl/media/pages/assets/mini-arena/acc1e8d98e-1709220747/sample.png"
     ],
     "download_url": "https://kenney.nl/media/pages/assets/mini-arena/88f977a0cb-1709220730/kenney_mini-arena.zip"
-  },
-  {
-    "title": "Mini Skate",
-    "meta": {
-      "Tags": [
-        "skateboard",
-        "park"
-      ],
-      "Category": "3D",
-      "Series": "Mini",
-      "Features": [
-        "🎞️Animation",
-        "🎨Variation(s)"
-      ],
-      "Files": 20,
-      "License": "Creative Commons CC0"
-    },
-    "updates": [
-      {
-        "name": "1.0",
-        "description": "Released in 2023",
-        "date": "2023-08-27T00:00:00.000Z"
-      },
-      {
-        "name": "1.2",
-        "description": "Character rig(s)",
-        "date": "2024-02-29T00:00:00.000Z"
-      }
-    ],
-    "_extracted": {
-      "createdAt": "2023-08-27T00:00:00.000Z",
-      "updatedAt": "2024-02-29T00:00:00.000Z",
-      "version": "1.2"
-    },
-    "_raw_meta": {
-      "Tags": "<a href=\"https://kenney.nl/assets/tag:skateboard\" class=\"tag\">skateboard</a><a href=\"https://kenney.nl/assets/tag:park\" class=\"tag\">park</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "Files": "20×",
-      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
-    },
-    "slug": "mini-skate",
-    "images": [
-      "https://kenney.nl/media/pages/assets/mini-skate/80442328b5-1709221246/preview.png",
-      "https://kenney.nl/media/pages/assets/mini-skate/f6068b9ce8-1709221252/sample.png"
-    ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1709221152/kenney_mini-skate.zip"
   },
   {
     "title": "Yellow Paint Pack",

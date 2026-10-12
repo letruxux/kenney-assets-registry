@@ -29,12 +29,17 @@
       "name": "2.1",
       "description": "Road signs and traffic lights",
       "date": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "name": "2.2",
+      "description": "Fixed small normals issue (dumpster)",
+      "date": "2026-10-10T00:00:00.000Z"
     }
   ],
   "_extracted": {
     "createdAt": "2021-10-15T00:00:00.000Z",
-    "updatedAt": "2026-08-18T00:00:00.000Z",
-    "version": "2.1"
+    "updatedAt": "2026-10-10T00:00:00.000Z",
+    "version": "2.2"
   },
   "_raw_meta": {
     "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
@@ -49,5 +54,5 @@
     "https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png",
     "https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"
   ],
-  "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip"
+  "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1791628607/kenney_city-kit-roads.zip"
 }
