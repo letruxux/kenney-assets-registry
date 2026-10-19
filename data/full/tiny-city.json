@@ -1,0 +1,41 @@
+{
+  "title": "Tiny City",
+  "meta": {
+    "Tags": [
+      "map",
+      "pixel",
+      "city",
+      "building"
+    ],
+    "Category": "2D",
+    "Series": "Tiny",
+    "Tile size": "16 × 16",
+    "Files": 130,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2026",
+      "date": "2026-10-19T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2026-10-19T00:00:00.000Z",
+    "updatedAt": "2026-10-19T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Tiny\">Tiny</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
+    "Files": "130×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "tiny-city",
+  "images": [
+    "https://kenney.nl/media/pages/assets/tiny-city/a1b745983b-1791720759/preview.png",
+    "https://kenney.nl/media/pages/assets/tiny-city/75846f7f9d-1791720761/sample.png"
+  ],
+  "download_url": "https://kenney.nl/media/pages/assets/tiny-city/357bf73846-1791720771/kenney_tiny-city.zip"
+}
