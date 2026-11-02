@@ -1,0 +1,52 @@
+{
+  "title": "Mini Shop",
+  "meta": {
+    "Tags": [
+      "shop",
+      "market",
+      "supermarket",
+      "store"
+    ],
+    "Category": "3D",
+    "Series": "Mini",
+    "Features": [
+      "🎞️Animation",
+      "🎨Variation(s)"
+    ],
+    "Files": 30,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2024",
+      "date": "2024-10-25T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "Completely remade",
+      "date": "2026-11-02T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2024-10-25T00:00:00.000Z",
+    "updatedAt": "2026-11-02T00:00:00.000Z",
+    "version": "2.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"tag\">store</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Files": "30×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "mini-shop",
+  "images": [
+    "https://kenney.nl/media/pages/assets/mini-shop/0213688498-1793625375/preview.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/dd6950b1df-1793625382/sample.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/9dbdda3bd5-1793625389/preview-variation-a.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/8dabda56ab-1793625395/preview-variation-b.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/4b07572a34-1793625402/preview-variation-c.png"
+  ],
+  "download_url": "#"
+}

@@ -1,5 +1,57 @@
 [
   {
+    "title": "Mini Shop",
+    "meta": {
+      "Tags": [
+        "shop",
+        "market",
+        "supermarket",
+        "store"
+      ],
+      "Category": "3D",
+      "Series": "Mini",
+      "Features": [
+        "🎞️Animation",
+        "🎨Variation(s)"
+      ],
+      "Files": 30,
+      "License": "Creative Commons CC0"
+    },
+    "updates": [
+      {
+        "name": "1.0",
+        "description": "Released in 2024",
+        "date": "2024-10-25T00:00:00.000Z"
+      },
+      {
+        "name": "2.0",
+        "description": "Completely remade",
+        "date": "2026-11-02T00:00:00.000Z"
+      }
+    ],
+    "_extracted": {
+      "createdAt": "2024-10-25T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z",
+      "version": "2.0"
+    },
+    "_raw_meta": {
+      "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"tag\">store</a>",
+      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "Files": "30×",
+      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+    },
+    "slug": "mini-shop",
+    "images": [
+      "https://kenney.nl/media/pages/assets/mini-shop/0213688498-1793625375/preview.png",
+      "https://kenney.nl/media/pages/assets/mini-shop/dd6950b1df-1793625382/sample.png",
+      "https://kenney.nl/media/pages/assets/mini-shop/9dbdda3bd5-1793625389/preview-variation-a.png",
+      "https://kenney.nl/media/pages/assets/mini-shop/8dabda56ab-1793625395/preview-variation-b.png",
+      "https://kenney.nl/media/pages/assets/mini-shop/4b07572a34-1793625402/preview-variation-c.png"
+    ],
+    "download_url": "#"
+  },
+  {
     "title": "Tiny City",
     "meta": {
       "Tags": [
@@ -38,7 +90,7 @@
       "https://kenney.nl/media/pages/assets/tiny-city/a1b745983b-1791720759/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-city/75846f7f9d-1791720761/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-city/357bf73846-1791720771/kenney_tiny-city.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Skate",
@@ -91,7 +143,7 @@
       "https://kenney.nl/media/pages/assets/mini-skate/f6068b9ce8-1791798662/sample.png",
       "https://kenney.nl/media/pages/assets/mini-skate/140c7fe4f8-1791798701/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1791798670/kenney_mini-skate.zip"
+    "download_url": "#"
   },
   {
     "title": "City Kit (Roads)",
@@ -149,7 +201,7 @@
       "https://kenney.nl/media/pages/assets/city-kit-roads/8021370415-1787042780/sample.png",
       "https://kenney.nl/media/pages/assets/city-kit-roads/e870dc1305-1787042788/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1791628607/kenney_city-kit-roads.zip"
+    "download_url": "#"
   },
   {
     "title": "Skyboxes Space",
@@ -189,7 +241,7 @@
       "https://kenney.nl/media/pages/assets/skyboxes-space/ca125d51be-1790850365/sample-galaxy.png",
       "https://kenney.nl/media/pages/assets/skyboxes-space/97c90002c2-1790850368/sample-band.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/skyboxes-space/b3d0ebe0d4-1790850383/kenney_skyboxes-space.zip"
+    "download_url": "#"
   },
   {
     "title": "Tiny Factory",
@@ -231,7 +283,7 @@
       "https://kenney.nl/media/pages/assets/tiny-factory/94fa257075-1788860851/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-factory/367deb9f42-1788860854/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-factory/1652277319-1788860879/kenney_tiny-factory.zip"
+    "download_url": "#"
   },
   {
     "title": "City Kit (Industrial)",
@@ -282,7 +334,7 @@
       "https://kenney.nl/media/pages/assets/city-kit-industrial/e5e7e06f51-1788171832/preview-variation-c.png",
       "https://kenney.nl/media/pages/assets/city-kit-industrial/290e3961bb-1788171840/preview-variation-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/city-kit-industrial/0ec35b139d-1788171848/kenney_city-kit-industrial_2.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Scribble Platformer Expansion",
@@ -320,7 +372,7 @@
       "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/6c9176c3ba-1787574400/preview.png",
       "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/d99897f3c7-1787574403/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/e28d7ba15c-1787574405/kenney_scribble-platformer-expansion_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Pattern Pack Extra",
@@ -365,7 +417,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pattern-pack-extra/f17ae7862d-1786358091/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pattern-pack-extra/270736c7fd-1786626805/kenney_pattern-pack-extra.zip"
+    "download_url": "#"
   },
   {
     "title": "Crosshair Pack",
@@ -410,7 +462,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/crosshair-pack/6aac591d3a-1677697135/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/crosshair-pack/5ef74bd405-1785950072/kenney_crosshair-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Domino Pack",
@@ -447,7 +499,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/domino-pack/eb1f762289-1785701503/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/domino-pack/b660438972-1785701505/kenney_domino-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Dungeon",
@@ -506,7 +558,7 @@
       "https://kenney.nl/media/pages/assets/mini-dungeon/e508b09988-1785314281/preview.png",
       "https://kenney.nl/media/pages/assets/mini-dungeon/5b23e91c6e-1785314288/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-dungeon/6cd72dc849-1785314274/kenney_mini-dungeon.zip"
+    "download_url": "#"
   },
   {
     "title": "Skyboxes",
@@ -547,7 +599,7 @@
       "https://kenney.nl/media/pages/assets/skyboxes/d32d55b81b-1784123468/sample-day.png",
       "https://kenney.nl/media/pages/assets/skyboxes/09a48379c9-1784123468/sample-night.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/skyboxes/6736ff5c10-1784123473/kenney_skyboxes.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Forest",
@@ -590,7 +642,7 @@
       "https://kenney.nl/media/pages/assets/mini-forest/caeee17e96-1784024073/preview.png",
       "https://kenney.nl/media/pages/assets/mini-forest/cb98284e11-1784024076/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-forest/44a89aed7f-1784024079/kenney_mini-forest_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Input Prompts",
@@ -694,7 +746,7 @@
       "https://kenney.nl/media/pages/assets/input-prompts/5683d85baf-1709558165/preview-nintendo-wiiu.png",
       "https://kenney.nl/media/pages/assets/input-prompts/2375f03562-1743683508/preview-gamecube.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/input-prompts/8de120163f-1783763952/kenney_input-prompts_1.5.zip"
+    "download_url": "#"
   },
   {
     "title": "Modular Cave Kit",
@@ -738,7 +790,7 @@
       "https://kenney.nl/media/pages/assets/modular-cave-kit/0a374795be-1783667093/preview-variation-a.png",
       "https://kenney.nl/media/pages/assets/modular-cave-kit/41651200da-1783667093/preview-variation-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/modular-cave-kit/37ec3cb12d-1783667097/kenney_modular-cave-kit_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Tiny Farm",
@@ -780,7 +832,7 @@
       "https://kenney.nl/media/pages/assets/tiny-farm/16901f996e-1782913581/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-farm/6a39809886-1782913585/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-farm/dfded1ae3e-1782913588/kenney_tiny-farm.zip"
+    "download_url": "#"
   },
   {
     "title": "Flag Pack",
@@ -819,7 +871,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/flag-pack/5e6ac1ed7c-1780995503/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/flag-pack/f1423dd38b-1780995519/kenney_flag-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Factory Kit",
@@ -885,7 +937,7 @@
       "https://kenney.nl/media/pages/assets/factory-kit/7e1e831724-1777639590/sample.png",
       "https://kenney.nl/media/pages/assets/factory-kit/9b9bac66e5-1777639596/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Car Kit",
@@ -938,7 +990,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/car-kit/81f9d77bc7-1775131953/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/car-kit/1a312ec241-1775131960/kenney_car-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Kit",
@@ -997,7 +1049,7 @@
       "https://kenney.nl/media/pages/assets/platformer-kit/179773c1e5-1775122242/preview-variation-a.png",
       "https://kenney.nl/media/pages/assets/platformer-kit/12fa6cafde-1775122247/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-kit/1585cf62b4-1775122253/kenney_platformer-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Modular Dungeon Kit",
@@ -1052,7 +1104,7 @@
       "https://kenney.nl/media/pages/assets/modular-dungeon-kit/203379525b-1771926053/preview-variation-b.png",
       "https://kenney.nl/media/pages/assets/modular-dungeon-kit/154fbf758f-1771926058/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/modular-dungeon-kit/7bed87605b-1771926065/kenney_modular-dungeon-kit_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Pirate Kit",
@@ -1107,7 +1159,7 @@
       "https://kenney.nl/media/pages/assets/pirate-kit/ae3180d290-1771333077/preview.png",
       "https://kenney.nl/media/pages/assets/pirate-kit/32cfbe372c-1771333087/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pirate-kit/e6d4bb1525-1771333093/kenney_pirate-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Modular Space Kit",
@@ -1154,7 +1206,7 @@
       "https://kenney.nl/media/pages/assets/modular-space-kit/bebf90e870-1771146086/preview-variation-b.png",
       "https://kenney.nl/media/pages/assets/modular-space-kit/e7d2fded5d-1771146087/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/modular-space-kit/8261428a47-1771146076/kenney_modular-space-kit_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Retro Textures Fantasy",
@@ -1191,7 +1243,7 @@
       "https://kenney.nl/media/pages/assets/retro-textures-fantasy/56de38c46e-1768475450/preview.png",
       "https://kenney.nl/media/pages/assets/retro-textures-fantasy/1ac0cad8d6-1768475452/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/retro-textures-fantasy/db459aee90-1774770433/kenney_retro-textures-fantasy.zip"
+    "download_url": "#"
   },
   {
     "title": "Development Essentials",
@@ -1232,7 +1284,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/development-essentials/87174ad548-1767593444/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/development-essentials/aa22019597-1767593474/kenney_development-essentials.zip"
+    "download_url": "#"
   },
   {
     "title": "New Platformer Pack",
@@ -1279,7 +1331,7 @@
       "https://kenney.nl/media/pages/assets/new-platformer-pack/85e6d78737-1746559490/sample-a.png",
       "https://kenney.nl/media/pages/assets/new-platformer-pack/3547f2c9bb-1746559490/sample-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/new-platformer-pack/1896103897-1764756702/kenney_new-platformer-pack-1.1.zip"
+    "download_url": "#"
   },
   {
     "title": "Graveyard Kit",
@@ -1338,7 +1390,7 @@
       "https://kenney.nl/media/pages/assets/graveyard-kit/d1cc92aea2-1760691796/preview.png",
       "https://kenney.nl/media/pages/assets/graveyard-kit/9f3be82eb6-1760691801/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/graveyard-kit/ba8d4b4517-1760691807/kenney_graveyard-kit_5.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Desert Shooter Pack",
@@ -1380,7 +1432,7 @@
       "https://kenney.nl/media/pages/assets/desert-shooter-pack/a6ead20778-1758814237/sample-a.png",
       "https://kenney.nl/media/pages/assets/desert-shooter-pack/a04d6849e9-1758814240/sample-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/desert-shooter-pack/ca69c66653-1758814247/kenney_desert-shooter-pack_1.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Mobile Controls",
@@ -1420,7 +1472,7 @@
       "https://kenney.nl/media/pages/assets/mobile-controls/90787b1c18-1754738442/preview.png",
       "https://kenney.nl/media/pages/assets/mobile-controls/616d64eeba-1754738447/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mobile-controls/0d047b3be4-1754738457/mobile-controls-1.zip"
+    "download_url": "#"
   },
   {
     "title": "Fantasy Town Kit",
@@ -1469,7 +1521,7 @@
       "https://kenney.nl/media/pages/assets/fantasy-town-kit/c13eafebab-1754222363/sample.png",
       "https://kenney.nl/media/pages/assets/fantasy-town-kit/4d60467c94-1754222370/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/fantasy-town-kit/efe948d309-1754222374/kenney_fantasy-town-kit_2.0.zip"
+    "download_url": "#"
   },
   {
     "title": "Blaster Kit",
@@ -1522,7 +1574,7 @@
       "https://kenney.nl/media/pages/assets/blaster-kit/7f0e90a313-1753959516/preview.png",
       "https://kenney.nl/media/pages/assets/blaster-kit/6a4e19e08a-1753959522/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/blaster-kit/261d80a716-1753959510/kenney_blaster-kit_2.1.zip"
+    "download_url": "#"
   },
   {
     "title": "City Kit (Commercial)",
@@ -1576,7 +1628,7 @@
       "https://kenney.nl/media/pages/assets/city-kit-commercial/7f226bb5d5-1747481478/preview-variation-a.png",
       "https://kenney.nl/media/pages/assets/city-kit-commercial/c5150de138-1747481480/preview-variation-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/kenney_city-kit-commercial_2.1.zip"
+    "download_url": "#"
   },
   {
     "title": "Blocky Characters",
@@ -1620,7 +1672,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/blocky-characters/4ace046751-1749547441/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/blocky-characters/8369c0cf30-1749547469/kenney_blocky-characters_20.zip"
+    "download_url": "#"
   },
   {
     "title": "Fish Pack",
@@ -1663,7 +1715,7 @@
       "https://kenney.nl/media/pages/assets/fish-pack/087a70e885-1747237949/preview.png",
       "https://kenney.nl/media/pages/assets/fish-pack/d45432eddb-1747237954/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/fish-pack/07ae98c5b6-1747237960/kenney_fish-pack_2.zip"
+    "download_url": "#"
   },
   {
     "title": "City Kit (Suburban)",
@@ -1713,7 +1765,7 @@
       "https://kenney.nl/media/pages/assets/city-kit-suburban/f17c1b5d05-1745479410/preview-variation-c.png",
       "https://kenney.nl/media/pages/assets/city-kit-suburban/7e46753eef-1745479411/preview-variation-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/city-kit-suburban/2c871b7af2-1745479373/kenney_city-kit-suburban_20.zip"
+    "download_url": "#"
   },
   {
     "title": "Minigolf Kit",
@@ -1768,7 +1820,7 @@
       "https://kenney.nl/media/pages/assets/minigolf-kit/977a67d9d3-1741163853/preview-variation-b.png",
       "https://kenney.nl/media/pages/assets/minigolf-kit/1bd080142d-1741163867/preview-spline-concave.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/minigolf-kit/3ae60d8b01-1741163874/kenney_minigolf-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Retro Fantasy Kit",
@@ -1813,7 +1865,7 @@
       "https://kenney.nl/media/pages/assets/retro-fantasy-kit/a75fd8ad2c-1739977937/preview.png",
       "https://kenney.nl/media/pages/assets/retro-fantasy-kit/624944f6df-1739977943/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/retro-fantasy-kit/cf3f41b752-1774770658/kenney_retro-fantasy-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Retro Urban Kit",
@@ -1857,7 +1909,7 @@
       "https://kenney.nl/media/pages/assets/retro-urban-kit/2409906a75-1738147494/preview.png",
       "https://kenney.nl/media/pages/assets/retro-urban-kit/b9c649752d-1738147501/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/retro-urban-kit/8314d4db22-1738147509/kenney_retro-urban-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Toy Car Kit",
@@ -1910,7 +1962,7 @@
       "https://kenney.nl/media/pages/assets/toy-car-kit/d580663022-1736346132/preview-track-striped-narrow.png",
       "https://kenney.nl/media/pages/assets/toy-car-kit/f114aa8585-1736346131/preview-track-striped-wide.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/toy-car-kit/42e19cc426-1736346027/kenney_toy-car-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Tiny Town",
@@ -1958,7 +2010,7 @@
       "https://kenney.nl/media/pages/assets/tiny-town/fc6adf02eb-1674742335/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-town/e241a9f6c0-1674742338/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-town/a415fbeb49-1735736916/kenney_tiny-town.zip"
+    "download_url": "#"
   },
   {
     "title": "Holiday Kit",
@@ -2006,7 +2058,7 @@
       "https://kenney.nl/media/pages/assets/holiday-kit/9e62ea4066-1733923957/preview.png",
       "https://kenney.nl/media/pages/assets/holiday-kit/2e8f59c1ab-1733923964/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/holiday-kit/3976a6496a-1733923970/kenney_holiday-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Coaster Kit",
@@ -2052,7 +2104,7 @@
       "https://kenney.nl/media/pages/assets/coaster-kit/e69b8ff909-1731487885/preview-coaster-hanging.png",
       "https://kenney.nl/media/pages/assets/coaster-kit/65060e4cc4-1731487885/preview-coaster-flume.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Minimap Pack",
@@ -2095,53 +2147,7 @@
       "https://kenney.nl/media/pages/assets/minimap-pack/2635bdd96a-1730884744/preview.png",
       "https://kenney.nl/media/pages/assets/minimap-pack/a9ddfeb545-1730884731/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/minimap-pack/37d4e34596-1730884114/kenney_minimap-pack.zip"
-  },
-  {
-    "title": "Mini Market",
-    "meta": {
-      "Tags": [
-        "shop",
-        "market",
-        "supermarket",
-        "store"
-      ],
-      "Category": "3D",
-      "Series": "Mini",
-      "Features": [
-        "🎞️Animation",
-        "🎨Variation(s)"
-      ],
-      "Files": 20,
-      "License": "Creative Commons CC0"
-    },
-    "updates": [
-      {
-        "name": "1.0",
-        "description": "Released in 2024",
-        "date": "2024-10-25T00:00:00.000Z"
-      }
-    ],
-    "_extracted": {
-      "createdAt": "2024-10-25T00:00:00.000Z",
-      "updatedAt": "2024-10-25T00:00:00.000Z",
-      "version": "1.0"
-    },
-    "_raw_meta": {
-      "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"tag\">store</a>",
-      "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-      "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "Files": "20×",
-      "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
-    },
-    "slug": "mini-market",
-    "images": [
-      "https://kenney.nl/media/pages/assets/mini-market/00f33430ac-1729865126/preview.png",
-      "https://kenney.nl/media/pages/assets/mini-market/0d36e77964-1729865129/sample.png",
-      "https://kenney.nl/media/pages/assets/mini-market/a933dd6527-1729865167/preview-variation-a.png",
-      "https://kenney.nl/media/pages/assets/mini-market/6cae7053aa-1729865169/preview-variation-b.png"
-    ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-market/463f38da51-1729865423/kenney_mini-market.zip"
+    "download_url": "#"
   },
   {
     "title": "Roguelike Characters",
@@ -2185,7 +2191,7 @@
       "https://kenney.nl/media/pages/assets/roguelike-characters/86559e078a-1677694929/preview.png",
       "https://kenney.nl/media/pages/assets/roguelike-characters/da661e4fb3-1677694932/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/roguelike-characters/53ffff4133-1729196490/kenney_roguelike-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Train Kit",
@@ -2233,7 +2239,7 @@
       "https://kenney.nl/media/pages/assets/train-kit/d4aa6098b1-1727040968/preview-railroad-rail.png",
       "https://kenney.nl/media/pages/assets/train-kit/ba4c8dde7e-1727040968/preview-railroad.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/train-kit/cf8521d625-1727040883/kenney_train-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Tower Defense Kit",
@@ -2286,7 +2292,7 @@
       "https://kenney.nl/media/pages/assets/tower-defense-kit/1f419ba88f-1726042030/sample.png",
       "https://kenney.nl/media/pages/assets/tower-defense-kit/d3a7df9486-1726042092/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tower-defense-kit/a402493eaa-1726471567/kenney_tower-defense-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "UI Pack - Pixel Adventure",
@@ -2326,7 +2332,7 @@
       "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/c3620d8fd7-1725434335/preview.png",
       "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/405ba5278a-1729196257/kenney_ui-pack-pixel-adventure.zip"
+    "download_url": "#"
   },
   {
     "title": "Prototype Kit",
@@ -2372,7 +2378,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/prototype-kit/6ed928c9d0-1724832070/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "UI Pack - Sci-Fi",
@@ -2418,7 +2424,7 @@
       "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/7b0f896462-1724181098/preview.png",
       "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/00227142e5-1724181103/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/b67c2acd31-1724181109/kenney_ui-pack-space-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Pico-8 Platformer",
@@ -2460,7 +2466,7 @@
       "https://kenney.nl/media/pages/assets/pico-8-platformer/a52e2de7d5-1723028948/preview.png",
       "https://kenney.nl/media/pages/assets/pico-8-platformer/2abfa71aef-1723028951/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pico-8-platformer/5cc9d17030-1723028953/kenney_pico-8-platformer.zip"
+    "download_url": "#"
   },
   {
     "title": "Pattern Pack",
@@ -2505,7 +2511,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pattern-pack/3b80483303-1677484337/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pattern-pack/e787377a73-1721940715/kenney_pattern-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Brick Pack",
@@ -2549,7 +2555,7 @@
       "https://kenney.nl/media/pages/assets/brick-pack/4e82bb6b64-1721806556/preview.png",
       "https://kenney.nl/media/pages/assets/brick-pack/9cebe2fff0-1721806549/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/brick-pack/4dade725a3-1721806579/kenney_toy-brick-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Board Game Icons",
@@ -2592,7 +2598,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/board-game-icons/d5c5bd2f28-1674933139/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/board-game-icons/19cae04050-1721645690/kenney_board-game-icons.zip"
+    "download_url": "#"
   },
   {
     "title": "Casino Audio",
@@ -2636,7 +2642,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/casino-audio/225669dbea-1677590184/preview-2.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Arcade",
@@ -2692,7 +2698,7 @@
       "https://kenney.nl/media/pages/assets/mini-arcade/b5023b9a8a-1720210178/preview-variation-a.png",
       "https://kenney.nl/media/pages/assets/mini-arcade/553eedf874-1720210178/preview-variation-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-arcade/ece1e8f320-1721638600/kenney_mini-arcade.zip"
+    "download_url": "#"
   },
   {
     "title": "Pattern Pack Pixel",
@@ -2738,7 +2744,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pattern-pack-pixel/481a61c702-1721639978/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pattern-pack-pixel/65c3f0f0a1-1721640064/kenney_pattern-pack-pixel.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Characters",
@@ -2779,7 +2785,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/mini-characters/357d1a9452-1721210569/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-characters/bfc7e272b4-1774770718/kenney_mini-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Cursor Pixel Pack",
@@ -2819,7 +2825,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/cursor-pixel-pack/c79ea7ecd0-1720601327/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/cursor-pixel-pack/092f2b012b-1720601332/kenney_cursor-pixel-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Food Kit",
@@ -2861,7 +2867,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/food-kit/7a37477a9c-1719418523/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/food-kit/83086fa91c-1719418518/kenney_food-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Building Kit",
@@ -2904,7 +2910,7 @@
       "https://kenney.nl/media/pages/assets/building-kit/617be3e07b-1718801879/sample.png",
       "https://kenney.nl/media/pages/assets/building-kit/5ddbcb2185-1718801900/preview-variation-a.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/building-kit/0de7aaa492-1743244741/kenney_building-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "UI Pack",
@@ -2948,7 +2954,7 @@
       "https://kenney.nl/media/pages/assets/ui-pack/ab9e396e4d-1718203978/preview.png",
       "https://kenney.nl/media/pages/assets/ui-pack/249266460a-1718203984/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-pack/f651646eab-1718203990/kenney_ui-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Cursor Pack",
@@ -2990,7 +2996,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/cursor-pack/20a4fec3b6-1717599288/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/cursor-pack/461b29df18-1717599281/kenney_cursor-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Brick Kit",
@@ -3029,7 +3035,7 @@
       "https://kenney.nl/media/pages/assets/brick-kit/39fa9865b3-1716980994/preview.png",
       "https://kenney.nl/media/pages/assets/brick-kit/9127eb4267-1716980998/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/brick-kit/46a22f3d08-1716981002/kenney_brick-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Marble Kit",
@@ -3078,7 +3084,7 @@
       "https://kenney.nl/media/pages/assets/marble-kit/5bc93fa414-1716385132/preview-variation-b.png",
       "https://kenney.nl/media/pages/assets/marble-kit/0073960b23-1716385133/preview-variation-c.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Watercraft Kit",
@@ -3126,7 +3132,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/watercraft-kit/0a7953e9b7-1713354133/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/watercraft-kit/a335cfed49-1713519620/kenney_watercraft-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Space Station Kit",
@@ -3165,7 +3171,7 @@
       "https://kenney.nl/media/pages/assets/space-station-kit/8fe239bfdb-1712749912/preview.png",
       "https://kenney.nl/media/pages/assets/space-station-kit/a795b59757-1712749915/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/space-station-kit/6475288f2e-1712749919/kenney_space-station-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Survival Kit",
@@ -3211,7 +3217,7 @@
       "https://kenney.nl/media/pages/assets/survival-kit/ae48c674e0-1712149231/preview.png",
       "https://kenney.nl/media/pages/assets/survival-kit/4c1d761236-1712149236/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/survival-kit/4065a8185b-1712149243/kenney_survival-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Castle Kit",
@@ -3257,7 +3263,7 @@
       "https://kenney.nl/media/pages/assets/castle-kit/72159b3269-1711543640/preview.png",
       "https://kenney.nl/media/pages/assets/castle-kit/b047abca12-1711543631/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Googly Eyes",
@@ -3292,7 +3298,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/googly-eyes/02306ecb94-1709574776/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/googly-eyes/b5a22d641d-1709670508/kenney_googly-eyes.zip"
+    "download_url": "#"
   },
   {
     "title": "Mini Arena",
@@ -3339,7 +3345,7 @@
       "https://kenney.nl/media/pages/assets/mini-arena/23ebc7a71c-1709220740/preview.png",
       "https://kenney.nl/media/pages/assets/mini-arena/acc1e8d98e-1709220747/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/mini-arena/88f977a0cb-1709220730/kenney_mini-arena.zip"
+    "download_url": "#"
   },
   {
     "title": "Yellow Paint Pack",
@@ -3375,7 +3381,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/yellow-paint-pack/b7c95fcedd-1707675344/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/yellow-paint-pack/737aca1ec1-1707675361/kenney_yellow-paint-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Input Prompts Pixel 1-Bit",
@@ -3424,7 +3430,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/input-prompts-pixel-1-bit/0f76a6644b-1707056476/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/input-prompts-pixel-1-bit/ba3f0202e6-1774771290/kenney_input-prompts-pixel-1-bit.zip"
+    "download_url": "#"
   },
   {
     "title": "Hexagon Kit",
@@ -3471,7 +3477,7 @@
       "https://kenney.nl/media/pages/assets/hexagon-kit/cfcf478d4f-1706007664/preview.png",
       "https://kenney.nl/media/pages/assets/hexagon-kit/3920b0463b-1706007672/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Rune Pack",
@@ -3514,7 +3520,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/rune-pack/1af2851319-1702144003/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/rune-pack/c63018fba6-1702144010/kenney_rune-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Fantasy UI Borders",
@@ -3555,7 +3561,7 @@
       "https://kenney.nl/media/pages/assets/fantasy-ui-borders/6aa4cee682-1701602361/preview.png",
       "https://kenney.nl/media/pages/assets/fantasy-ui-borders/ac36214d33-1701602364/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/fantasy-ui-borders/ab29cd0165-1701602367/kenney_fantasy-ui-borders.zip"
+    "download_url": "#"
   },
   {
     "title": "Monochrome Pirates",
@@ -3596,7 +3602,7 @@
       "https://kenney.nl/media/pages/assets/monochrome-pirates/3565208dc7-1701252754/sample-a.png",
       "https://kenney.nl/media/pages/assets/monochrome-pirates/5d98937b81-1701252757/sample-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/monochrome-pirates/1b6c3591dd-1701252760/kenney_monochrome-pirates.zip"
+    "download_url": "#"
   },
   {
     "title": "Shape Characters",
@@ -3634,7 +3640,7 @@
       "https://kenney.nl/media/pages/assets/shape-characters/b46e97bd9f-1698339456/preview.png",
       "https://kenney.nl/media/pages/assets/shape-characters/f7aa93d6d0-1698339460/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/shape-characters/c016420b08-1698339465/kenney_shape-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Platformer",
@@ -3680,7 +3686,7 @@
       "https://kenney.nl/media/pages/assets/pixel-platformer/bf585643f0-1696667860/samplea.png",
       "https://kenney.nl/media/pages/assets/pixel-platformer/b6a81e5558-1696667866/sampleb.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer/33bb4921eb-1696667883/kenney_pixel-platformer.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Platformer Food Expansion",
@@ -3718,7 +3724,7 @@
       "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/21a31569fc-1696596501/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/5180b9af94-1696596505/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-food-expansion/76330de2bf-1696596511/kenney_pixel-platformer-food-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Pico-8 City",
@@ -3759,7 +3765,7 @@
       "https://kenney.nl/media/pages/assets/pico-8-city/d88b10ab14-1693576584/preview.png",
       "https://kenney.nl/media/pages/assets/pico-8-city/5b5e43e086-1693576588/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pico-8-city/e625ac8b8f-1693576593/kenney_pico-8-city.zip"
+    "download_url": "#"
   },
   {
     "title": "Tiny Battle",
@@ -3802,7 +3808,7 @@
       "https://kenney.nl/media/pages/assets/tiny-battle/49acbeb4b7-1691487569/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-battle/a33076fa44-1691487572/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-battle/c1c25ac1f3-1691487575/kenney_tiny-battle.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Miniature Bases",
@@ -3840,7 +3846,7 @@
       "https://kenney.nl/media/pages/assets/isometric-miniature-bases/4792621cf8-1686811736/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-miniature-bases/cd332573b2-1686811808/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-bases/eb165ab941-1686811744/kenney_isometric-miniature-bases.zip"
+    "download_url": "#"
   },
   {
     "title": "Tiny Ski",
@@ -3880,7 +3886,7 @@
       "https://kenney.nl/media/pages/assets/tiny-ski/15b8633a12-1680201500/preview.png",
       "https://kenney.nl/media/pages/assets/tiny-ski/05dca5ebc4-1680201502/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tiny-ski/22e4573b88-1680201514/kenney_tiny-ski.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Platformer Industrial Expansion",
@@ -3923,7 +3929,7 @@
       "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/02feb64053-1668793434/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f2ac43e198-1668793437/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f95a0189cd-1668793443/kenney_pixel-platformer-industrial-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Pattern Pack Lines",
@@ -3961,7 +3967,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pattern-pack-lines/aa8b7823ef-1677484383/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pattern-pack-lines/6211bda939-1774771397/kenney_pattern-pack-lines.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Platformer Farm Expansion",
@@ -4001,7 +4007,7 @@
       "https://kenney.nl/media/pages/assets/pixel-platformer-farm-expansion/a8df210156-1668789784/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-platformer-farm-expansion/774e7e43c1-1668789788/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-farm-expansion/0d64009c0e-1668789813/kenney_pixel-platformer-farm-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Animated Characters Retro",
@@ -4039,7 +4045,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/animated-characters-retro/a25bc0a3d2-1670690130/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/animated-characters-retro/93305a3c49-1774772819/kenney_animated-characters-retro.zip"
+    "download_url": "#"
   },
   {
     "title": "Sketch Desert",
@@ -4077,7 +4083,7 @@
       "https://kenney.nl/media/pages/assets/sketch-desert/577449b2b4-1677484239/preview.png",
       "https://kenney.nl/media/pages/assets/sketch-desert/8688946b28-1677484243/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sketch-desert/bb048a97d0-1677484250/kenney_sketch-desert.zip"
+    "download_url": "#"
   },
   {
     "title": "Planets",
@@ -4115,7 +4121,7 @@
       "https://kenney.nl/media/pages/assets/planets/87a3d58caf-1677495381/preview.png",
       "https://kenney.nl/media/pages/assets/planets/97e63fa6c0-1677495384/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/planets/512b578338-1677495391/kenney_planets.zip"
+    "download_url": "#"
   },
   {
     "title": "Block Pack",
@@ -4154,7 +4160,7 @@
       "https://kenney.nl/media/pages/assets/block-pack/0967f87983-1677698766/preview.png",
       "https://kenney.nl/media/pages/assets/block-pack/375988cd55-1677698768/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/block-pack/144bd42fea-1677698772/kenney_block-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Splat Pack",
@@ -4191,7 +4197,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/splat-pack/91cb9b703e-1677495346/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/splat-pack/1070534984-1677495350/kenney_splat-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Scribble Dungeons",
@@ -4231,7 +4237,7 @@
       "https://kenney.nl/media/pages/assets/scribble-dungeons/1133ea5059-1674932850/preview.png",
       "https://kenney.nl/media/pages/assets/scribble-dungeons/5b084d9272-1674932853/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/scribble-dungeons/657110bad3-1674932859/kenney_scribble-dungeons.zip"
+    "download_url": "#"
   },
   {
     "title": "Monster Builder Pack",
@@ -4268,7 +4274,7 @@
       "https://kenney.nl/media/pages/assets/monster-builder-pack/e57e392947-1677495432/preview.png",
       "https://kenney.nl/media/pages/assets/monster-builder-pack/82ac296d53-1677495442/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/monster-builder-pack/663e4ef6de-1677495438/kenney_monster-builder-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Platformer Blocks",
@@ -4307,7 +4313,7 @@
       "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/8e13a55b92-1668793620/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/dabcca7d17-1668793623/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-blocks/27d740b8b2-1668793626/kenney_pixel-platformer-blocks.zip"
+    "download_url": "#"
   },
   {
     "title": "1-Bit Platformer Pack",
@@ -4350,7 +4356,7 @@
       "https://kenney.nl/media/pages/assets/1-bit-platformer-pack/56f3b432d2-1677693067/preview.png",
       "https://kenney.nl/media/pages/assets/1-bit-platformer-pack/99c0d1a156-1677693069/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/1-bit-platformer-pack/7c1e5f05a4-1677693072/kenney_1-bit-platformer-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Micro Roguelike",
@@ -4392,7 +4398,7 @@
       "https://kenney.nl/media/pages/assets/micro-roguelike/b564082df1-1677578233/preview.png",
       "https://kenney.nl/media/pages/assets/micro-roguelike/f2c3725ce4-1677578235/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/micro-roguelike/bbcaf50993-1677578239/kenney_micro-roguelike.zip"
+    "download_url": "#"
   },
   {
     "title": "Monochrome RPG",
@@ -4433,7 +4439,7 @@
       "https://kenney.nl/media/pages/assets/monochrome-rpg/08b893d09f-1674742614/preview.png",
       "https://kenney.nl/media/pages/assets/monochrome-rpg/eec112fdaa-1674742616/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/monochrome-rpg/03f49efc13-1674742619/kenney_monochrome-rpg.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Shmup",
@@ -4474,7 +4480,7 @@
       "https://kenney.nl/media/pages/assets/pixel-shmup/9d1158f9f9-1677495741/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-shmup/43204e8358-1677495743/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-shmup/640246b9cc-1677495782/kenney_pixel-shmup.zip"
+    "download_url": "#"
   },
   {
     "title": "Input Prompts Pixel",
@@ -4517,7 +4523,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/input-prompts-pixel/018cdb0d79-1677495486/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/input-prompts-pixel/84a40a31f6-1774771309/kenney_input-prompts-pixel.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Line Platformer",
@@ -4557,7 +4563,7 @@
       "https://kenney.nl/media/pages/assets/pixel-line-platformer/5a6088c664-1677495833/preview.png",
       "https://kenney.nl/media/pages/assets/pixel-line-platformer/5fd5972410-1677495836/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-line-platformer/160da639da-1677495839/kenney_pixel-line-platformer.zip"
+    "download_url": "#"
   },
   {
     "title": "Sketch Town",
@@ -4595,7 +4601,7 @@
       "https://kenney.nl/media/pages/assets/sketch-town/23144dc08b-1677484083/preview.png",
       "https://kenney.nl/media/pages/assets/sketch-town/98a86a4e69-1677484087/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sketch-town/733b902fc6-1677484094/kenney_sketch-town.zip"
+    "download_url": "#"
   },
   {
     "title": "Simple Space",
@@ -4633,7 +4639,7 @@
       "https://kenney.nl/media/pages/assets/simple-space/76f4e4cdb2-1677578137/preview.png",
       "https://kenney.nl/media/pages/assets/simple-space/489b432d65-1677578140/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/simple-space/b9b0968a6b-1677578143/kenney_simple-space.zip"
+    "download_url": "#"
   },
   {
     "title": "Playing Cards Pack",
@@ -4673,7 +4679,7 @@
       "https://kenney.nl/media/pages/assets/playing-cards-pack/449d7612dc-1677495902/preview-a.png",
       "https://kenney.nl/media/pages/assets/playing-cards-pack/a5c38dea93-1677495905/preview-b.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/playing-cards-pack/4b345a2a5a-1677495915/kenney_playing-cards-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Sci-fi Sounds",
@@ -4710,7 +4716,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/sci-fi-sounds/112ea5fed7-1677589328/audiopreview_scifi.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sci-fi-sounds/6b296f9ecf-1677589334/kenney_sci-fi-sounds.zip"
+    "download_url": "#"
   },
   {
     "title": "Space Kit",
@@ -4748,7 +4754,7 @@
       "https://kenney.nl/media/pages/assets/space-kit/36a64be063-1677698965/preview.png",
       "https://kenney.nl/media/pages/assets/space-kit/28e67de6d9-1677698968/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Cartography Pack",
@@ -4788,7 +4794,7 @@
       "https://kenney.nl/media/pages/assets/cartography-pack/b6ffd58cbd-1677578186/preview.png",
       "https://kenney.nl/media/pages/assets/cartography-pack/84fb590466-1677578188/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/cartography-pack/2055ba99c2-1677578192/kenney_cartography-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Nature Kit",
@@ -4827,7 +4833,7 @@
       "https://kenney.nl/media/pages/assets/nature-kit/2d81fc716e-1677698893/preview.png",
       "https://kenney.nl/media/pages/assets/nature-kit/656a90532f-1677698896/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Scribble Platformer",
@@ -4865,7 +4871,7 @@
       "https://kenney.nl/media/pages/assets/scribble-platformer/579a15a3ad-1674932927/preview.png",
       "https://kenney.nl/media/pages/assets/scribble-platformer/d6a0e3a9ac-1674932930/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/scribble-platformer/d2a7aaf79a-1674932936/kenney_scribble-platformer.zip"
+    "download_url": "#"
   },
   {
     "title": "Foliage Sprites",
@@ -4904,7 +4910,7 @@
       "https://kenney.nl/media/pages/assets/foliage-sprites/ab6a7b4a06-1677495973/preview.png",
       "https://kenney.nl/media/pages/assets/foliage-sprites/634189118b-1677495976/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/foliage-sprites/b65bd70c69-1677495980/kenney_foliage-sprites.zip"
+    "download_url": "#"
   },
   {
     "title": "Animated Characters Protagonists",
@@ -4943,7 +4949,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/animated-characters-protagonists/98921ae406-1674931821/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/animated-characters-protagonists/608191acc4-1774773108/kenney_animated-characters-protagonists.zip"
+    "download_url": "#"
   },
   {
     "title": "Impact Sounds",
@@ -4979,7 +4985,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/impact-sounds/37d145475f-1677589720/audio_impact.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip"
+    "download_url": "#"
   },
   {
     "title": "Road Textures",
@@ -5017,7 +5023,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/road-textures/ff59060e3f-1677578345/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/road-textures/dbe293b0ed-1677578348/kenney_road-textures.zip"
+    "download_url": "#"
   },
   {
     "title": "Animated Characters Survivors",
@@ -5055,7 +5061,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/animated-characters-survivors/de34934a09-1674931680/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/animated-characters-survivors/27b16052a7-1774772958/kenney_animated-characters-survivors.zip"
+    "download_url": "#"
   },
   {
     "title": "Toon Characters",
@@ -5092,7 +5098,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/toon-characters/90a61601f7-1677693113/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/toon-characters/4e8a6e4e53-1774770819/kenney_toon-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel Vehicle Pack",
@@ -5129,7 +5135,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pixel-vehicle-pack/f3918c8717-1677578606/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-vehicle-pack/570a4c9051-1677578609/kenney_pixel-vehicle-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Background Elements Remastered",
@@ -5165,7 +5171,7 @@
       "https://kenney.nl/media/pages/assets/background-elements-remastered/216e4bc95c-1677693153/preview.png",
       "https://kenney.nl/media/pages/assets/background-elements-remastered/4a6494465e-1677693157/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/background-elements-remastered/7b034822ed-1774771758/kenney_background-elements-remastered.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Miniature Farm",
@@ -5202,7 +5208,7 @@
       "https://kenney.nl/media/pages/assets/isometric-miniature-farm/b7e7fe43e6-1670690278/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-miniature-farm/a627feea96-1670690281/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-farm/abd0274182-1670690319/kenney_isometric-miniature-farm.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Miniature Dungeon",
@@ -5239,7 +5245,7 @@
       "https://kenney.nl/media/pages/assets/isometric-miniature-dungeon/33941d4678-1674932237/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-miniature-dungeon/025d0440b8-1674932240/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-dungeon/bdcbf8d79d-1674932261/kenney_isometric-miniature-dungeon.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Miniature Library",
@@ -5276,7 +5282,7 @@
       "https://kenney.nl/media/pages/assets/isometric-miniature-library/81b4dc5515-1674932042/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-miniature-library/0c1b97249b-1674932044/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-library/577e09ff09-1674932086/kenney_isometric-miniature-library.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Miniature Prototype",
@@ -5313,7 +5319,7 @@
       "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8614213a64-1674932120/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/a3dd150426-1674932123/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8c46fe34a0-1674932174/kenney_isometric-miniature-prototype.zip"
+    "download_url": "#"
   },
   {
     "title": "RPG Urban Pack",
@@ -5355,7 +5361,7 @@
       "https://kenney.nl/media/pages/assets/rpg-urban-pack/2a8a959de1-1677578569/preview.png",
       "https://kenney.nl/media/pages/assets/rpg-urban-pack/ddc38bb8e5-1677578571/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/rpg-urban-pack/0a097d1dc7-1677578575/kenney_rpg-urban-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Racing Kit",
@@ -5395,7 +5401,7 @@
       "https://kenney.nl/media/pages/assets/racing-kit/dc5ecd9a41-1677580942/preview.png",
       "https://kenney.nl/media/pages/assets/racing-kit/fbc58ae3cd-1677580945/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip"
+    "download_url": "#"
   },
   {
     "title": "Emotes Pack",
@@ -5433,7 +5439,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/emotes-pack/0cae06c6af-1677578794/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/emotes-pack/d00a3dcb06-1677578798/kenney_emotes-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Particle Pack",
@@ -5472,7 +5478,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/particle-pack/d50c7fc9b6-1677578655/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/particle-pack/f8fe0f8cb8-1677578741/kenney_particle-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Simplified Platformer Pack",
@@ -5508,7 +5514,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/simplified-platformer-pack/241001fae8-1677693195/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/simplified-platformer-pack/2d06327041-1677693200/kenney_simplified-platformer-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Ranks Pack",
@@ -5545,7 +5551,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/ranks-pack/5602e87973-1677578848/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ranks-pack/6f46ba5840-1677578852/kenney_ranks-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Animal Pack Remastered",
@@ -5581,7 +5587,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/animal-pack-remastered/e08024dab7-1677666930/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/animal-pack-remastered/54a307a369-1774771709/kenney_animal-pack-remastered.zip"
+    "download_url": "#"
   },
   {
     "title": "Top-down Tanks Remastered",
@@ -5620,7 +5626,7 @@
       "https://kenney.nl/media/pages/assets/top-down-tanks-remastered/b02f2c41c8-1677666774/preview.png",
       "https://kenney.nl/media/pages/assets/top-down-tanks-remastered/eed7ec6571-1677666778/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/top-down-tanks-remastered/f24c234ed5-1774771973/kenney_top-down-tanks-remastered.zip"
+    "download_url": "#"
   },
   {
     "title": "Voiceover Pack (Fighter)",
@@ -5657,7 +5663,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/voiceover-pack-fighter/3ba8f3be6e-1677589824/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/voiceover-pack-fighter/6ceb77c6f1-1677589837/kenney_voiceover-pack-fighter.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Pack Industrial",
@@ -5697,7 +5703,7 @@
       "https://kenney.nl/media/pages/assets/platformer-pack-industrial/ea189e716a-1677696002/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-pack-industrial/54dd538533-1677696004/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-pack-industrial/f61c3a5fc4-1677696008/kenney_platformer-pack-industrial.zip"
+    "download_url": "#"
   },
   {
     "title": "Sports Pack",
@@ -5737,7 +5743,7 @@
       "https://kenney.nl/media/pages/assets/sports-pack/31866d3abe-1677693275/sample1.png",
       "https://kenney.nl/media/pages/assets/sports-pack/516e41fd50-1677693278/sample2.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sports-pack/ede5629412-1677693282/kenney_sports-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Sokoban",
@@ -5776,7 +5782,7 @@
       "https://kenney.nl/media/pages/assets/sokoban/58e3c8f489-1677579114/preview.png",
       "https://kenney.nl/media/pages/assets/sokoban/8ed55d0eea-1677579116/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sokoban/470af8da72-1677579120/kenney_sokoban-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Pirate Pack",
@@ -5815,7 +5821,7 @@
       "https://kenney.nl/media/pages/assets/pirate-pack/31ba98d029-1677579010/preview.png",
       "https://kenney.nl/media/pages/assets/pirate-pack/872e1ae7d4-1677579015/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pirate-pack/8574474ce6-1677579020/kenney_pirate-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Tanks",
@@ -5852,7 +5858,7 @@
       "https://kenney.nl/media/pages/assets/tanks/4dab56b72c-1677579055/preview.png",
       "https://kenney.nl/media/pages/assets/tanks/349c5518b6-1677579060/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tanks/d0bbede612-1677579063/kenney_tanks.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Characters",
@@ -5889,7 +5895,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/platformer-characters/753f647f75-1677693764/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-characters/b85f388c42-1677693768/kenney_platformer-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Holiday Extras",
@@ -5931,7 +5937,7 @@
       "https://kenney.nl/media/pages/assets/holiday-extras/e571ed854e-1677693822/preview.png",
       "https://kenney.nl/media/pages/assets/holiday-extras/3f313cafbf-1677693824/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/holiday-extras/215b8b985b-1774771567/kenney_holiday-extras.zip"
+    "download_url": "#"
   },
   {
     "title": "Sci-Fi RTS",
@@ -5972,7 +5978,7 @@
       "https://kenney.nl/media/pages/assets/sci-fi-rts/588b737b28-1677693644/preview.png",
       "https://kenney.nl/media/pages/assets/sci-fi-rts/f4e82fcedc-1677693646/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/sci-fi-rts/792bcb9cd5-1677693650/kenney_sci-fi-rts.zip"
+    "download_url": "#"
   },
   {
     "title": "Foliage Pack",
@@ -6009,7 +6015,7 @@
       "https://kenney.nl/media/pages/assets/foliage-pack/59ee6d6f79-1677693467/preview.png",
       "https://kenney.nl/media/pages/assets/foliage-pack/2041042bf7-1677693469/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/foliage-pack/06a6c43298-1677693473/kenney_foliage-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Space Shooter Extension",
@@ -6046,7 +6052,7 @@
       "https://kenney.nl/media/pages/assets/space-shooter-extension/ff8c1d99ae-1677693511/preview.png",
       "https://kenney.nl/media/pages/assets/space-shooter-extension/9187f6d608-1677693514/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/space-shooter-extension/d0bd70032c-1677693518/kenney_space-shooter-extension.zip"
+    "download_url": "#"
   },
   {
     "title": "Medieval RTS",
@@ -6086,7 +6092,7 @@
       "https://kenney.nl/media/pages/assets/medieval-rts/7dfb3c0141-1677693582/preview.png",
       "https://kenney.nl/media/pages/assets/medieval-rts/fdf8b5d6e5-1677693585/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/medieval-rts/0863f2c62a-1677693589/kenney_medieval-rts.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Pack Medieval",
@@ -6125,7 +6131,7 @@
       "https://kenney.nl/media/pages/assets/platformer-pack-medieval/421f9d3a45-1677696124/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-pack-medieval/8b7a0413b4-1677696126/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-pack-medieval/848792381c-1677696130/kenney_platformer-pack-medieval.zip"
+    "download_url": "#"
   },
   {
     "title": "Tower Defense (Top-Down)",
@@ -6164,7 +6170,7 @@
       "https://kenney.nl/media/pages/assets/tower-defense-top-down/430e5bc349-1677693729/preview.png",
       "https://kenney.nl/media/pages/assets/tower-defense-top-down/178c4edbbd-1677693731/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tower-defense-top-down/729844df28-1677693738/kenney_tower-defense-top-down.zip"
+    "download_url": "#"
   },
   {
     "title": "Generic Items",
@@ -6201,7 +6207,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/generic-items/3f9e6f7baf-1677666995/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/generic-items/96b9087204-1677667000/kenney_generic-items.zip"
+    "download_url": "#"
   },
   {
     "title": "Map Pack",
@@ -6241,7 +6247,7 @@
       "https://kenney.nl/media/pages/assets/map-pack/97dbb19006-1677662157/preview.png",
       "https://kenney.nl/media/pages/assets/map-pack/675a439a24-1677662159/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/map-pack/86e20aaba9-1677662163/kenney_map-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Abstract Platformer",
@@ -6280,7 +6286,7 @@
       "https://kenney.nl/media/pages/assets/abstract-platformer/de4951b001-1677579166/preview.png",
       "https://kenney.nl/media/pages/assets/abstract-platformer/c345a6a674-1677579168/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/abstract-platformer/a8f4badcb5-1677579172/kenney_abstract-platformer.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Blocks",
@@ -6317,7 +6323,7 @@
       "https://kenney.nl/media/pages/assets/isometric-blocks/05fd84d861-1677662253/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-blocks/80ab4e78eb-1677662255/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-blocks/86a0152f5b-1677662261/kenney_isometric-blocks.zip"
+    "download_url": "#"
   },
   {
     "title": "Top-down Shooter",
@@ -6356,7 +6362,7 @@
       "https://kenney.nl/media/pages/assets/top-down-shooter/d35386adbf-1677694677/preview.png",
       "https://kenney.nl/media/pages/assets/top-down-shooter/7922719534-1677694680/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/top-down-shooter/230204340a-1677694684/kenney_top-down-shooter.zip"
+    "download_url": "#"
   },
   {
     "title": "Hexagon Pack",
@@ -6395,7 +6401,7 @@
       "https://kenney.nl/media/pages/assets/hexagon-pack/1b6d989995-1677662323/preview.png",
       "https://kenney.nl/media/pages/assets/hexagon-pack/ba67de4094-1677662327/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/hexagon-pack/433cdc69d6-1677662331/kenney_hexagon-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Roguelike Modern City",
@@ -6435,7 +6441,7 @@
       "https://kenney.nl/media/pages/assets/roguelike-modern-city/147630265e-1677694736/preview.png",
       "https://kenney.nl/media/pages/assets/roguelike-modern-city/69c121b8ae-1677694738/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/roguelike-modern-city/0ff3dfff2b-1677694743/kenney_roguelike-modern-city.zip"
+    "download_url": "#"
   },
   {
     "title": "3D Road Tiles",
@@ -6472,7 +6478,7 @@
       "https://kenney.nl/media/pages/assets/3d-road-tiles/17420d1ca9-1677581256/preview.png",
       "https://kenney.nl/media/pages/assets/3d-road-tiles/525cc2181c-1677581258/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/3d-road-tiles/3fbfaa7ec8-1677581262/kenney_3d-road-tiles.zip"
+    "download_url": "#"
   },
   {
     "title": "Voiceover Pack",
@@ -6509,7 +6515,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/voiceover-pack/c0acda5198-1677589880/preview-1.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/voiceover-pack/3f7f168698-1677589897/kenney_voiceover-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Jumper Pack",
@@ -6546,7 +6552,7 @@
       "https://kenney.nl/media/pages/assets/jumper-pack/c467f064d7-1677666689/preview.png",
       "https://kenney.nl/media/pages/assets/jumper-pack/fafcb50fc8-1677666692/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/jumper-pack/4654b2d2e5-1677666699/kenney_jumper-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Shooting Gallery",
@@ -6584,7 +6590,7 @@
       "https://kenney.nl/media/pages/assets/shooting-gallery/0c71d92392-1677662381/preview.png",
       "https://kenney.nl/media/pages/assets/shooting-gallery/dcd0ff0bca-1677662383/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/shooting-gallery/9ef8a2db02-1677662387/kenney_shooting-gallery.zip"
+    "download_url": "#"
   },
   {
     "title": "Racing Pack",
@@ -6624,7 +6630,7 @@
       "https://kenney.nl/media/pages/assets/racing-pack/6a496d39f9-1677662437/preview.png",
       "https://kenney.nl/media/pages/assets/racing-pack/a747dc19d4-1677662439/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/racing-pack/c4cd68480a-1677662443/kenney_racing-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Voxel Pack",
@@ -6666,7 +6672,7 @@
       "https://kenney.nl/media/pages/assets/voxel-pack/52a25234a4-1677662495/sample_2d.png",
       "https://kenney.nl/media/pages/assets/voxel-pack/4d978bf173-1677662498/sample_3d.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/voxel-pack/a3a73d0ff7-1677662501/kenney_voxel-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Roguelike Caves & Dungeons",
@@ -6708,7 +6714,7 @@
       "https://kenney.nl/media/pages/assets/roguelike-caves-dungeons/94dc422572-1677694824/preview.png",
       "https://kenney.nl/media/pages/assets/roguelike-caves-dungeons/154aef76de-1677694827/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/roguelike-caves-dungeons/5195ceb8ca-1677694831/kenney_roguelike-caves-dungeons.zip"
+    "download_url": "#"
   },
   {
     "title": "Roguelike Indoors",
@@ -6747,7 +6753,7 @@
       "https://kenney.nl/media/pages/assets/roguelike-indoors/4f2d43f4e1-1702169574/preview.png",
       "https://kenney.nl/media/pages/assets/roguelike-indoors/3c041db86f-1677694884/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/roguelike-indoors/4d5b520b03-1702169567/kenney_roguelike-indoors.zip"
+    "download_url": "#"
   },
   {
     "title": "Alien UFO Pack",
@@ -6787,7 +6793,7 @@
       "https://kenney.nl/media/pages/assets/alien-ufo-pack/dd4f9d5dfb-1677667391/preview.png",
       "https://kenney.nl/media/pages/assets/alien-ufo-pack/ead33b4106-1677667394/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/alien-ufo-pack/6bc775e714-1677667399/kenney_alien-ufo-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Puzzle Pack 2",
@@ -6831,7 +6837,7 @@
       "https://kenney.nl/media/pages/assets/puzzle-pack-2/e0b87a1633-1677667470/sample4.png",
       "https://kenney.nl/media/pages/assets/puzzle-pack-2/f2e63abd63-1677667470/sample3.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/puzzle-pack-2/2b69820372-1677667476/kenney_puzzle-pack-2.zip"
+    "download_url": "#"
   },
   {
     "title": "Robot Pack",
@@ -6868,7 +6874,7 @@
       "https://kenney.nl/media/pages/assets/robot-pack/3110fe4c89-1677670203/preview.png",
       "https://kenney.nl/media/pages/assets/robot-pack/1d807747c9-1677670207/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/robot-pack/e545150528-1677670212/kenney_robot-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Pixel UI Pack",
@@ -6905,7 +6911,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/pixel-ui-pack/0ac499be0d-1677661504/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/pixel-ui-pack/821e760f21-1677661508/kenney_pixel-ui-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Pack Remastered",
@@ -6946,7 +6952,7 @@
       "https://kenney.nl/media/pages/assets/platformer-pack-remastered/3ba69038f5-1677696192/sample1.png",
       "https://kenney.nl/media/pages/assets/platformer-pack-remastered/1a7fb2a2fe-1677696194/sample2.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-pack-remastered/cee5812394-1774772013/kenney_platformer-pack-remastered.zip"
+    "download_url": "#"
   },
   {
     "title": "Roguelike/RPG pack",
@@ -6992,7 +6998,7 @@
       "https://kenney.nl/media/pages/assets/roguelike-rpg-pack/6b88b8d663-1677697411/sample1.png",
       "https://kenney.nl/media/pages/assets/roguelike-rpg-pack/5f73473862-1677697413/sample2.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/roguelike-rpg-pack/12c03cd78b-1677697420/kenney_roguelike-rpg-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Animal Pack",
@@ -7028,7 +7034,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/animal-pack/3562615d13-1677669990/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/animal-pack/480cf9f223-1677669996/kenney_animal-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Background Elements",
@@ -7064,7 +7070,7 @@
       "https://kenney.nl/media/pages/assets/background-elements/dc2e9037b9-1677670386/preview.png",
       "https://kenney.nl/media/pages/assets/background-elements/9432bf6d7b-1677670389/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/background-elements/b66a1ddec7-1677670395/kenney_background-elements.zip"
+    "download_url": "#"
   },
   {
     "title": "Letter Tiles",
@@ -7102,7 +7108,7 @@
       "https://kenney.nl/media/pages/assets/letter-tiles/65f1ce3a7e-1677670597/preview.png",
       "https://kenney.nl/media/pages/assets/letter-tiles/6f5e0d27e7-1677670600/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/letter-tiles/8dbe904529-1677670676/kenney_letter-tiles.zip"
+    "download_url": "#"
   },
   {
     "title": "Tower Defense",
@@ -7140,7 +7146,7 @@
       "https://kenney.nl/media/pages/assets/tower-defense/bcda5d24a1-1677699063/preview.png",
       "https://kenney.nl/media/pages/assets/tower-defense/9eb3e62ac1-1677699065/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tower-defense/39d625c6b5-1677699069/kenney_tower-defense.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Tiles Vehicles",
@@ -7177,7 +7183,7 @@
       "https://kenney.nl/media/pages/assets/isometric-tiles-vehicles/a58c19b4f1-1677695114/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-tiles-vehicles/8983055a32-1677695116/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-tiles-vehicles/34c07c3393-1677695121/kenney_isometric-vehicles.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Tiles Buildings",
@@ -7216,7 +7222,7 @@
       "https://kenney.nl/media/pages/assets/isometric-tiles-buildings/cdbefb2c03-1677694977/preview.png",
       "https://kenney.nl/media/pages/assets/isometric-tiles-buildings/bac1f1ba5a-1677694980/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-tiles-buildings/cfcdb066e1-1677694983/kenney_isometric-buildings.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Tiles City",
@@ -7254,7 +7260,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/isometric-tiles-city/7a380d24eb-1677695022/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-tiles-city/7026b2670a-1677695025/kenney_isometric-city.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Tiles Landscape",
@@ -7291,7 +7297,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/isometric-tiles-landscape/3d2ca98635-1677695068/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-tiles-landscape/37eb18a8d1-1677695072/kenney_isometric-landscape.zip"
+    "download_url": "#"
   },
   {
     "title": "Game Icons (Expansion)",
@@ -7330,7 +7336,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/game-icons-expansion/d4501d46fe-1677661639/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/game-icons-expansion/afac4593af-1677661643/kenney_game-icons-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Game Icons",
@@ -7369,7 +7375,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/game-icons/349f36a54d-1677661575/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/game-icons/1ebf9c14af-1677661579/kenney_game-icons.zip"
+    "download_url": "#"
   },
   {
     "title": "Top-Down Tanks",
@@ -7408,7 +7414,7 @@
       "https://kenney.nl/media/pages/assets/top-down-tanks/1af2d950b0-1677699014/preview.png",
       "https://kenney.nl/media/pages/assets/top-down-tanks/23b047722f-1677699016/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/top-down-tanks/0385fcb3e0-1677699019/kenney_top-down-tanks.zip"
+    "download_url": "#"
   },
   {
     "title": "Modular Characters",
@@ -7445,7 +7451,7 @@
       "https://kenney.nl/media/pages/assets/modular-characters/61170f5a1e-1677670330/preview.png",
       "https://kenney.nl/media/pages/assets/modular-characters/38079a52c2-1677670334/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/modular-characters/d84577feef-1677670340/kenney_modular-characters.zip"
+    "download_url": "#"
   },
   {
     "title": "Smoke Particles",
@@ -7484,7 +7490,7 @@
       "https://kenney.nl/media/pages/assets/smoke-particles/0e73ec90dd-1677695164/preview.png",
       "https://kenney.nl/media/pages/assets/smoke-particles/1b6cb144a9-1677695166/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/smoke-particles/23249a0d35-1677695171/kenney_smoke-particles.zip"
+    "download_url": "#"
   },
   {
     "title": "Construct Game Sources",
@@ -7523,7 +7529,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/construct-game-sources/b54d1f79d6-1677697208/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/construct-game-sources/1471077960-1677697212/kenney_construct-game-sources.zip"
+    "download_url": "#"
   },
   {
     "title": "Board Game Pack",
@@ -7561,7 +7567,7 @@
       "https://kenney.nl/media/pages/assets/boardgame-pack/5a0e6a9a5d-1677667634/preview.png",
       "https://kenney.nl/media/pages/assets/boardgame-pack/993d44b363-1677667639/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/boardgame-pack/a1656828d2-1677667644/kenney_boardgame-pack.zip"
+    "download_url": "#"
   },
   {
     "title": "Kenney Fonts",
@@ -7598,7 +7604,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/kenney-fonts/703183582c-1677661704/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/kenney-fonts/8d5435c213-1677661710/kenney_kenney-fonts.zip"
+    "download_url": "#"
   },
   {
     "title": "RPG Base",
@@ -7635,7 +7641,7 @@
       "https://kenney.nl/media/pages/assets/rpg-base/8dd74b7096-1677669625/preview.png",
       "https://kenney.nl/media/pages/assets/rpg-base/1147889926-1677669628/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/rpg-base/316dd80b01-1677669634/kenney_rpg-base.zip"
+    "download_url": "#"
   },
   {
     "title": "UI Pack (RPG Expansion)",
@@ -7675,7 +7681,7 @@
       "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/eaf7fbd2f7-1677661818/preview.png",
       "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/3cbd16d800-1677661820/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/7ec4a46657-1677661824/kenney_ui-pack-rpg-expansion.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Extended Tileset",
@@ -7712,7 +7718,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-extended-tileset/9e76711d07-1677696601/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-extended-tileset/d9219c6bd7-1677696604/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-extended-tileset/6269ed8212-1677696610/kenney_platformer-art-extended-tileset.zip"
+    "download_url": "#"
   },
   {
     "title": "Music Jingles",
@@ -7748,7 +7754,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/music-jingles/ef8668e122-1677590390/preview-5.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/music-jingles/f37e530b9e-1677590399/kenney_music-jingles.zip"
+    "download_url": "#"
   },
   {
     "title": "RPG Audio",
@@ -7786,7 +7792,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/rpg-audio/ce8569f2f8-1677590326/preview-4.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip"
+    "download_url": "#"
   },
   {
     "title": "Tappy Plane",
@@ -7825,7 +7831,7 @@
       "https://kenney.nl/media/pages/assets/tappy-plane/84ec69e4f6-1677700404/preview.png",
       "https://kenney.nl/media/pages/assets/tappy-plane/fb84b4c2ee-1677700398/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/tappy-plane/78fa8bdf8c-1677700386/kenney_tappy-plane.zip"
+    "download_url": "#"
   },
   {
     "title": "Space Shooter Remastered",
@@ -7864,7 +7870,7 @@
       "https://kenney.nl/media/pages/assets/space-shooter-remastered/41561bfade-1677669432/preview.png",
       "https://kenney.nl/media/pages/assets/space-shooter-remastered/3a292e0d18-1677669436/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/space-shooter-remastered/2cbf3c45c8-1774771931/kenney_space-shooter-remastered.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Pixel",
@@ -7905,7 +7911,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-pixel/cd488e7164-1677696728/preview-platformerpixel.png",
       "https://kenney.nl/media/pages/assets/platformer-art-pixel/e0ce345e1d-1677696731/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-pixel/7a87f3ab92-1774772636/kenney_platformer-art-pixel.zip"
+    "download_url": "#"
   },
   {
     "title": "Hexagon Buildings",
@@ -7943,7 +7949,7 @@
       "https://kenney.nl/media/pages/assets/hexagon-buildings/bedc5a8245-1677669575/preview.png",
       "https://kenney.nl/media/pages/assets/hexagon-buildings/d6884fb456-1677669578/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/hexagon-buildings/9d582923eb-1677669588/kenney_hexagon-buildings.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Deluxe",
@@ -7981,7 +7987,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-deluxe/2e16e1d817-1677696385/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-deluxe/9566833099-1677696387/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-deluxe/cb30f83169-1677696393/kenney_platformer-art-deluxe.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Extended Enemies",
@@ -8021,7 +8027,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-extended-enemies/28f63fb002-1677696509/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-extended-enemies/c0bd6a6bbd-1677696515/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-extended-enemies/38f1885b37-1677696504/kenney_platformer-art-extended-enemies.zip"
+    "download_url": "#"
   },
   {
     "title": "Hexagon Tiles",
@@ -8061,7 +8067,7 @@
       "https://kenney.nl/media/pages/assets/hexagon-tiles/0be0fb8ac5-1677669503/preview.png",
       "https://kenney.nl/media/pages/assets/hexagon-tiles/75f3c33e78-1677669506/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/hexagon-tiles/d7f21557bd-1677669510/kenney_hexagon-tiles.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Requests",
@@ -8099,7 +8105,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-requests/d5cf8f8255-1677696801/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-requests/fd618a0ff3-1677696804/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-requests/adf3dbf5c2-1677696809/kenney_platformer-art-requests.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Buildings",
@@ -8137,7 +8143,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-buildings/023244d22c-1677696281/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-buildings/16c5e863a1-1677696283/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-buildings/6aec290935-1677696287/kenney_platformer-art-buildings.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Winter",
@@ -8175,7 +8181,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-winter/c98f6875bc-1677696895/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-winter/aa086c1bbe-1677696897/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-winter/c7f8a0fd6c-1677696902/kenney_platformer-art-winter.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Bricks",
@@ -8213,7 +8219,7 @@
       "https://kenney.nl/media/pages/assets/platformer-bricks/1df05b30c6-1677668011/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-bricks/32780c823f-1677668014/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-bricks/b119bbd7a7-1677668020/kenney_platformer-bricks.zip"
+    "download_url": "#"
   },
   {
     "title": "Platformer Art Mushrooms",
@@ -8251,7 +8257,7 @@
       "https://kenney.nl/media/pages/assets/platformer-art-mushrooms/1877577a35-1677696669/preview.png",
       "https://kenney.nl/media/pages/assets/platformer-art-mushrooms/45192deb18-1677696671/sample.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/platformer-art-mushrooms/bff127274a-1677696675/kenney_platformer-art-mushrooms.zip"
+    "download_url": "#"
   },
   {
     "title": "Medals",
@@ -8289,7 +8295,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/medals/547993004d-1677699967/preview.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/medals/4ed820ff57-1677699973/kenney_medals.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Roads Water",
@@ -8326,7 +8332,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/isometric-roads-water/a06b048129-1677668451/preview.jpg"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-roads-water/a7ef067d57-1677668457/kenney_isometric-roads-water.zip"
+    "download_url": "#"
   },
   {
     "title": "Isometric Roads",
@@ -8363,7 +8369,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/isometric-roads/aff462257f-1677695242/preview.jpg"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/isometric-roads/d3b7757a28-1677695247/kenney_isometric-roads.zip"
+    "download_url": "#"
   },
   {
     "title": "Puzzle Pack 1",
@@ -8401,7 +8407,7 @@
       "https://kenney.nl/media/pages/assets/puzzle-pack-1/94974fc472-1677669223/preview.jpg",
       "https://kenney.nl/media/pages/assets/puzzle-pack-1/0a346f5b0c-1677669227/sample.jpg"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/puzzle-pack-1/627a04c0d3-1774770940/kenney_puzzle-pack-1.zip"
+    "download_url": "#"
   },
   {
     "title": "Digital Audio",
@@ -8437,7 +8443,7 @@
     "images": [
       "https://kenney.nl/media/pages/assets/digital-audio/f240714ae3-1677590256/preview-3.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/digital-audio/216eac4753-1677590265/kenney_digital-audio.zip"
+    "download_url": "#"
   },
   {
     "title": "UI Audio",
@@ -8474,6 +8480,6 @@
     "images": [
       "https://kenney.nl/media/pages/assets/ui-audio/2dbeff8f75-1677590482/preview-6.png"
     ],
-    "download_url": "https://kenney.nl/media/pages/assets/ui-audio/490d233f68-1677590494/kenney_ui-audio.zip"
+    "download_url": "#"
   }
 ]
