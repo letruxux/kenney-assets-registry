@@ -26,12 +26,17 @@
       "name": "2.0",
       "description": "Completely remade",
       "date": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "name": "2.1",
+      "description": "Floor textures",
+      "date": "2026-11-03T00:00:00.000Z"
     }
   ],
   "_extracted": {
     "createdAt": "2024-10-25T00:00:00.000Z",
-    "updatedAt": "2026-11-02T00:00:00.000Z",
-    "version": "2.0"
+    "updatedAt": "2026-11-03T00:00:00.000Z",
+    "version": "2.1"
   },
   "_raw_meta": {
     "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"tag\">store</a>",
@@ -42,11 +47,11 @@
   },
   "slug": "mini-shop",
   "images": [
-    "https://kenney.nl/media/pages/assets/mini-shop/0213688498-1793625375/preview.png",
-    "https://kenney.nl/media/pages/assets/mini-shop/dd6950b1df-1793625382/sample.png",
-    "https://kenney.nl/media/pages/assets/mini-shop/9dbdda3bd5-1793625389/preview-variation-a.png",
-    "https://kenney.nl/media/pages/assets/mini-shop/8dabda56ab-1793625395/preview-variation-b.png",
-    "https://kenney.nl/media/pages/assets/mini-shop/4b07572a34-1793625402/preview-variation-c.png"
+    "https://kenney.nl/media/pages/assets/mini-shop/0213688498-1793700384/preview.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/dd6950b1df-1793700392/sample.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/9dbdda3bd5-1793700403/preview-variation-a.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/8dabda56ab-1793700410/preview-variation-b.png",
+    "https://kenney.nl/media/pages/assets/mini-shop/4b07572a34-1793700416/preview-variation-c.png"
   ],
   "download_url": "#"
 }

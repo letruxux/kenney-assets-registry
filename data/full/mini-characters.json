@@ -11,7 +11,7 @@
     "Features": [
       "🎞️Animation"
     ],
-    "Files": 25,
+    "Files": 40,
     "License": "Creative Commons CC0"
   },
   "updates": [
@@ -19,23 +19,28 @@
       "name": "1.0",
       "description": "Released in 2024",
       "date": "2024-07-17T00:00:00.000Z"
+    },
+    {
+      "name": "2.0",
+      "description": "More characters and accessories",
+      "date": "2026-11-07T00:00:00.000Z"
     }
   ],
   "_extracted": {
     "createdAt": "2024-07-17T00:00:00.000Z",
-    "updatedAt": "2024-07-17T00:00:00.000Z",
-    "version": "1.0"
+    "updatedAt": "2026-11-07T00:00:00.000Z",
+    "version": "2.0"
   },
   "_raw_meta": {
     "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:people\" class=\"tag\">people</a><a href=\"https://kenney.nl/assets/tag:disability\" class=\"tag\">disability</a>",
     "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "Files": "25×",
+    "Files": "40×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },
   "slug": "mini-characters",
   "images": [
-    "https://kenney.nl/media/pages/assets/mini-characters/357d1a9452-1721210569/preview.png"
+    "https://kenney.nl/media/pages/assets/mini-characters/357d1a9452-1794046878/preview.png"
   ],
   "download_url": "#"
 }
