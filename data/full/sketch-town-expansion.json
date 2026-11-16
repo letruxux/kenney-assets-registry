@@ -1,0 +1,38 @@
+{
+  "title": "Sketch Town Expansion",
+  "meta": {
+    "Tags": [
+      "isometric",
+      "rpg",
+      "town"
+    ],
+    "Category": "2D",
+    "Series": "Sketch",
+    "Files": 230,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2022",
+      "date": "2022-04-13T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2022-04-13T00:00:00.000Z",
+    "updatedAt": "2022-04-13T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Sketch\">Sketch</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Files": "230×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "sketch-town-expansion",
+  "images": [
+    "https://kenney.nl/media/pages/assets/sketch-town-expansion/f9b37fa656-1677484174/preview.png",
+    "https://kenney.nl/media/pages/assets/sketch-town-expansion/5d5ae567f7-1677484177/sample.png"
+  ],
+  "download_url": "#"
+}

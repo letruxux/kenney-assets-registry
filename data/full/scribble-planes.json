@@ -1,0 +1,42 @@
+{
+  "title": "Scribble Planes",
+  "meta": {
+    "Tags": [
+      "aircraft",
+      "shmup",
+      "plane",
+      "shooter",
+      "top-down"
+    ],
+    "Category": "2D",
+    "Series": "Scribble",
+    "Tile size": "64 × 64",
+    "Files": 110,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2026",
+      "date": "2026-11-15T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2026-11-15T00:00:00.000Z",
+    "updatedAt": "2026-11-15T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:aircraft\" class=\"tag\">aircraft</a><a href=\"https://kenney.nl/assets/tag:shmup\" class=\"tag\">shmup</a><a href=\"https://kenney.nl/assets/tag:plane\" class=\"tag\">plane</a><a href=\"https://kenney.nl/assets/tag:shooter\" class=\"tag\">shooter</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a>",
+    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Scribble\">Scribble</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tile size": "<a href=\"https://kenney.nl/assets/size:64\">64 × 64</a>",
+    "Files": "110×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "scribble-planes",
+  "images": [
+    "https://kenney.nl/media/pages/assets/scribble-planes/c9778e619d-1794782040/preview.png",
+    "https://kenney.nl/media/pages/assets/scribble-planes/a56cad99c7-1794782043/sample.png"
+  ],
+  "download_url": "#"
+}
