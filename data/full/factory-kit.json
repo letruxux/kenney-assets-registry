@@ -1,15 +1,7 @@
 {
   "title": "Factory Kit",
   "meta": {
-    "Tags": [
-      "conveyor",
-      "belt",
-      "industrial",
-      "warehouse",
-      "factory"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎨Variation(s)",
       "🎞️Animation"
@@ -50,8 +42,7 @@
     "version": "3.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:belt\" class=\"tag\">belt</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"tag\">warehouse</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"tag\">factory</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:conveyor\" class=\"asset-tag\">conveyor</a><a href=\"https://kenney.nl/assets/tag:belt\" class=\"asset-tag\">belt</a><a href=\"https://kenney.nl/assets/tag:industrial\" class=\"asset-tag\">industrial</a><a href=\"https://kenney.nl/assets/tag:warehouse\" class=\"asset-tag\">warehouse</a><a href=\"https://kenney.nl/assets/tag:factory\" class=\"asset-tag\">factory</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "140×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

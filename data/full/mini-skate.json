@@ -1,12 +1,7 @@
 {
   "title": "Mini Skate",
   "meta": {
-    "Tags": [
-      "skateboard",
-      "park"
-    ],
-    "Category": "3D",
-    "Series": "Mini",
+    "Tags": [],
     "Features": [
       "🎞️Animation",
       "🎨Variation(s)"
@@ -37,8 +32,7 @@
     "version": "2.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:skateboard\" class=\"tag\">skateboard</a><a href=\"https://kenney.nl/assets/tag:park\" class=\"tag\">park</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:skateboard\" class=\"asset-tag\">skateboard</a><a href=\"https://kenney.nl/assets/tag:park\" class=\"asset-tag\">park</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "40×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

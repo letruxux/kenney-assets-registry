@@ -1,14 +1,7 @@
 {
   "title": "RPG Audio",
   "meta": {
-    "Tags": [
-      "foley",
-      "rpg",
-      "footstep",
-      "weapon"
-    ],
-    "Category": "Audio",
-    "Series": "",
+    "Tags": [],
     "Files": 50,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:foley\" class=\"tag\">foley</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:footstep\" class=\"tag\">footstep</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"tag\">weapon</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:foley\" class=\"asset-tag\">foley</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"asset-tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:footstep\" class=\"asset-tag\">footstep</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"asset-tag\">weapon</a>",
     "Files": "50×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

@@ -1,16 +1,7 @@
 {
   "title": "Minimap Pack",
   "meta": {
-    "Tags": [
-      "minimap",
-      "search action",
-      "metroidvania",
-      "map",
-      "pixel",
-      "ui"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Tile size": "8 × 8",
     "Files": 150,
     "License": "Creative Commons CC0"
@@ -28,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:minimap\" class=\"tag\">minimap</a><a href=\"https://kenney.nl/assets/tag:search action\" class=\"tag\">search action</a><a href=\"https://kenney.nl/assets/tag:metroidvania\" class=\"tag\">metroidvania</a><a href=\"https://kenney.nl/assets/tag:map\" class=\"tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:ui\" class=\"tag\">ui</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:minimap\" class=\"asset-tag\">minimap</a><a href=\"https://kenney.nl/assets/tag:search action\" class=\"asset-tag\">search action</a><a href=\"https://kenney.nl/assets/tag:metroidvania\" class=\"asset-tag\">metroidvania</a><a href=\"https://kenney.nl/assets/tag:map\" class=\"asset-tag\">map</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"asset-tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:ui\" class=\"asset-tag\">ui</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:8\">8 × 8</a>",
     "Files": "150×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

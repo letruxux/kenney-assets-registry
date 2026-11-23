@@ -1,14 +1,7 @@
 {
   "title": "Pirate Pack",
   "meta": {
-    "Tags": [
-      "ship",
-      "pirate",
-      "top-down",
-      "tile"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 190,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:ship\" class=\"asset-tag\">ship</a><a href=\"https://kenney.nl/assets/tag:pirate\" class=\"asset-tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"asset-tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"asset-tag\">tile</a>",
     "Files": "190×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

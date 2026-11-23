@@ -1,14 +1,7 @@
 {
   "title": "Mini Shop",
   "meta": {
-    "Tags": [
-      "shop",
-      "market",
-      "supermarket",
-      "store"
-    ],
-    "Category": "3D",
-    "Series": "Mini",
+    "Tags": [],
     "Features": [
       "🎞️Animation",
       "🎨Variation(s)"
@@ -39,8 +32,7 @@
     "version": "2.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"tag\">store</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:shop\" class=\"asset-tag\">shop</a><a href=\"https://kenney.nl/assets/tag:market\" class=\"asset-tag\">market</a><a href=\"https://kenney.nl/assets/tag:supermarket\" class=\"asset-tag\">supermarket</a><a href=\"https://kenney.nl/assets/tag:store\" class=\"asset-tag\">store</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "30×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

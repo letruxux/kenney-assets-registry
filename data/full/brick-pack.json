@@ -1,14 +1,7 @@
 {
   "title": "Brick Pack",
   "meta": {
-    "Tags": [
-      "platformer",
-      "brick",
-      "building",
-      "oopi"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 106,
     "License": "Creative Commons CC0"
   },
@@ -30,8 +23,7 @@
     "version": "2.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:brick\" class=\"tag\">brick</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:brick\" class=\"asset-tag\">brick</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"asset-tag\">building</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"asset-tag\">oopi</a>",
     "Files": "106×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

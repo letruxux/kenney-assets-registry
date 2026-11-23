@@ -1,15 +1,7 @@
 {
   "title": "Racing Kit",
   "meta": {
-    "Tags": [
-      "racing",
-      "tile",
-      "track",
-      "vehicle",
-      "car"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 110,
     "License": "Creative Commons CC0"
   },
@@ -26,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:racing\" class=\"tag\">racing</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:car\" class=\"tag\">car</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:racing\" class=\"asset-tag\">racing</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"asset-tag\">tile</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"asset-tag\">track</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:car\" class=\"asset-tag\">car</a>",
     "Files": "110×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

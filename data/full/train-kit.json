@@ -1,16 +1,7 @@
 {
   "title": "Train Kit",
   "meta": {
-    "Tags": [
-      "train",
-      "tram",
-      "trolley",
-      "track",
-      "railroad",
-      "rail"
-    ],
-    "Category": "3D",
-    "Series": "Transport",
+    "Tags": [],
     "Files": 100,
     "License": "Creative Commons CC0"
   },
@@ -32,8 +23,7 @@
     "version": "1.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:train\" class=\"tag\">train</a><a href=\"https://kenney.nl/assets/tag:tram\" class=\"tag\">tram</a><a href=\"https://kenney.nl/assets/tag:trolley\" class=\"tag\">trolley</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a><a href=\"https://kenney.nl/assets/tag:railroad\" class=\"tag\">railroad</a><a href=\"https://kenney.nl/assets/tag:rail\" class=\"tag\">rail</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:train\" class=\"asset-tag\">train</a><a href=\"https://kenney.nl/assets/tag:tram\" class=\"asset-tag\">tram</a><a href=\"https://kenney.nl/assets/tag:trolley\" class=\"asset-tag\">trolley</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"asset-tag\">track</a><a href=\"https://kenney.nl/assets/tag:railroad\" class=\"asset-tag\">railroad</a><a href=\"https://kenney.nl/assets/tag:rail\" class=\"asset-tag\">rail</a>",
     "Files": "100×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

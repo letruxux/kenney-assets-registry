@@ -1,13 +1,7 @@
 {
   "title": "Particle Pack",
   "meta": {
-    "Tags": [
-      "particle",
-      "shader",
-      "vfx"
-    ],
-    "Category": "2D",
-    "Series": "VFX",
+    "Tags": [],
     "Tile size": "512 × 512",
     "Files": 80,
     "License": "Creative Commons CC0"
@@ -25,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:particle\" class=\"tag\">particle</a><a href=\"https://kenney.nl/assets/tag:shader\" class=\"tag\">shader</a><a href=\"https://kenney.nl/assets/tag:vfx\" class=\"tag\">vfx</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:VFX\">VFX</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:particle\" class=\"asset-tag\">particle</a><a href=\"https://kenney.nl/assets/tag:shader\" class=\"asset-tag\">shader</a><a href=\"https://kenney.nl/assets/tag:vfx\" class=\"asset-tag\">vfx</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:512\">512 × 512</a>",
     "Files": "80×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

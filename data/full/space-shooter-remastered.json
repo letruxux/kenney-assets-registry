@@ -1,14 +1,7 @@
 {
   "title": "Space Shooter Remastered",
   "meta": {
-    "Tags": [
-      "vehicle",
-      "space",
-      "weapon",
-      "laser"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 295,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"tag\">weapon</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"tag\">laser</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"asset-tag\">weapon</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"asset-tag\">laser</a>",
     "Files": "295×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

@@ -1,13 +1,7 @@
 {
   "title": "Fish Pack",
   "meta": {
-    "Tags": [
-      "fish",
-      "underwater",
-      "animal"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 120,
     "License": "Creative Commons CC0"
   },
@@ -29,8 +23,7 @@
     "version": "2.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:fish\" class=\"tag\">fish</a><a href=\"https://kenney.nl/assets/tag:underwater\" class=\"tag\">underwater</a><a href=\"https://kenney.nl/assets/tag:animal\" class=\"tag\">animal</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:fish\" class=\"asset-tag\">fish</a><a href=\"https://kenney.nl/assets/tag:underwater\" class=\"asset-tag\">underwater</a><a href=\"https://kenney.nl/assets/tag:animal\" class=\"asset-tag\">animal</a>",
     "Files": "120×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

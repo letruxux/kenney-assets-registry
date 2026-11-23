@@ -1,14 +1,7 @@
 {
   "title": "Toy Car Kit",
   "meta": {
-    "Tags": [
-      "car",
-      "vehicle",
-      "toy",
-      "track"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎨Variation(s)"
     ],
@@ -33,8 +26,7 @@
     "version": "1.2"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:car\" class=\"tag\">car</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:toy\" class=\"tag\">toy</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:car\" class=\"asset-tag\">car</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:toy\" class=\"asset-tag\">toy</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"asset-tag\">track</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "100×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

@@ -1,12 +1,7 @@
 {
   "title": "Pixel Platformer Blocks",
   "meta": {
-    "Tags": [
-      "blocks",
-      "pixel"
-    ],
-    "Category": "2D",
-    "Series": "Pixel Platformer",
+    "Tags": [],
     "Tile size": "18 × 18",
     "Files": 80,
     "License": "Creative Commons CC0"
@@ -24,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:blocks\" class=\"tag\">blocks</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Pixel Platformer\">Pixel Platformer</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:blocks\" class=\"asset-tag\">blocks</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"asset-tag\">pixel</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:18\">18 × 18</a>",
     "Files": "80×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

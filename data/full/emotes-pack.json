@@ -1,14 +1,7 @@
 {
   "title": "Emotes Pack",
   "meta": {
-    "Tags": [
-      "emote",
-      "icon",
-      "balloon",
-      "interface"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 480,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:emote\" class=\"tag\">emote</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"tag\">icon</a><a href=\"https://kenney.nl/assets/tag:balloon\" class=\"tag\">balloon</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:emote\" class=\"asset-tag\">emote</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"asset-tag\">icon</a><a href=\"https://kenney.nl/assets/tag:balloon\" class=\"asset-tag\">balloon</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a>",
     "Files": "480×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

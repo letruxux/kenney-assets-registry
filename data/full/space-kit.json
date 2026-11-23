@@ -1,13 +1,7 @@
 {
   "title": "Space Kit",
   "meta": {
-    "Tags": [
-      "planet",
-      "ship",
-      "space"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 150,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:planet\" class=\"tag\">planet</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:planet\" class=\"asset-tag\">planet</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"asset-tag\">ship</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a>",
     "Files": "150×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

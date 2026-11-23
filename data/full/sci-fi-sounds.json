@@ -1,13 +1,7 @@
 {
   "title": "Sci-fi Sounds",
   "meta": {
-    "Tags": [
-      "sci-fi",
-      "space",
-      "engine"
-    ],
-    "Category": "Audio",
-    "Series": "",
+    "Tags": [],
     "Files": 70,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:engine\" class=\"tag\">engine</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"asset-tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:engine\" class=\"asset-tag\">engine</a>",
     "Files": "70×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

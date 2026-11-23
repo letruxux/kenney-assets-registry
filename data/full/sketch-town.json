@@ -1,13 +1,7 @@
 {
   "title": "Sketch Town",
   "meta": {
-    "Tags": [
-      "town",
-      "rpg",
-      "isometric"
-    ],
-    "Category": "2D",
-    "Series": "Sketch",
+    "Tags": [],
     "Files": 340,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Sketch\">Sketch</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:town\" class=\"asset-tag\">town</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"asset-tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:isometric\" class=\"asset-tag\">isometric</a>",
     "Files": "340×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

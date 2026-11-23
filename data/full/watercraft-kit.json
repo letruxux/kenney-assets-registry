@@ -1,14 +1,7 @@
 {
   "title": "Watercraft Kit",
   "meta": {
-    "Tags": [
-      "boat",
-      "ship",
-      "watercraft",
-      "vehicle"
-    ],
-    "Category": "3D",
-    "Series": "Transport",
+    "Tags": [],
     "Files": 45,
     "License": "Creative Commons CC0"
   },
@@ -35,8 +28,7 @@
     "version": "2.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:watercraft\" class=\"tag\">watercraft</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Transport\">Transport</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:boat\" class=\"asset-tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"asset-tag\">ship</a><a href=\"https://kenney.nl/assets/tag:watercraft\" class=\"asset-tag\">watercraft</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a>",
     "Files": "45×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

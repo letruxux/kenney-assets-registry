@@ -1,14 +1,7 @@
 {
   "title": "Brick Kit",
   "meta": {
-    "Tags": [
-      "brick",
-      "toy",
-      "plastic",
-      "building"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 290,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:brick\" class=\"tag\">brick</a><a href=\"https://kenney.nl/assets/tag:toy\" class=\"tag\">toy</a><a href=\"https://kenney.nl/assets/tag:plastic\" class=\"tag\">plastic</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:brick\" class=\"asset-tag\">brick</a><a href=\"https://kenney.nl/assets/tag:toy\" class=\"asset-tag\">toy</a><a href=\"https://kenney.nl/assets/tag:plastic\" class=\"asset-tag\">plastic</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"asset-tag\">building</a>",
     "Files": "290×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

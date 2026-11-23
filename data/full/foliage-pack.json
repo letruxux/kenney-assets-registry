@@ -1,12 +1,7 @@
 {
   "title": "Foliage Pack",
   "meta": {
-    "Tags": [
-      "nature",
-      "tree"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 100,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:nature\" class=\"tag\">nature</a><a href=\"https://kenney.nl/assets/tag:tree\" class=\"tag\">tree</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:nature\" class=\"asset-tag\">nature</a><a href=\"https://kenney.nl/assets/tag:tree\" class=\"asset-tag\">tree</a>",
     "Files": "100×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

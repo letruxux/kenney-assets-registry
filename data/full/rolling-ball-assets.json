@@ -1,0 +1,31 @@
+{
+  "title": "Rolling Ball Assets",
+  "meta": {
+    "Tags": [],
+    "Files": 60,
+    "License": "Creative Commons CC0"
+  },
+  "updates": [
+    {
+      "name": "1.0",
+      "description": "Released in 2020",
+      "date": "2020-12-11T00:00:00.000Z"
+    }
+  ],
+  "_extracted": {
+    "createdAt": "2020-12-11T00:00:00.000Z",
+    "updatedAt": "2020-12-11T00:00:00.000Z",
+    "version": "1.0"
+  },
+  "_raw_meta": {
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:ball\" class=\"asset-tag\">ball</a><a href=\"https://kenney.nl/assets/tag:top-down\" class=\"asset-tag\">top-down</a>",
+    "Files": "60×",
+    "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
+  },
+  "slug": "rolling-ball-assets",
+  "images": [
+    "https://kenney.nl/media/pages/assets/rolling-ball-assets/199a44044b-1677495683/preview.png",
+    "https://kenney.nl/media/pages/assets/rolling-ball-assets/41181d8cea-1677495687/sample.png"
+  ],
+  "download_url": "#"
+}

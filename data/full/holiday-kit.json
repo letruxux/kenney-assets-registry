@@ -1,14 +1,7 @@
 {
   "title": "Holiday Kit",
   "meta": {
-    "Tags": [
-      "holiday",
-      "christmas",
-      "tree",
-      "cabin"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎞️Animation"
     ],
@@ -33,8 +26,7 @@
     "version": "2.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:holiday\" class=\"tag\">holiday</a><a href=\"https://kenney.nl/assets/tag:christmas\" class=\"tag\">christmas</a><a href=\"https://kenney.nl/assets/tag:tree\" class=\"tag\">tree</a><a href=\"https://kenney.nl/assets/tag:cabin\" class=\"tag\">cabin</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:holiday\" class=\"asset-tag\">holiday</a><a href=\"https://kenney.nl/assets/tag:christmas\" class=\"asset-tag\">christmas</a><a href=\"https://kenney.nl/assets/tag:tree\" class=\"asset-tag\">tree</a><a href=\"https://kenney.nl/assets/tag:cabin\" class=\"asset-tag\">cabin</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "100×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

@@ -1,13 +1,7 @@
 {
   "title": "City Kit (Roads)",
   "meta": {
-    "Tags": [
-      "road",
-      "city",
-      "town"
-    ],
-    "Category": "3D",
-    "Series": "City",
+    "Tags": [],
     "Features": [
       "🎨Variation(s)"
     ],
@@ -42,8 +36,7 @@
     "version": "2.2"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"tag\">town</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:City\">City</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:road\" class=\"asset-tag\">road</a><a href=\"https://kenney.nl/assets/tag:city\" class=\"asset-tag\">city</a><a href=\"https://kenney.nl/assets/tag:town\" class=\"asset-tag\">town</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "90×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

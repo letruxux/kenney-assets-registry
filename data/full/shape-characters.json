@@ -1,13 +1,7 @@
 {
   "title": "Shape Characters",
   "meta": {
-    "Tags": [
-      "characters",
-      "geometric",
-      "shape"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 100,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:characters\" class=\"tag\">characters</a><a href=\"https://kenney.nl/assets/tag:geometric\" class=\"tag\">geometric</a><a href=\"https://kenney.nl/assets/tag:shape\" class=\"tag\">shape</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:characters\" class=\"asset-tag\">characters</a><a href=\"https://kenney.nl/assets/tag:geometric\" class=\"asset-tag\">geometric</a><a href=\"https://kenney.nl/assets/tag:shape\" class=\"asset-tag\">shape</a>",
     "Files": "100×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

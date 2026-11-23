@@ -1,16 +1,7 @@
 {
   "title": "Pirate Kit",
   "meta": {
-    "Tags": [
-      "pirate",
-      "boat",
-      "ship",
-      "island",
-      "tropical",
-      "character"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎞️Animation"
     ],
@@ -40,8 +31,7 @@
     "version": "2.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:boat\" class=\"tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"tag\">ship</a><a href=\"https://kenney.nl/assets/tag:island\" class=\"tag\">island</a><a href=\"https://kenney.nl/assets/tag:tropical\" class=\"tag\">tropical</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pirate\" class=\"asset-tag\">pirate</a><a href=\"https://kenney.nl/assets/tag:boat\" class=\"asset-tag\">boat</a><a href=\"https://kenney.nl/assets/tag:ship\" class=\"asset-tag\">ship</a><a href=\"https://kenney.nl/assets/tag:island\" class=\"asset-tag\">island</a><a href=\"https://kenney.nl/assets/tag:tropical\" class=\"asset-tag\">tropical</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"asset-tag\">character</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "70×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

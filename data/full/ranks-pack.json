@@ -1,13 +1,7 @@
 {
   "title": "Ranks Pack",
   "meta": {
-    "Tags": [
-      "rank",
-      "medal",
-      "interface"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 70,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:rank\" class=\"tag\">rank</a><a href=\"https://kenney.nl/assets/tag:medal\" class=\"tag\">medal</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rank\" class=\"asset-tag\">rank</a><a href=\"https://kenney.nl/assets/tag:medal\" class=\"asset-tag\">medal</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a>",
     "Files": "70×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

@@ -1,13 +1,7 @@
 {
   "title": "Generic Items",
   "meta": {
-    "Tags": [
-      "items",
-      "tools",
-      "household"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 160,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:items\" class=\"tag\">items</a><a href=\"https://kenney.nl/assets/tag:tools\" class=\"tag\">tools</a><a href=\"https://kenney.nl/assets/tag:household\" class=\"tag\">household</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:items\" class=\"asset-tag\">items</a><a href=\"https://kenney.nl/assets/tag:tools\" class=\"asset-tag\">tools</a><a href=\"https://kenney.nl/assets/tag:household\" class=\"asset-tag\">household</a>",
     "Files": "160×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

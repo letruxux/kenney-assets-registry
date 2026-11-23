@@ -1,16 +1,7 @@
 {
   "title": "Fantasy UI Borders",
   "meta": {
-    "Tags": [
-      "panel",
-      "button",
-      "interface",
-      "decorative",
-      "rpg",
-      "fantasy"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 140,
     "License": "Creative Commons CC0"
   },
@@ -27,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a><a href=\"https://kenney.nl/assets/tag:decorative\" class=\"tag\">decorative</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:fantasy\" class=\"tag\">fantasy</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:panel\" class=\"asset-tag\">panel</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"asset-tag\">button</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a><a href=\"https://kenney.nl/assets/tag:decorative\" class=\"asset-tag\">decorative</a><a href=\"https://kenney.nl/assets/tag:rpg\" class=\"asset-tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:fantasy\" class=\"asset-tag\">fantasy</a>",
     "Files": "140×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

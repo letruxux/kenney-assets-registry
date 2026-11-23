@@ -1,14 +1,7 @@
 {
   "title": "Tower Defense (Top-Down)",
   "meta": {
-    "Tags": [
-      "top-down",
-      "defense",
-      "tower",
-      "weapon"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 300,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:top-down\" class=\"tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:defense\" class=\"tag\">defense</a><a href=\"https://kenney.nl/assets/tag:tower\" class=\"tag\">tower</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"tag\">weapon</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:top-down\" class=\"asset-tag\">top-down</a><a href=\"https://kenney.nl/assets/tag:defense\" class=\"asset-tag\">defense</a><a href=\"https://kenney.nl/assets/tag:tower\" class=\"asset-tag\">tower</a><a href=\"https://kenney.nl/assets/tag:weapon\" class=\"asset-tag\">weapon</a>",
     "Files": "300×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

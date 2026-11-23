@@ -1,15 +1,7 @@
 {
   "title": "Alien UFO Pack",
   "meta": {
-    "Tags": [
-      "alien",
-      "ufo",
-      "character",
-      "vehicle",
-      "oopi"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 50,
     "License": "Creative Commons CC0"
   },
@@ -26,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:alien\" class=\"tag\">alien</a><a href=\"https://kenney.nl/assets/tag:ufo\" class=\"tag\">ufo</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:alien\" class=\"asset-tag\">alien</a><a href=\"https://kenney.nl/assets/tag:ufo\" class=\"asset-tag\">ufo</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"asset-tag\">character</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"asset-tag\">oopi</a>",
     "Files": "50×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

@@ -1,12 +1,7 @@
 {
   "title": "RPG Base",
   "meta": {
-    "Tags": [
-      "rpg",
-      "tile"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 230,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rpg\" class=\"asset-tag\">rpg</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"asset-tag\">tile</a>",
     "Files": "230×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

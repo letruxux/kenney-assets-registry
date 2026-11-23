@@ -1,16 +1,7 @@
 {
   "title": "Coaster Kit",
   "meta": {
-    "Tags": [
-      "rollercoaster",
-      "coaster",
-      "theme park",
-      "attraction",
-      "ride",
-      "track"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 180,
     "License": "Creative Commons CC0"
   },
@@ -27,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:rollercoaster\" class=\"tag\">rollercoaster</a><a href=\"https://kenney.nl/assets/tag:coaster\" class=\"tag\">coaster</a><a href=\"https://kenney.nl/assets/tag:theme park\" class=\"tag\">theme park</a><a href=\"https://kenney.nl/assets/tag:attraction\" class=\"tag\">attraction</a><a href=\"https://kenney.nl/assets/tag:ride\" class=\"tag\">ride</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"tag\">track</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:rollercoaster\" class=\"asset-tag\">rollercoaster</a><a href=\"https://kenney.nl/assets/tag:coaster\" class=\"asset-tag\">coaster</a><a href=\"https://kenney.nl/assets/tag:theme park\" class=\"asset-tag\">theme park</a><a href=\"https://kenney.nl/assets/tag:attraction\" class=\"asset-tag\">attraction</a><a href=\"https://kenney.nl/assets/tag:ride\" class=\"asset-tag\">ride</a><a href=\"https://kenney.nl/assets/tag:track\" class=\"asset-tag\">track</a>",
     "Files": "180×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

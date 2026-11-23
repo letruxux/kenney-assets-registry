@@ -1,12 +1,7 @@
 {
   "title": "Monster Builder Pack",
   "meta": {
-    "Tags": [
-      "monster",
-      "creature"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 170,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:monster\" class=\"tag\">monster</a><a href=\"https://kenney.nl/assets/tag:creature\" class=\"tag\">creature</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:monster\" class=\"asset-tag\">monster</a><a href=\"https://kenney.nl/assets/tag:creature\" class=\"asset-tag\">creature</a>",
     "Files": "170×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

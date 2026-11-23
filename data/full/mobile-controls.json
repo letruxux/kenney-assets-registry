@@ -1,15 +1,7 @@
 {
   "title": "Mobile Controls",
   "meta": {
-    "Tags": [
-      "control",
-      "prompt",
-      "button",
-      "hud",
-      "interface"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 900,
     "License": "Creative Commons CC0"
   },
@@ -26,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:control\" class=\"tag\">control</a><a href=\"https://kenney.nl/assets/tag:prompt\" class=\"tag\">prompt</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a><a href=\"https://kenney.nl/assets/tag:hud\" class=\"tag\">hud</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:control\" class=\"asset-tag\">control</a><a href=\"https://kenney.nl/assets/tag:prompt\" class=\"asset-tag\">prompt</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"asset-tag\">button</a><a href=\"https://kenney.nl/assets/tag:hud\" class=\"asset-tag\">hud</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a>",
     "Files": "900×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

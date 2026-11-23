@@ -1,12 +1,7 @@
 {
   "title": "Digital Audio",
   "meta": {
-    "Tags": [
-      "space",
-      "laser"
-    ],
-    "Category": "Audio",
-    "Series": "",
+    "Tags": [],
     "Files": 60,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"tag\">laser</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:laser\" class=\"asset-tag\">laser</a>",
     "Files": "60×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

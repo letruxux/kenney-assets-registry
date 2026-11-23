@@ -1,14 +1,7 @@
 {
   "title": "Board Game Icons",
   "meta": {
-    "Tags": [
-      "board",
-      "icon",
-      "card",
-      "interface"
-    ],
-    "Category": "2D",
-    "Series": "Board Games",
+    "Tags": [],
     "Files": 250,
     "License": "Creative Commons CC0"
   },
@@ -30,8 +23,7 @@
     "version": "1.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:board\" class=\"tag\">board</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"tag\">icon</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"tag\">card</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:board\" class=\"asset-tag\">board</a><a href=\"https://kenney.nl/assets/tag:icon\" class=\"asset-tag\">icon</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"asset-tag\">card</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a>",
     "Files": "250×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

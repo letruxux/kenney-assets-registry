@@ -1,14 +1,7 @@
 {
   "title": "Skyboxes Space",
   "meta": {
-    "Tags": [
-      "skybox",
-      "space",
-      "galaxy",
-      "nebula"
-    ],
-    "Category": "Textures",
-    "Series": "Skyboxes",
+    "Tags": [],
     "Files": 5,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:skybox\" class=\"tag\">skybox</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:galaxy\" class=\"tag\">galaxy</a><a href=\"https://kenney.nl/assets/tag:nebula\" class=\"tag\">nebula</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Skyboxes\">Skyboxes</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:skybox\" class=\"asset-tag\">skybox</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:galaxy\" class=\"asset-tag\">galaxy</a><a href=\"https://kenney.nl/assets/tag:nebula\" class=\"asset-tag\">nebula</a>",
     "Files": "5×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

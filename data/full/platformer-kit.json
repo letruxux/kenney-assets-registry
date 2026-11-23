@@ -1,13 +1,7 @@
 {
   "title": "Platformer Kit",
   "meta": {
-    "Tags": [
-      "platformer",
-      "level",
-      "oopi"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎞️Animation",
       "🎨Variation(s)"
@@ -43,8 +37,7 @@
     "version": "4.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:level\" class=\"tag\">level</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"tag\">oopi</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:level\" class=\"asset-tag\">level</a><a href=\"https://kenney.nl/assets/tag:oopi\" class=\"asset-tag\">oopi</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "150×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

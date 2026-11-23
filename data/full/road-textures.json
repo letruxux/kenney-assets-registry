@@ -1,12 +1,7 @@
 {
   "title": "Road Textures",
   "meta": {
-    "Tags": [
-      "texture",
-      "road"
-    ],
-    "Category": "Textures",
-    "Series": "",
+    "Tags": [],
     "Tile size": "64 × 64",
     "Files": 90,
     "License": "Creative Commons CC0"
@@ -24,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:texture\" class=\"tag\">texture</a><a href=\"https://kenney.nl/assets/tag:road\" class=\"tag\">road</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:texture\" class=\"asset-tag\">texture</a><a href=\"https://kenney.nl/assets/tag:road\" class=\"asset-tag\">road</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:64\">64 × 64</a>",
     "Files": "90×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

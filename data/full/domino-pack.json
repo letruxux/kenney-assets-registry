@@ -1,13 +1,7 @@
 {
   "title": "Domino Pack",
   "meta": {
-    "Tags": [
-      "domino",
-      "boardgame",
-      "tile"
-    ],
-    "Category": "2D",
-    "Series": "Board Games",
+    "Tags": [],
     "Files": 30,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:domino\" class=\"tag\">domino</a><a href=\"https://kenney.nl/assets/tag:boardgame\" class=\"tag\">boardgame</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Board Games\">Board Games</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:domino\" class=\"asset-tag\">domino</a><a href=\"https://kenney.nl/assets/tag:boardgame\" class=\"asset-tag\">boardgame</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"asset-tag\">tile</a>",
     "Files": "30×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

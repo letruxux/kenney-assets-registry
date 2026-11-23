@@ -1,15 +1,7 @@
 {
   "title": "Animated Characters Protagonists",
   "meta": {
-    "Tags": [
-      "character",
-      "skater",
-      "skating",
-      "cyborg",
-      "criminal"
-    ],
-    "Category": "3D",
-    "Series": "Animated Characters",
+    "Tags": [],
     "Files": 8,
     "License": "Creative Commons CC0"
   },
@@ -26,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:skater\" class=\"tag\">skater</a><a href=\"https://kenney.nl/assets/tag:skating\" class=\"tag\">skating</a><a href=\"https://kenney.nl/assets/tag:cyborg\" class=\"tag\">cyborg</a><a href=\"https://kenney.nl/assets/tag:criminal\" class=\"tag\">criminal</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Animated Characters\">Animated Characters</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"asset-tag\">character</a><a href=\"https://kenney.nl/assets/tag:skater\" class=\"asset-tag\">skater</a><a href=\"https://kenney.nl/assets/tag:skating\" class=\"asset-tag\">skating</a><a href=\"https://kenney.nl/assets/tag:cyborg\" class=\"asset-tag\">cyborg</a><a href=\"https://kenney.nl/assets/tag:criminal\" class=\"asset-tag\">criminal</a>",
     "Files": "8×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

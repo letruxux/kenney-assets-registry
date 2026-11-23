@@ -1,15 +1,7 @@
 {
   "title": "Casino Audio",
   "meta": {
-    "Tags": [
-      "foley",
-      "casino",
-      "card",
-      "dice",
-      "chip"
-    ],
-    "Category": "Audio",
-    "Series": "",
+    "Tags": [],
     "Files": 50,
     "License": "Creative Commons CC0"
   },
@@ -31,8 +23,7 @@
     "version": "1.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:foley\" class=\"tag\">foley</a><a href=\"https://kenney.nl/assets/tag:casino\" class=\"tag\">casino</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"tag\">card</a><a href=\"https://kenney.nl/assets/tag:dice\" class=\"tag\">dice</a><a href=\"https://kenney.nl/assets/tag:chip\" class=\"tag\">chip</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:foley\" class=\"asset-tag\">foley</a><a href=\"https://kenney.nl/assets/tag:casino\" class=\"asset-tag\">casino</a><a href=\"https://kenney.nl/assets/tag:card\" class=\"asset-tag\">card</a><a href=\"https://kenney.nl/assets/tag:dice\" class=\"asset-tag\">dice</a><a href=\"https://kenney.nl/assets/tag:chip\" class=\"asset-tag\">chip</a>",
     "Files": "50×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

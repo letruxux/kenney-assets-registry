@@ -1,17 +1,7 @@
 {
   "title": "Prototype Kit",
   "meta": {
-    "Tags": [
-      "prototype",
-      "animal",
-      "wheelchair",
-      "character",
-      "vehicle",
-      "wall",
-      "building"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎞️Animation",
       "🎨Variation(s)"
@@ -32,8 +22,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:prototype\" class=\"tag\">prototype</a><a href=\"https://kenney.nl/assets/tag:animal\" class=\"tag\">animal</a><a href=\"https://kenney.nl/assets/tag:wheelchair\" class=\"tag\">wheelchair</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:wall\" class=\"tag\">wall</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"tag\">building</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:prototype\" class=\"asset-tag\">prototype</a><a href=\"https://kenney.nl/assets/tag:animal\" class=\"asset-tag\">animal</a><a href=\"https://kenney.nl/assets/tag:wheelchair\" class=\"asset-tag\">wheelchair</a><a href=\"https://kenney.nl/assets/tag:character\" class=\"asset-tag\">character</a><a href=\"https://kenney.nl/assets/tag:vehicle\" class=\"asset-tag\">vehicle</a><a href=\"https://kenney.nl/assets/tag:wall\" class=\"asset-tag\">wall</a><a href=\"https://kenney.nl/assets/tag:building\" class=\"asset-tag\">building</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "145×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

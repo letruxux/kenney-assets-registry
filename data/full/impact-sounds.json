@@ -1,12 +1,7 @@
 {
   "title": "Impact Sounds",
   "meta": {
-    "Tags": [
-      "impact",
-      "foley"
-    ],
-    "Category": "Audio",
-    "Series": "",
+    "Tags": [],
     "Files": 130,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:impact\" class=\"tag\">impact</a><a href=\"https://kenney.nl/assets/tag:foley\" class=\"tag\">foley</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:impact\" class=\"asset-tag\">impact</a><a href=\"https://kenney.nl/assets/tag:foley\" class=\"asset-tag\">foley</a>",
     "Files": "130×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

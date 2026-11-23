@@ -1,14 +1,7 @@
 {
   "title": "Pattern Pack Lines",
   "meta": {
-    "Tags": [
-      "pattern",
-      "texture",
-      "seamless",
-      "vfx"
-    ],
-    "Category": "Textures",
-    "Series": "Patterns",
+    "Tags": [],
     "Files": 60,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:pattern\" class=\"tag\">pattern</a><a href=\"https://kenney.nl/assets/tag:texture\" class=\"tag\">texture</a><a href=\"https://kenney.nl/assets/tag:seamless\" class=\"tag\">seamless</a><a href=\"https://kenney.nl/assets/tag:vfx\" class=\"tag\">vfx</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Patterns\">Patterns</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pattern\" class=\"asset-tag\">pattern</a><a href=\"https://kenney.nl/assets/tag:texture\" class=\"asset-tag\">texture</a><a href=\"https://kenney.nl/assets/tag:seamless\" class=\"asset-tag\">seamless</a><a href=\"https://kenney.nl/assets/tag:vfx\" class=\"asset-tag\">vfx</a>",
     "Files": "60×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

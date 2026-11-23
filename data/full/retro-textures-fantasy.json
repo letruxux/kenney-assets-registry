@@ -1,12 +1,7 @@
 {
   "title": "Retro Textures Fantasy",
   "meta": {
-    "Tags": [
-      "retro",
-      "texture"
-    ],
-    "Category": "Textures",
-    "Series": "Retro",
+    "Tags": [],
     "Files": 115,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:retro\" class=\"tag\">retro</a><a href=\"https://kenney.nl/assets/tag:texture\" class=\"tag\">texture</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Textures\">Textures</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Retro\">Retro</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:retro\" class=\"asset-tag\">retro</a><a href=\"https://kenney.nl/assets/tag:texture\" class=\"asset-tag\">texture</a>",
     "Files": "115×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

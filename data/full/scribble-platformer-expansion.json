@@ -1,11 +1,7 @@
 {
   "title": "Scribble Platformer Expansion",
   "meta": {
-    "Tags": [
-      "platformer"
-    ],
-    "Category": "2D",
-    "Series": "Scribble",
+    "Tags": [],
     "Tile size": "64 × 64",
     "Files": 70,
     "License": "Creative Commons CC0"
@@ -23,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Scribble\">Scribble</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:64\">64 × 64</a>",
     "Files": "70×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

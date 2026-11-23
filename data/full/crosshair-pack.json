@@ -1,14 +1,7 @@
 {
   "title": "Crosshair Pack",
   "meta": {
-    "Tags": [
-      "crosshair",
-      "shooter",
-      "fps",
-      "interface"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Tile size": "64 × 64",
     "Files": 200,
     "License": "Creative Commons CC0"
@@ -31,8 +24,7 @@
     "version": "1.1"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:crosshair\" class=\"tag\">crosshair</a><a href=\"https://kenney.nl/assets/tag:shooter\" class=\"tag\">shooter</a><a href=\"https://kenney.nl/assets/tag:fps\" class=\"tag\">fps</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"tag\">interface</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:crosshair\" class=\"asset-tag\">crosshair</a><a href=\"https://kenney.nl/assets/tag:shooter\" class=\"asset-tag\">shooter</a><a href=\"https://kenney.nl/assets/tag:fps\" class=\"asset-tag\">fps</a><a href=\"https://kenney.nl/assets/tag:interface\" class=\"asset-tag\">interface</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:64\">64 × 64</a>",
     "Files": "200×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

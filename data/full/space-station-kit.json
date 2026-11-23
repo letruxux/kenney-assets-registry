@@ -1,14 +1,7 @@
 {
   "title": "Space Station Kit",
   "meta": {
-    "Tags": [
-      "space",
-      "station",
-      "sci-fi",
-      "interior"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 90,
     "License": "Creative Commons CC0"
   },
@@ -25,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:station\" class=\"tag\">station</a><a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:interior\" class=\"tag\">interior</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:station\" class=\"asset-tag\">station</a><a href=\"https://kenney.nl/assets/tag:sci-fi\" class=\"asset-tag\">sci-fi</a><a href=\"https://kenney.nl/assets/tag:interior\" class=\"asset-tag\">interior</a>",
     "Files": "90×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

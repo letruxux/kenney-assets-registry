@@ -1,13 +1,7 @@
 {
   "title": "Voiceover Pack",
   "meta": {
-    "Tags": [
-      "voice",
-      "female",
-      "male"
-    ],
-    "Category": "Audio",
-    "Series": "Voiceover",
+    "Tags": [],
     "Files": 90,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:voice\" class=\"tag\">voice</a><a href=\"https://kenney.nl/assets/tag:female\" class=\"tag\">female</a><a href=\"https://kenney.nl/assets/tag:male\" class=\"tag\">male</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Audio\">Audio</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Voiceover\">Voiceover</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:voice\" class=\"asset-tag\">voice</a><a href=\"https://kenney.nl/assets/tag:female\" class=\"asset-tag\">female</a><a href=\"https://kenney.nl/assets/tag:male\" class=\"asset-tag\">male</a>",
     "Files": "90×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

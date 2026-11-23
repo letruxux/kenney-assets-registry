@@ -1,15 +1,7 @@
 {
   "title": "Graveyard Kit",
   "meta": {
-    "Tags": [
-      "graveyard",
-      "halloween",
-      "horror",
-      "monster",
-      "spooky"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Features": [
       "🎞️Animation"
     ],
@@ -44,8 +36,7 @@
     "version": "5.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:graveyard\" class=\"tag\">graveyard</a><a href=\"https://kenney.nl/assets/tag:halloween\" class=\"tag\">halloween</a><a href=\"https://kenney.nl/assets/tag:horror\" class=\"tag\">horror</a><a href=\"https://kenney.nl/assets/tag:monster\" class=\"tag\">monster</a><a href=\"https://kenney.nl/assets/tag:spooky\" class=\"tag\">spooky</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:graveyard\" class=\"asset-tag\">graveyard</a><a href=\"https://kenney.nl/assets/tag:halloween\" class=\"asset-tag\">halloween</a><a href=\"https://kenney.nl/assets/tag:horror\" class=\"asset-tag\">horror</a><a href=\"https://kenney.nl/assets/tag:monster\" class=\"asset-tag\">monster</a><a href=\"https://kenney.nl/assets/tag:spooky\" class=\"asset-tag\">spooky</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "90×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

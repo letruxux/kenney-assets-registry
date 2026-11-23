@@ -1,13 +1,7 @@
 {
   "title": "Platformer Art Mushrooms",
   "meta": {
-    "Tags": [
-      "platformer",
-      "tile",
-      "mushroom"
-    ],
-    "Category": "2D",
-    "Series": "Platformer Pack",
+    "Tags": [],
     "Files": 50,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"tag\">tile</a><a href=\"https://kenney.nl/assets/tag:mushroom\" class=\"tag\">mushroom</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Platformer Pack\">Platformer Pack</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:tile\" class=\"asset-tag\">tile</a><a href=\"https://kenney.nl/assets/tag:mushroom\" class=\"asset-tag\">mushroom</a>",
     "Files": "50×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

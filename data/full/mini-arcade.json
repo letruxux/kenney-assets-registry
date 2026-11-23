@@ -1,14 +1,7 @@
 {
   "title": "Mini Arcade",
   "meta": {
-    "Tags": [
-      "arcade",
-      "game",
-      "machine",
-      "play"
-    ],
-    "Category": "3D",
-    "Series": "Mini",
+    "Tags": [],
     "Features": [
       "🎞️Animation",
       "🎨Variation(s)"
@@ -39,8 +32,7 @@
     "version": "1.2"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:arcade\" class=\"tag\">arcade</a><a href=\"https://kenney.nl/assets/tag:game\" class=\"tag\">game</a><a href=\"https://kenney.nl/assets/tag:machine\" class=\"tag\">machine</a><a href=\"https://kenney.nl/assets/tag:play\" class=\"tag\">play</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t• <a href=\"https://kenney.nl/assets/series:Mini\">Mini</a> \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:arcade\" class=\"asset-tag\">arcade</a><a href=\"https://kenney.nl/assets/tag:game\" class=\"asset-tag\">game</a><a href=\"https://kenney.nl/assets/tag:machine\" class=\"asset-tag\">machine</a><a href=\"https://kenney.nl/assets/tag:play\" class=\"asset-tag\">play</a>",
     "Features": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎞️</span>Animation</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"feature\"><span style=\"padding-right:0.25em\">🎨</span>Variation(s)</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "Files": "20×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

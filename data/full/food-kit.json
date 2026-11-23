@@ -1,13 +1,7 @@
 {
   "title": "Food Kit",
   "meta": {
-    "Tags": [
-      "food",
-      "kitchen",
-      "eat"
-    ],
-    "Category": "3D",
-    "Series": "",
+    "Tags": [],
     "Files": 200,
     "License": "Creative Commons CC0"
   },
@@ -29,8 +23,7 @@
     "version": "2.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:food\" class=\"tag\">food</a><a href=\"https://kenney.nl/assets/tag:kitchen\" class=\"tag\">kitchen</a><a href=\"https://kenney.nl/assets/tag:eat\" class=\"tag\">eat</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:3D\">3D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:food\" class=\"asset-tag\">food</a><a href=\"https://kenney.nl/assets/tag:kitchen\" class=\"asset-tag\">kitchen</a><a href=\"https://kenney.nl/assets/tag:eat\" class=\"asset-tag\">eat</a>",
     "Files": "200×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

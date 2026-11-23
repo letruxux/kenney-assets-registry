@@ -1,12 +1,7 @@
 {
   "title": "Modular Characters",
   "meta": {
-    "Tags": [
-      "character",
-      "modular"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 425,
     "License": "Creative Commons CC0"
   },
@@ -23,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"tag\">character</a><a href=\"https://kenney.nl/assets/tag:modular\" class=\"tag\">modular</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:character\" class=\"asset-tag\">character</a><a href=\"https://kenney.nl/assets/tag:modular\" class=\"asset-tag\">modular</a>",
     "Files": "425×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

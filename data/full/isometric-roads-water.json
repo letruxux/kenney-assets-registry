@@ -1,13 +1,7 @@
 {
   "title": "Isometric Roads Water",
   "meta": {
-    "Tags": [
-      "isometric",
-      "landscape",
-      "water"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 40,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:landscape\" class=\"tag\">landscape</a><a href=\"https://kenney.nl/assets/tag:water\" class=\"tag\">water</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:isometric\" class=\"asset-tag\">isometric</a><a href=\"https://kenney.nl/assets/tag:landscape\" class=\"asset-tag\">landscape</a><a href=\"https://kenney.nl/assets/tag:water\" class=\"asset-tag\">water</a>",
     "Files": "40×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

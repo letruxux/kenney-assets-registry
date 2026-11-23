@@ -1,13 +1,7 @@
 {
   "title": "Pixel Line Platformer",
   "meta": {
-    "Tags": [
-      "platformer",
-      "godot",
-      "pixel"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Tile size": "16 × 16",
     "Files": 60,
     "License": "Creative Commons CC0"
@@ -25,8 +19,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:godot\" class=\"tag\">godot</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:godot\" class=\"asset-tag\">godot</a><a href=\"https://kenney.nl/assets/tag:pixel\" class=\"asset-tag\">pixel</a>",
     "Tile size": "<a href=\"https://kenney.nl/assets/size:16\">16 × 16</a>",
     "Files": "60×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"

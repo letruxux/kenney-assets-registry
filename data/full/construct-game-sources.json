@@ -1,15 +1,7 @@
 {
   "title": "Construct Game Sources",
   "meta": {
-    "Tags": [
-      "platformer",
-      "physics",
-      "space",
-      "cards",
-      "source"
-    ],
-    "Category": "Other",
-    "Series": "",
+    "Tags": [],
     "Files": 6,
     "License": "Creative Commons CC0"
   },
@@ -26,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:physics\" class=\"tag\">physics</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"tag\">space</a><a href=\"https://kenney.nl/assets/tag:cards\" class=\"tag\">cards</a><a href=\"https://kenney.nl/assets/tag:source\" class=\"tag\">source</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:Other\">Other</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:platformer\" class=\"asset-tag\">platformer</a><a href=\"https://kenney.nl/assets/tag:physics\" class=\"asset-tag\">physics</a><a href=\"https://kenney.nl/assets/tag:space\" class=\"asset-tag\">space</a><a href=\"https://kenney.nl/assets/tag:cards\" class=\"asset-tag\">cards</a><a href=\"https://kenney.nl/assets/tag:source\" class=\"asset-tag\">source</a>",
     "Files": "6×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },

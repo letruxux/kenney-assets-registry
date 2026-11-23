@@ -1,13 +1,7 @@
 {
   "title": "Pixel UI Pack",
   "meta": {
-    "Tags": [
-      "pixel",
-      "panel",
-      "button"
-    ],
-    "Category": "2D",
-    "Series": "",
+    "Tags": [],
     "Files": 750,
     "License": "Creative Commons CC0"
   },
@@ -24,8 +18,7 @@
     "version": "1.0"
   },
   "_raw_meta": {
-    "Tags": "<a href=\"https://kenney.nl/assets/tag:pixel\" class=\"tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"tag\">panel</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"tag\">button</a>",
-    "Category": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a href=\"https://kenney.nl/assets/category:2D\">2D</a>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+    "Tags": "<a href=\"https://kenney.nl/assets/tag:pixel\" class=\"asset-tag\">pixel</a><a href=\"https://kenney.nl/assets/tag:panel\" class=\"asset-tag\">panel</a><a href=\"https://kenney.nl/assets/tag:button\" class=\"asset-tag\">button</a>",
     "Files": "750×",
     "License": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons CC0</a>"
   },
