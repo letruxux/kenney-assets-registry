@@ -123,7 +123,7 @@ async function fetchAssetPage(url: string) {
 
   updates.sort((a, b) => (a.date?.getTime() ?? 0) - (b.date?.getTime() ?? 0));
 
-  const downloadUrl = $("a#donate-text").attr("href");
+  const downloadUrl = null;
 
   const createdAt = updates[0]?.date ?? null;
   const updatedAt = updates[updates.length - 1]?.date ?? null;
